@@ -1,0 +1,3986 @@
+{
+    "Date": "2021-05-11",
+    "Total Match": 219,
+    "result": [
+        {
+            "team": "/burnley-fulham/gsT",
+            "h2h_score": [
+                {
+                    "Date": "17/02/21",
+                    "Burnley ": 1,
+                    "Fulham ": 1
+                },
+                {
+                    "Date": "24/01/21",
+                    "Fulham ": 0,
+                    "Burnley ": 3
+                },
+                {
+                    "Date": "12/01/19",
+                    "Burnley ": 2,
+                    "Fulham ": 1
+                }
+            ]
+        },
+        {
+            "team": "/manchester-united-leicester-city/GK",
+            "h2h_score": [
+                {
+                    "Date": "21/03/21",
+                    "Leicester City ": 3,
+                    "Manchester United ": 1
+                },
+                {
+                    "Date": "26/12/20",
+                    "Leicester City ": 2,
+                    "Manchester United ": 2
+                },
+                {
+                    "Date": "26/07/20",
+                    "Leicester City ": 0,
+                    "Manchester United ": 2
+                },
+                {
+                    "Date": "14/09/19",
+                    "Manchester United ": 1,
+                    "Leicester City ": 0
+                }
+            ]
+        },
+        {
+            "team": "/granada-real-betis/qgbsEAn",
+            "h2h_score": [
+                {
+                    "Date": "20/12/20",
+                    "Granada ": 2,
+                    "Real Betis ": 0
+                },
+                {
+                    "Date": "05/09/20",
+                    "Real Betis ": 3,
+                    "Granada ": 2
+                },
+                {
+                    "Date": "16/06/20",
+                    "Real Betis ": 2,
+                    "Granada ": 2
+                },
+                {
+                    "Date": "27/10/19",
+                    "Granada ": 1,
+                    "Real Betis ": 0
+                }
+            ]
+        },
+        {
+            "team": "/cadiz-osasuna/vgbsNOb",
+            "h2h_score": [
+                {
+                    "Date": "13/09/20",
+                    "C\u00e1diz ": 0,
+                    "Osasuna ": 2
+                },
+                {
+                    "Date": "19/05/19",
+                    "C\u00e1diz ": 0,
+                    "Osasuna ": 0
+                },
+                {
+                    "Date": "06/01/19",
+                    "Osasuna ": 2,
+                    "C\u00e1diz ": 1
+                },
+                {
+                    "Date": "03/03/18",
+                    "Osasuna ": 1,
+                    "C\u00e1diz ": 0
+                }
+            ]
+        },
+        {
+            "team": "/deportivo-alaves-elche-cf/WgbsKhb",
+            "h2h_score": [
+                {
+                    "Date": "18/10/20",
+                    "Deportivo Alav\u00e9s ": 0,
+                    "Elche CF ": 2
+                },
+                {
+                    "Date": "23/04/16",
+                    "Deportivo Alav\u00e9s ": 0,
+                    "Elche CF ": 0
+                },
+                {
+                    "Date": "22/11/15",
+                    "Elche CF ": 0,
+                    "Deportivo Alav\u00e9s ": 1
+                },
+                {
+                    "Date": "05/04/09",
+                    "Elche CF ": 1,
+                    "Deportivo Alav\u00e9s ": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-porto-sc-farense/Yjbsckb",
+            "h2h_score": [
+                {
+                    "Date": "26/01/21",
+                    "SC Farense ": 0,
+                    "FC Porto ": 1
+                }
+            ]
+        },
+        {
+            "team": "/rio-ave-cd-santa-clara/lkbsLkb",
+            "h2h_score": [
+                {
+                    "Date": "25/01/21",
+                    "Rio Ave ": 1,
+                    "CD Santa Clara ": 2
+                },
+                {
+                    "Date": "18/07/20",
+                    "Rio Ave ": 2,
+                    "CD Santa Clara ": 2
+                },
+                {
+                    "Date": "11/01/20",
+                    "CD Santa Clara ": 0,
+                    "Rio Ave ": 1
+                },
+                {
+                    "Date": "20/07/19",
+                    "Rio Ave ": 1,
+                    "CD Santa Clara ": 1
+                }
+            ]
+        },
+        {
+            "team": "/tondela-belenenses-sad/ekbsWrp",
+            "h2h_score": [
+                {
+                    "Date": "25/01/21",
+                    "Belenenses SAD ": 2,
+                    "Tondela ": 0
+                },
+                {
+                    "Date": "01/07/20",
+                    "Belenenses SAD ": 1,
+                    "Tondela ": 1
+                },
+                {
+                    "Date": "01/12/19",
+                    "Tondela ": 0,
+                    "Belenenses SAD ": 1
+                },
+                {
+                    "Date": "19/01/19",
+                    "Belenenses SAD ": 2,
+                    "Tondela ": 2
+                }
+            ]
+        },
+        {
+            "team": "/cd-nacional-sl-benfica/gkbsnkb",
+            "h2h_score": [
+                {
+                    "Date": "25/01/21",
+                    "SL Benfica ": 1,
+                    "CD Nacional ": 1
+                },
+                {
+                    "Date": "10/02/19",
+                    "SL Benfica ": 10,
+                    "CD Nacional ": 0
+                },
+                {
+                    "Date": "02/09/18",
+                    "CD Nacional ": 0,
+                    "SL Benfica ": 4
+                },
+                {
+                    "Date": "05/02/17",
+                    "SL Benfica ": 3,
+                    "CD Nacional ": 0
+                }
+            ]
+        },
+        {
+            "team": "/konyaspor-trabzonspor/blbsKlb",
+            "h2h_score": [
+                {
+                    "Date": "19/01/21",
+                    "Trabzonspor ": 3,
+                    "Konyaspor ": 1
+                },
+                {
+                    "Date": "19/07/20",
+                    "Trabzonspor ": 3,
+                    "Konyaspor ": 4
+                },
+                {
+                    "Date": "23/12/19",
+                    "Konyaspor ": 0,
+                    "Trabzonspor ": 1
+                },
+                {
+                    "Date": "12/05/19",
+                    "Konyaspor ": 2,
+                    "Trabzonspor ": 2
+                }
+            ]
+        },
+        {
+            "team": "/alanyaspor-bb-erzurumspor/mCcsdmx",
+            "h2h_score": [
+                {
+                    "Date": "21/01/21",
+                    "BB Erzurumspor ": 1,
+                    "Alanyaspor ": 1
+                },
+                {
+                    "Date": "14/01/21",
+                    "Alanyaspor ": 4,
+                    "BB Erzurumspor ": 1
+                },
+                {
+                    "Date": "10/03/19",
+                    "Alanyaspor ": 2,
+                    "BB Erzurumspor ": 1
+                },
+                {
+                    "Date": "06/10/18",
+                    "BB Erzurumspor ": 1,
+                    "Alanyaspor ": 0
+                }
+            ]
+        },
+        {
+            "team": "/basaksehir-fk-kayserispor/xlbsLlb",
+            "h2h_score": [
+                {
+                    "Date": "19/01/21",
+                    "Kayserispor ": 2,
+                    "Ba\u015fak\u015fehir FK ": 0
+                },
+                {
+                    "Date": "19/07/20",
+                    "Ba\u015fak\u015fehir FK ": 1,
+                    "Kayserispor ": 0
+                },
+                {
+                    "Date": "22/12/19",
+                    "Kayserispor ": 1,
+                    "Ba\u015fak\u015fehir FK ": 4
+                },
+                {
+                    "Date": "17/03/19",
+                    "Kayserispor ": 1,
+                    "Ba\u015fak\u015fehir FK ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fatih-karagumruk-besiktas/albseZb",
+            "h2h_score": [
+                {
+                    "Date": "21/01/21",
+                    "Fatih Karag\u00fcmr\u00fck ": 1,
+                    "Be\u015fikta\u015f ": 4
+                }
+            ]
+        },
+        {
+            "team": "/galatasaray-denizlispor/ilbsllb",
+            "h2h_score": [
+                {
+                    "Date": "20/01/21",
+                    "Galatasaray ": 6,
+                    "Denizlispor ": 1
+                },
+                {
+                    "Date": "19/01/20",
+                    "Galatasaray ": 2,
+                    "Denizlispor ": 1
+                },
+                {
+                    "Date": "16/08/19",
+                    "Denizlispor ": 2,
+                    "Galatasaray ": 0
+                },
+                {
+                    "Date": "10/11/10",
+                    "Galatasaray ": 3,
+                    "Denizlispor ": 1
+                }
+            ]
+        },
+        {
+            "team": "/sivasspor-fenerbahce/clbsBlb",
+            "h2h_score": [
+                {
+                    "Date": "21/01/21",
+                    "Sivasspor ": 1,
+                    "Fenerbah\u00e7e ": 1
+                },
+                {
+                    "Date": "05/09/20",
+                    "Fenerbah\u00e7e ": 1,
+                    "Sivasspor ": 0
+                },
+                {
+                    "Date": "12/07/20",
+                    "Fenerbah\u00e7e ": 1,
+                    "Sivasspor ": 2
+                },
+                {
+                    "Date": "15/12/19",
+                    "Sivasspor ": 3,
+                    "Fenerbah\u00e7e ": 1
+                }
+            ]
+        },
+        {
+            "team": "/gaziantep-fk-caykur-rizespor/olbsNcc",
+            "h2h_score": [
+                {
+                    "Date": "20/01/21",
+                    "\u00c7aykur Rizespor ": 3,
+                    "Gaziantep FK ": 0
+                },
+                {
+                    "Date": "17/02/20",
+                    "Gaziantep FK ": 2,
+                    "\u00c7aykur Rizespor ": 0
+                },
+                {
+                    "Date": "22/09/19",
+                    "\u00c7aykur Rizespor ": 1,
+                    "Gaziantep FK ": 2
+                },
+                {
+                    "Date": "05/05/18",
+                    "\u00c7aykur Rizespor ": 4,
+                    "Gaziantep FK ": 2
+                }
+            ]
+        },
+        {
+            "team": "/genclerbirligi-goztepe/elbscgd",
+            "h2h_score": [
+                {
+                    "Date": "19/01/21",
+                    "G\u00f6ztepe ": 4,
+                    "Gen\u00e7lerbirli\u011fi ": 0
+                },
+                {
+                    "Date": "11/07/20",
+                    "G\u00f6ztepe ": 1,
+                    "Gen\u00e7lerbirli\u011fi ": 3
+                },
+                {
+                    "Date": "14/12/19",
+                    "Gen\u00e7lerbirli\u011fi ": 3,
+                    "G\u00f6ztepe ": 1
+                },
+                {
+                    "Date": "19/02/18",
+                    "Gen\u00e7lerbirli\u011fi ": 3,
+                    "G\u00f6ztepe ": 0
+                }
+            ]
+        },
+        {
+            "team": "/kasimpasa-mke-ankaragucu/dmbsnwc",
+            "h2h_score": [
+                {
+                    "Date": "21/01/21",
+                    "MKE Ankarag\u00fcc\u00fc ": 1,
+                    "Kas\u0131mpa\u015fa ": 0
+                },
+                {
+                    "Date": "02/02/20",
+                    "MKE Ankarag\u00fcc\u00fc ": 1,
+                    "Kas\u0131mpa\u015fa ": 1
+                },
+                {
+                    "Date": "30/08/19",
+                    "Kas\u0131mpa\u015fa ": 0,
+                    "MKE Ankarag\u00fcc\u00fc ": 1
+                },
+                {
+                    "Date": "11/02/19",
+                    "MKE Ankarag\u00fcc\u00fc ": 3,
+                    "Kas\u0131mpa\u015fa ": 0
+                }
+            ]
+        },
+        {
+            "team": "/hatayspor-yeni-malatyaspor/QlbsjVj",
+            "h2h_score": [
+                {
+                    "Date": "20/01/21",
+                    "Hatayspor ": 1,
+                    "Yeni Malatyaspor ": 2
+                },
+                {
+                    "Date": "20/05/14",
+                    "Hatayspor ": 4,
+                    "Yeni Malatyaspor ": 1
+                },
+                {
+                    "Date": "16/05/14",
+                    "Yeni Malatyaspor ": 1,
+                    "Hatayspor ": 0
+                },
+                {
+                    "Date": "13/04/14",
+                    "Yeni Malatyaspor ": 1,
+                    "Hatayspor ": 0
+                }
+            ]
+        },
+        {
+            "team": "/sporting-gijon-cd-lugo/chbsHLj",
+            "h2h_score": [
+                {
+                    "Date": "05/01/21",
+                    "CD Lugo ": 0,
+                    "Sporting Gij\u00f3n ": 0
+                },
+                {
+                    "Date": "30/08/20",
+                    "Sporting Gij\u00f3n ": 1,
+                    "CD Lugo ": 2
+                },
+                {
+                    "Date": "28/06/20",
+                    "Sporting Gij\u00f3n ": 2,
+                    "CD Lugo ": 0
+                },
+                {
+                    "Date": "15/12/19",
+                    "CD Lugo ": 1,
+                    "Sporting Gij\u00f3n ": 2
+                }
+            ]
+        },
+        {
+            "team": "/hamburger-sv-1-fc-nurnberg/yabsBdb",
+            "h2h_score": [
+                {
+                    "Date": "09/01/21",
+                    "1. FC N\u00fcrnberg ": 1,
+                    "Hamburger SV ": 1
+                },
+                {
+                    "Date": "31/01/20",
+                    "Hamburger SV ": 4,
+                    "1. FC N\u00fcrnberg ": 1
+                },
+                {
+                    "Date": "06/08/19",
+                    "1. FC N\u00fcrnberg ": 0,
+                    "Hamburger SV ": 4
+                },
+                {
+                    "Date": "05/02/19",
+                    "Hamburger SV ": 1,
+                    "1. FC N\u00fcrnberg ": 0
+                }
+            ]
+        },
+        {
+            "team": "/sc-rheindorf-altach-skn-st-polten/uRsgXb",
+            "h2h_score": [
+                {
+                    "Date": "10/04/21",
+                    "SC Rheindorf Altach ": 1,
+                    "SKN St. P\u00f6lten ": 0
+                },
+                {
+                    "Date": "14/03/21",
+                    "SKN St. P\u00f6lten ": 0,
+                    "SC Rheindorf Altach ": 1
+                },
+                {
+                    "Date": "05/12/20",
+                    "SC Rheindorf Altach ": 0,
+                    "SKN St. P\u00f6lten ": 4
+                },
+                {
+                    "Date": "04/07/20",
+                    "SKN St. P\u00f6lten ": 2,
+                    "SC Rheindorf Altach ": 0
+                }
+            ]
+        },
+        {
+            "team": "/flyeralarm-admira-sv-ried/ZPsaQ",
+            "h2h_score": [
+                {
+                    "Date": "10/04/21",
+                    "Flyeralarm Admira ": 0,
+                    "SV Ried ": 2
+                },
+                {
+                    "Date": "30/01/21",
+                    "SV Ried ": 0,
+                    "Flyeralarm Admira ": 0
+                },
+                {
+                    "Date": "03/10/20",
+                    "Flyeralarm Admira ": 3,
+                    "SV Ried ": 1
+                },
+                {
+                    "Date": "06/05/17",
+                    "SV Ried ": 1,
+                    "Flyeralarm Admira ": 0
+                }
+            ]
+        },
+        {
+            "team": "/dalian-pro-tianjin-jinmen-tiger/rrbsLYu",
+            "h2h_score": [
+                {
+                    "Date": "31/10/20",
+                    "Tianjin Jinmen Tiger ": 1,
+                    "Dalian Pro ": 2
+                },
+                {
+                    "Date": "26/10/20",
+                    "Dalian Pro ": 0,
+                    "Tianjin Jinmen Tiger ": 2
+                },
+                {
+                    "Date": "20/07/19",
+                    "Tianjin Jinmen Tiger ": 3,
+                    "Dalian Pro ": 3
+                }
+            ]
+        },
+        {
+            "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+            "h2h_score": [
+                {
+                    "Date": "26/11/20",
+                    "Shanghai Port ": 0,
+                    "Changchun Yatai ": 4
+                },
+                {
+                    "Date": "22/09/18",
+                    "Shanghai Port ": 3,
+                    "Changchun Yatai ": 1
+                },
+                {
+                    "Date": "29/04/18",
+                    "Changchun Yatai ": 2,
+                    "Shanghai Port ": 1
+                }
+            ]
+        },
+        {
+            "team": "/nk-lokomotiva-zagreb-nk-istra-1961/EkksWzo",
+            "h2h_score": [
+                {
+                    "Date": "13/03/21",
+                    "NK Lokomotiva Zagreb ": 0,
+                    "NK Istra 1961 ": 1
+                },
+                {
+                    "Date": "10/03/21",
+                    "NK Istra 1961 ": 3,
+                    "NK Lokomotiva Zagreb ": 1
+                },
+                {
+                    "Date": "13/01/21",
+                    "NK Istra 1961 ": 1,
+                    "NK Lokomotiva Zagreb ": 0
+                },
+                {
+                    "Date": "02/10/20",
+                    "NK Lokomotiva Zagreb ": 0,
+                    "NK Istra 1961 ": 0
+                }
+            ]
+        },
+        {
+            "team": "/nk-osijek-hnk-sibenik/EPsPP",
+            "h2h_score": [
+                {
+                    "Date": "14/03/21",
+                    "HNK \u0160ibenik ": 0,
+                    "NK Osijek ": 4
+                },
+                {
+                    "Date": "19/12/20",
+                    "NK Osijek ": 1,
+                    "HNK \u0160ibenik ": 0
+                },
+                {
+                    "Date": "03/10/20",
+                    "HNK \u0160ibenik ": 0,
+                    "NK Osijek ": 2
+                },
+                {
+                    "Date": "26/10/16",
+                    "HNK \u0160ibenik ": 1,
+                    "NK Osijek ": 2
+                }
+            ]
+        },
+        {
+            "team": "/utc-de-cajamarca-universitario-de-deportes/fWsehK",
+            "h2h_score": [
+                {
+                    "Date": "10/11/20",
+                    "Universitario de Deportes ": 1,
+                    "UTC de Cajamarca ": 6
+                },
+                {
+                    "Date": "06/10/20",
+                    "UTC de Cajamarca ": 1,
+                    "Universitario de Deportes ": 3
+                },
+                {
+                    "Date": "18/11/19",
+                    "UTC de Cajamarca ": 1,
+                    "Universitario de Deportes ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-vaduz-young-boys/VYsnZ",
+            "h2h_score": [
+                {
+                    "Date": "06/03/21",
+                    "Young Boys ": 1,
+                    "FC Vaduz ": 1
+                },
+                {
+                    "Date": "24/01/21",
+                    "FC Vaduz ": 0,
+                    "Young Boys ": 0
+                },
+                {
+                    "Date": "04/10/20",
+                    "Young Boys ": 1,
+                    "FC Vaduz ": 0
+                },
+                {
+                    "Date": "26/06/19",
+                    "FC Vaduz ": 1,
+                    "Young Boys ": 0
+                }
+            ]
+        },
+        {
+            "team": "/pohang-steelers-incheon-united/Ycdsadd",
+            "h2h_score": [
+                {
+                    "Date": "28/02/21",
+                    "Pohang Steelers ": 2,
+                    "Incheon United ": 1
+                },
+                {
+                    "Date": "26/07/20",
+                    "Pohang Steelers ": 1,
+                    "Incheon United ": 1
+                },
+                {
+                    "Date": "31/05/20",
+                    "Incheon United ": 1,
+                    "Pohang Steelers ": 4
+                }
+            ]
+        },
+        {
+            "team": "/gwangju-fc-suwon-fc/lAqsmDu",
+            "h2h_score": [
+                {
+                    "Date": "07/04/21",
+                    "Gwangju FC ": 2,
+                    "Suwon FC ": 0
+                },
+                {
+                    "Date": "27/10/19",
+                    "Suwon FC ": 0,
+                    "Gwangju FC ": 3
+                },
+                {
+                    "Date": "27/07/19",
+                    "Gwangju FC ": 2,
+                    "Suwon FC ": 0
+                }
+            ]
+        },
+        {
+            "team": "/js-kabylie-u21-mc-oran-u21/LjgcsmJgc",
+            "h2h_score": [
+                {
+                    "Date": "04/12/20",
+                    "MC Oran U21 ": 1,
+                    "JS Kabylie U21 ": 0
+                },
+                {
+                    "Date": "19/10/18",
+                    "MC Oran U21 ": 1,
+                    "JS Kabylie U21 ": 2
+                },
+                {
+                    "Date": "15/12/17",
+                    "JS Kabylie U21 ": 1,
+                    "MC Oran U21 ": 1
+                }
+            ]
+        },
+        {
+            "team": "/nueva-chicago-gimnasia-y-esgrima-mendoza/aobsQtAb",
+            "h2h_score": [
+                {
+                    "Date": "13/11/18",
+                    "Nueva Chicago ": 4,
+                    "Gimnasia y Esgrima Mendoza ": 1
+                }
+            ]
+        },
+        {
+            "team": "/almirante-brown-deportivo-riestra/PzrsyUAb",
+            "h2h_score": [
+                {
+                    "Date": "27/04/19",
+                    "Almirante Brown ": 0,
+                    "Deportivo Riestra ": 1
+                },
+                {
+                    "Date": "18/11/18",
+                    "Deportivo Riestra ": 1,
+                    "Almirante Brown ": 1
+                },
+                {
+                    "Date": "30/04/17",
+                    "Deportivo Riestra ": 0,
+                    "Almirante Brown ": 1
+                }
+            ]
+        },
+        {
+            "team": "/defensores-de-belgrano-club-atletico-san-telmo/pUvslrKb",
+            "h2h_score": [
+                {
+                    "Date": "11/03/18",
+                    "Defensores de Belgrano ": 2,
+                    "Club Atletico San Telmo ": 2
+                },
+                {
+                    "Date": "15/10/17",
+                    "Club Atletico San Telmo ": 1,
+                    "Defensores de Belgrano ": 0
+                },
+                {
+                    "Date": "16/04/17",
+                    "Defensores de Belgrano ": 2,
+                    "Club Atletico San Telmo ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-sevan-fc-alashkert-ii/IWTseNrc",
+            "h2h_score": [
+                {
+                    "Date": "08/04/19",
+                    "FC Sevan ": 1,
+                    "FC Alashkert II ": 1
+                }
+            ]
+        },
+        {
+            "team": "/toowong-pine-hills/ZxZbsLGbc",
+            "h2h_score": [
+                {
+                    "Date": "24/06/18",
+                    "Toowong ": 6,
+                    "Pine Hills ": 0
+                }
+            ]
+        },
+        {
+            "team": "/allerheiligen-sc-weiz/TRspvc",
+            "h2h_score": [
+                {
+                    "Date": "08/11/19",
+                    "Allerheiligen ": 2,
+                    "SC Weiz ": 0
+                },
+                {
+                    "Date": "26/07/19",
+                    "SC Weiz ": 2,
+                    "Allerheiligen ": 1
+                },
+                {
+                    "Date": "05/04/19",
+                    "Allerheiligen ": 0,
+                    "SC Weiz ": 1
+                }
+            ]
+        },
+        {
+            "team": "/kv-kortrijk-reserve-kvc-westerlo-reserve/fEFsNorb",
+            "h2h_score": [
+                {
+                    "Date": "03/10/16",
+                    "KVC Westerlo Reserve ": 0,
+                    "KV Kortrijk Reserve ": 6
+                }
+            ]
+        },
+        {
+            "team": "/fk-sloboda-tuzla-fk-sarajevo/MecsXzc",
+            "h2h_score": [
+                {
+                    "Date": "12/12/20",
+                    "FK Sarajevo ": 2,
+                    "FK Sloboda Tuzla ": 1
+                },
+                {
+                    "Date": "20/09/20",
+                    "FK Sloboda Tuzla ": 2,
+                    "FK Sarajevo ": 3
+                },
+                {
+                    "Date": "15/07/20",
+                    "FK Sarajevo ": 1,
+                    "FK Sloboda Tuzla ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fk-borac-banja-luka-hsk-zrinjski-mostar/DdcsKec",
+            "h2h_score": [
+                {
+                    "Date": "21/11/20",
+                    "H\u0160K Zrinjski Mostar ": 2,
+                    "FK Borac Banja Luka ": 1
+                },
+                {
+                    "Date": "16/08/20",
+                    "FK Borac Banja Luka ": 1,
+                    "H\u0160K Zrinjski Mostar ": 0
+                },
+                {
+                    "Date": "23/11/19",
+                    "FK Borac Banja Luka ": 0,
+                    "H\u0160K Zrinjski Mostar ": 0
+                }
+            ]
+        },
+        {
+            "team": "/salgueiro-sport-recife/jOszYi",
+            "h2h_score": [
+                {
+                    "Date": "04/03/21",
+                    "Sport Recife ": 1,
+                    "Salgueiro ": 2
+                },
+                {
+                    "Date": "27/02/20",
+                    "Salgueiro ": 2,
+                    "Sport Recife ": 1
+                },
+                {
+                    "Date": "08/04/19",
+                    "Sport Recife ": 3,
+                    "Salgueiro ": 1
+                },
+                {
+                    "Date": "14/03/19",
+                    "Sport Recife ": 4,
+                    "Salgueiro ": 0
+                }
+            ]
+        },
+        {
+            "team": "/beroe-stara-zagora-lokomotiv-plovdiv/xpbsGpb",
+            "h2h_score": [
+                {
+                    "Date": "12/03/21",
+                    "Lokomotiv Plovdiv ": 1,
+                    "Beroe Stara Zagora ": 1
+                },
+                {
+                    "Date": "23/01/21",
+                    "Beroe Stara Zagora ": 0,
+                    "Lokomotiv Plovdiv ": 3
+                },
+                {
+                    "Date": "13/11/20",
+                    "Lokomotiv Plovdiv ": 1,
+                    "Beroe Stara Zagora ": 3
+                },
+                {
+                    "Date": "04/10/20",
+                    "Beroe Stara Zagora ": 1,
+                    "Lokomotiv Plovdiv ": 3
+                }
+            ]
+        },
+        {
+            "team": "/deportes-santa-cruz-deportes-temuco/xGXsPuXb",
+            "h2h_score": [
+                {
+                    "Date": "06/12/20",
+                    "Deportes Temuco ": 2,
+                    "Deportes Santa Cruz ": 1
+                },
+                {
+                    "Date": "20/09/20",
+                    "Deportes Santa Cruz ": 0,
+                    "Deportes Temuco ": 2
+                },
+                {
+                    "Date": "07/04/19",
+                    "Deportes Santa Cruz ": 0,
+                    "Deportes Temuco ": 4
+                }
+            ]
+        },
+        {
+            "team": "/ac-barnechea-rangers-de-talca/enbsAXI",
+            "h2h_score": [
+                {
+                    "Date": "17/01/21",
+                    "AC Barnechea ": 7,
+                    "Rangers de Talca ": 1
+                },
+                {
+                    "Date": "17/09/20",
+                    "Rangers de Talca ": 2,
+                    "AC Barnechea ": 1
+                },
+                {
+                    "Date": "08/10/19",
+                    "AC Barnechea ": 2,
+                    "Rangers de Talca ": 2
+                }
+            ]
+        },
+        {
+            "team": "/guizhou-heilongjiang-ice-city/ravsQBDb",
+            "h2h_score": [
+                {
+                    "Date": "17/08/19",
+                    "Guizhou ": 2,
+                    "Heilongjiang Ice City ": 0
+                },
+                {
+                    "Date": "27/04/19",
+                    "Heilongjiang Ice City ": 2,
+                    "Guizhou ": 1
+                },
+                {
+                    "Date": "25/04/18",
+                    "Heilongjiang Ice City ": 1,
+                    "Guizhou ": 2
+                }
+            ]
+        },
+        {
+            "team": "/beijing-bsu-chengdu-rongcheng/GFqsQzNb",
+            "h2h_score": [
+                {
+                    "Date": "03/10/20",
+                    "Beijing BSU ": 0,
+                    "Chengdu Rongcheng ": 1
+                },
+                {
+                    "Date": "16/09/20",
+                    "Chengdu Rongcheng ": 1,
+                    "Beijing BSU ": 0
+                }
+            ]
+        },
+        {
+            "team": "/atletico-cali-deportes-quindio/kxcsxMK",
+            "h2h_score": [
+                {
+                    "Date": "04/04/21",
+                    "Deportes Quind\u00edo ": 1,
+                    "Atl\u00e9tico Cali ": 0
+                }
+            ]
+        },
+        {
+            "team": "/ld-alajuelense-sporting-san-jose/xGcsgifc",
+            "h2h_score": [
+                {
+                    "Date": "01/03/21",
+                    "LD Alajuelense ": 3,
+                    "Sporting San Jos\u00e9 ": 0
+                },
+                {
+                    "Date": "12/11/20",
+                    "Sporting San Jos\u00e9 ": 2,
+                    "LD Alajuelense ": 3
+                }
+            ]
+        },
+        {
+            "team": "/enosis-neon-paralimniou-ermis-aradippou/ftbsCkk",
+            "h2h_score": [
+                {
+                    "Date": "14/03/21",
+                    "Enosis Neon Paralimniou ": 0,
+                    "Ermis Aradippou ": 1
+                },
+                {
+                    "Date": "04/02/21",
+                    "Enosis Neon Paralimniou ": 1,
+                    "Ermis Aradippou ": 0
+                },
+                {
+                    "Date": "07/11/20",
+                    "Ermis Aradippou ": 1,
+                    "Enosis Neon Paralimniou ": 1
+                },
+                {
+                    "Date": "05/05/19",
+                    "Enosis Neon Paralimniou ": 4,
+                    "Ermis Aradippou ": 1
+                }
+            ]
+        },
+        {
+            "team": "/hobro-ik-skive-ik/eBsRC",
+            "h2h_score": [
+                {
+                    "Date": "04/04/21",
+                    "Skive IK ": 1,
+                    "Hobro IK ": 0
+                },
+                {
+                    "Date": "03/02/21",
+                    "Skive IK ": 1,
+                    "Hobro IK ": 0
+                },
+                {
+                    "Date": "04/12/20",
+                    "Skive IK ": 2,
+                    "Hobro IK ": 2
+                },
+                {
+                    "Date": "29/09/20",
+                    "Hobro IK ": 2,
+                    "Skive IK ": 1
+                }
+            ]
+        },
+        {
+            "team": "/kolding-if-vendsyssel-ff/oBsmTi",
+            "h2h_score": [
+                {
+                    "Date": "23/04/21",
+                    "Kolding IF ": 1,
+                    "Vendsyssel FF ": 1
+                },
+                {
+                    "Date": "27/11/20",
+                    "Kolding IF ": 3,
+                    "Vendsyssel FF ": 2
+                },
+                {
+                    "Date": "25/09/20",
+                    "Vendsyssel FF ": 1,
+                    "Kolding IF ": 0
+                },
+                {
+                    "Date": "26/06/20",
+                    "Vendsyssel FF ": 2,
+                    "Kolding IF ": 2
+                }
+            ]
+        },
+        {
+            "team": "/helsingor-hb-koge/RCcsVwo",
+            "h2h_score": [
+                {
+                    "Date": "09/04/21",
+                    "Helsing\u00f8r ": 3,
+                    "HB K\u00f8ge ": 1
+                },
+                {
+                    "Date": "04/12/20",
+                    "HB K\u00f8ge ": 2,
+                    "Helsing\u00f8r ": 1
+                },
+                {
+                    "Date": "30/09/20",
+                    "Helsing\u00f8r ": 0,
+                    "HB K\u00f8ge ": 2
+                },
+                {
+                    "Date": "08/05/19",
+                    "HB K\u00f8ge ": 0,
+                    "Helsing\u00f8r ": 0
+                }
+            ]
+        },
+        {
+            "team": "/al-ahly-zamalek/kNcstXq",
+            "h2h_score": [
+                {
+                    "Date": "19/04/21",
+                    "Zamalek ": 1,
+                    "Al Ahly ": 2
+                },
+                {
+                    "Date": "28/11/20",
+                    "Zamalek ": 1,
+                    "Al Ahly ": 2
+                },
+                {
+                    "Date": "23/08/20",
+                    "Zamalek ": 3,
+                    "Al Ahly ": 1
+                }
+            ]
+        },
+        {
+            "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+            "h2h_score": [
+                {
+                    "Date": "24/04/21",
+                    "Aswan SC ": 1,
+                    "El Gouna FC ": 0
+                },
+                {
+                    "Date": "25/12/20",
+                    "Aswan SC ": 0,
+                    "El Gouna FC ": 1
+                },
+                {
+                    "Date": "24/09/20",
+                    "El Gouna FC ": 1,
+                    "Aswan SC ": 0
+                },
+                {
+                    "Date": "07/01/20",
+                    "Aswan SC ": 1,
+                    "El Gouna FC ": 1
+                }
+            ]
+        },
+        {
+            "team": "/ismaily-national-bank-of-egypt/qXqsBHgc",
+            "h2h_score": [
+                {
+                    "Date": "25/12/20",
+                    "Ismaily ": 0,
+                    "National Bank of Egypt ": 0
+                }
+            ]
+        },
+        {
+            "team": "/wadi-degla-smouha/nwrstwr",
+            "h2h_score": [
+                {
+                    "Date": "24/12/20",
+                    "Wadi Degla ": 1,
+                    "Smouha ": 2
+                },
+                {
+                    "Date": "24/09/20",
+                    "Wadi Degla ": 0,
+                    "Smouha ": 0
+                },
+                {
+                    "Date": "08/01/20",
+                    "Smouha ": 2,
+                    "Wadi Degla ": 3
+                },
+                {
+                    "Date": "29/03/19",
+                    "Smouha ": 2,
+                    "Wadi Degla ": 3
+                }
+            ]
+        },
+        {
+            "team": "/aldershot-town-yeovil-town/AbsGc",
+            "h2h_score": [
+                {
+                    "Date": "28/12/20",
+                    "Yeovil Town ": 3,
+                    "Aldershot Town ": 0
+                },
+                {
+                    "Date": "27/11/19",
+                    "Yeovil Town ": 2,
+                    "Aldershot Town ": 2
+                },
+                {
+                    "Date": "25/09/19",
+                    "Aldershot Town ": 1,
+                    "Yeovil Town ": 3
+                }
+            ]
+        },
+        {
+            "team": "/solihull-moors-weymouth-fc/DdsRid",
+            "h2h_score": [
+                {
+                    "Date": "20/02/21",
+                    "Weymouth FC ": 0,
+                    "Solihull Moors ": 0
+                }
+            ]
+        },
+        {
+            "team": "/dagenham-and-redbridge-stockport-county/kswc",
+            "h2h_score": [
+                {
+                    "Date": "20/01/21",
+                    "Dagenham & Redbridge ": 0,
+                    "Stockport County ": 2
+                },
+                {
+                    "Date": "08/02/20",
+                    "Dagenham & Redbridge ": 1,
+                    "Stockport County ": 1
+                }
+            ]
+        },
+        {
+            "team": "/chester-blyth-spartans/Qdsmf",
+            "h2h_score": [
+                {
+                    "Date": "19/10/19",
+                    "Blyth Spartans ": 2,
+                    "Chester ": 2
+                }
+            ]
+        },
+        {
+            "team": "/curzon-ashton-fc-spennymoor-town/wdsLtk",
+            "h2h_score": [
+                {
+                    "Date": "26/08/19",
+                    "Curzon Ashton FC ": 1,
+                    "Spennymoor Town ": 1
+                }
+            ]
+        },
+        {
+            "team": "/farsley-celtic-hereford-fc/hcszd",
+            "h2h_score": [
+                {
+                    "Date": "30/11/19",
+                    "Hereford FC ": 1,
+                    "Farsley Celtic ": 1
+                }
+            ]
+        },
+        {
+            "team": "/leamington-southport/xcsDUn",
+            "h2h_score": [
+                {
+                    "Date": "02/11/19",
+                    "Southport ": 4,
+                    "Leamington ": 1
+                }
+            ]
+        },
+        {
+            "team": "/york-city-telford-united/ybsFc",
+            "h2h_score": [
+                {
+                    "Date": "12/10/19",
+                    "Telford United ": 1,
+                    "York City ": 1
+                }
+            ]
+        },
+        {
+            "team": "/bath-city-braintree-town/HdsUid",
+            "h2h_score": [
+                {
+                    "Date": "03/08/19",
+                    "Bath City ": 2,
+                    "Braintree Town ": 0
+                }
+            ]
+        },
+        {
+            "team": "/hemel-hempstead-chippenham-town/AUnsVPt",
+            "h2h_score": [
+                {
+                    "Date": "08/01/20",
+                    "Chippenham Town ": 2,
+                    "Hemel Hempstead ": 2
+                }
+            ]
+        },
+        {
+            "team": "/havant-and-waterlooville-concord-rangers/KBcsQzp",
+            "h2h_score": [
+                {
+                    "Date": "26/10/19",
+                    "Havant & Waterlooville ": 2,
+                    "Concord Rangers ": 1
+                }
+            ]
+        },
+        {
+            "team": "/dorking-wanderers-billericay-town/Wcsouub",
+            "h2h_score": [
+                {
+                    "Date": "28/09/19",
+                    "Billericay Town ": 2,
+                    "Dorking Wanderers ": 2
+                }
+            ]
+        },
+        {
+            "team": "/dartford-dulwich-hamlet/Vcswe",
+            "h2h_score": [
+                {
+                    "Date": "07/12/19",
+                    "Dulwich Hamlet ": 1,
+                    "Dartford ": 1
+                }
+            ]
+        },
+        {
+            "team": "/slough-town-eastbourne-borough/XcsYd",
+            "h2h_score": [
+                {
+                    "Date": "07/09/19",
+                    "Eastbourne Borough ": 0,
+                    "Slough Town ": 2
+                }
+            ]
+        },
+        {
+            "team": "/chelmsford-city-ebbsfleet-united/ocsiEj",
+            "h2h_score": [
+                {
+                    "Date": "21/01/17",
+                    "Ebbsfleet United ": 2,
+                    "Chelmsford City ": 0
+                }
+            ]
+        },
+        {
+            "team": "/welling-united-hungerford-town/YbsVjp",
+            "h2h_score": [
+                {
+                    "Date": "28/09/19",
+                    "Hungerford Town ": 1,
+                    "Welling United ": 2
+                }
+            ]
+        },
+        {
+            "team": "/maidstone-united-st-albans-city/Kcsdvk",
+            "h2h_score": [
+                {
+                    "Date": "28/09/19",
+                    "Maidstone United ": 4,
+                    "St Albans City ": 0
+                }
+            ]
+        },
+        {
+            "team": "/hjk-fc-ilves/RUsLXi",
+            "h2h_score": [
+                {
+                    "Date": "13/03/21",
+                    "HJK ": 2,
+                    "FC Ilves ": 1
+                },
+                {
+                    "Date": "13/09/20",
+                    "FC Ilves ": 1,
+                    "HJK ": 2
+                },
+                {
+                    "Date": "25/07/20",
+                    "HJK ": 2,
+                    "FC Ilves ": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-lahti-kups/UUsZU",
+            "h2h_score": [
+                {
+                    "Date": "14/09/20",
+                    "FC Lahti ": 1,
+                    "KuPS ": 2
+                },
+                {
+                    "Date": "22/07/20",
+                    "KuPS ": 3,
+                    "FC Lahti ": 0
+                },
+                {
+                    "Date": "31/01/20",
+                    "KuPS ": 1,
+                    "FC Lahti ": 0
+                },
+                {
+                    "Date": "25/06/19",
+                    "KuPS ": 5,
+                    "FC Lahti ": 1
+                }
+            ]
+        },
+        {
+            "team": "/annecy-fc-us-boulogne-cote-dopale/lJsUrJb",
+            "h2h_score": [
+                {
+                    "Date": "08/01/21",
+                    "US Boulogne C\u00f4te-d'Opale ": 0,
+                    "Annecy FC ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-sete-avranches/kbcsqbo",
+            "h2h_score": [
+                {
+                    "Date": "08/01/21",
+                    "FC S\u00e8te ": 0,
+                    "Avranches ": 0
+                }
+            ]
+        },
+        {
+            "team": "/cholet-le-mans/xIsnJ",
+            "h2h_score": [
+                {
+                    "Date": "09/01/21",
+                    "Le Mans ": 2,
+                    "Cholet ": 0
+                },
+                {
+                    "Date": "19/04/19",
+                    "Cholet ": 0,
+                    "Le Mans ": 1
+                },
+                {
+                    "Date": "30/11/18",
+                    "Le Mans ": 1,
+                    "Cholet ": 1
+                }
+            ]
+        },
+        {
+            "team": "/quevilly-rouen-metropole-bastia/fIsZbJb",
+            "h2h_score": [
+                {
+                    "Date": "12/01/21",
+                    "Bastia ": 2,
+                    "Quevilly-Rouen M\u00e9tropole ": 1
+                },
+                {
+                    "Date": "20/01/15",
+                    "Quevilly-Rouen M\u00e9tropole ": 1,
+                    "Bastia ": 1
+                }
+            ]
+        },
+        {
+            "team": "/red-star-fc-fc-bastia-borgo/zhwsPFwc",
+            "h2h_score": [
+                {
+                    "Date": "08/01/21",
+                    "FC Bastia Borgo ": 3,
+                    "Red Star FC ": 1
+                },
+                {
+                    "Date": "18/10/19",
+                    "FC Bastia Borgo ": 0,
+                    "Red Star FC ": 1
+                }
+            ]
+        },
+        {
+            "team": "/sporting-club-de-lyon-bourg-en-bresse/vNcsgbo",
+            "h2h_score": [
+                {
+                    "Date": "08/01/21",
+                    "Bourg-en-Bresse ": 0,
+                    "Sporting Club de Lyon ": 1
+                },
+                {
+                    "Date": "21/12/19",
+                    "Sporting Club de Lyon ": 5,
+                    "Bourg-en-Bresse ": 1
+                },
+                {
+                    "Date": "27/03/19",
+                    "Sporting Club de Lyon ": 1,
+                    "Bourg-en-Bresse ": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-villefranche-beaujolais-stade-briochin/JinsiHJb",
+            "h2h_score": [
+                {
+                    "Date": "08/01/21",
+                    "FC Villefranche Beaujolais ": 1,
+                    "Stade Briochin ": 0
+                }
+            ]
+        },
+        {
+            "team": "/us-creteil-lusitanos-stade-lavallois/yIsCI",
+            "h2h_score": [
+                {
+                    "Date": "09/01/21",
+                    "Stade Lavallois ": 1,
+                    "US Cr\u00e9teil-Lusitanos ": 2
+                },
+                {
+                    "Date": "23/11/19",
+                    "Stade Lavallois ": 0,
+                    "US Cr\u00e9teil-Lusitanos ": 0
+                },
+                {
+                    "Date": "17/02/18",
+                    "US Cr\u00e9teil-Lusitanos ": 0,
+                    "Stade Lavallois ": 1
+                }
+            ]
+        },
+        {
+            "team": "/us-orleans-concarneau/rNcswNc",
+            "h2h_score": [
+                {
+                    "Date": "08/01/21",
+                    "Concarneau ": 1,
+                    "US Orl\u00e9ans ": 3
+                }
+            ]
+        },
+        {
+            "team": "/fc-torpedo-kutaisi-fc-telavi/uicsCRbc",
+            "h2h_score": [
+                {
+                    "Date": "14/03/21",
+                    "FC Torpedo Kutaisi ": 2,
+                    "FC Telavi ": 2
+                },
+                {
+                    "Date": "10/12/20",
+                    "FC Telavi ": 1,
+                    "FC Torpedo Kutaisi ": 1
+                },
+                {
+                    "Date": "06/08/20",
+                    "FC Torpedo Kutaisi ": 1,
+                    "FC Telavi ": 1
+                },
+                {
+                    "Date": "07/11/18",
+                    "FC Telavi ": 0,
+                    "FC Torpedo Kutaisi ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-samgurali-tskhaltubo-fc-dila-gori/uBnsrJr",
+            "h2h_score": [
+                {
+                    "Date": "14/03/21",
+                    "FC Samgurali Tskhaltubo ": 1,
+                    "FC Dila Gori ": 2
+                },
+                {
+                    "Date": "04/03/11",
+                    "FC Samgurali Tskhaltubo ": 0,
+                    "FC Dila Gori ": 1
+                },
+                {
+                    "Date": "08/09/10",
+                    "FC Dila Gori ": 2,
+                    "FC Samgurali Tskhaltubo ": 1
+                }
+            ]
+        },
+        {
+            "team": "/ssv-ulm-1846-tsg-balingen/FbbsxKj",
+            "h2h_score": [
+                {
+                    "Date": "24/10/20",
+                    "SSV Ulm 1846 ": 3,
+                    "TSG Balingen ": 0
+                },
+                {
+                    "Date": "06/09/19",
+                    "SSV Ulm 1846 ": 1,
+                    "TSG Balingen ": 3
+                }
+            ]
+        },
+        {
+            "team": "/al-simawa-al-hedood/nVCcsoVCc",
+            "h2h_score": [
+                {
+                    "Date": "14/06/19",
+                    "Al Hedood ": 3,
+                    "Al Simawa ": 0
+                }
+            ]
+        },
+        {
+            "team": "/baghdad-sc-al-minaa/KWCcsVYCc",
+            "h2h_score": [
+                {
+                    "Date": "29/12/20",
+                    "Al Minaa ": 0,
+                    "Baghdad SC ": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-zawraa-zakho-fc/NrosnAAb",
+            "h2h_score": [
+                {
+                    "Date": "29/12/20",
+                    "Al-Zawraa ": 0,
+                    "Zakho FC ": 1
+                }
+            ]
+        },
+        {
+            "team": "/ihud-bney-majd-al-krum-hapoel-bueine/JWhcshtjc",
+            "h2h_score": [
+                {
+                    "Date": "12/03/21",
+                    "Ihud Bney Majd AL Krum ": 2,
+                    "Hapoel Bueine ": 4
+                },
+                {
+                    "Date": "04/12/20",
+                    "Hapoel Bueine ": 2,
+                    "Ihud Bney Majd AL Krum ": 1
+                },
+                {
+                    "Date": "25/10/19",
+                    "Ihud Bney Majd AL Krum ": 2,
+                    "Hapoel Bueine ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fk-zalgiris-fk-panevezys/VgcsnfCb",
+            "h2h_score": [
+                {
+                    "Date": "03/04/21",
+                    "FK \u017dalgiris ": 2,
+                    "FK Panev\u0117\u017eys ": 2
+                },
+                {
+                    "Date": "27/09/20",
+                    "FK \u017dalgiris ": 3,
+                    "FK Panev\u0117\u017eys ": 2
+                }
+            ]
+        },
+        {
+            "team": "/dacia-buiucani-fc-petrocub-hincesti/ETwsHUqb",
+            "h2h_score": [
+                {
+                    "Date": "27/02/21",
+                    "FC Petrocub H\u00eencesti ": 4,
+                    "Dacia Buiucani ": 1
+                },
+                {
+                    "Date": "18/10/20",
+                    "Dacia Buiucani ": 0,
+                    "FC Petrocub H\u00eencesti ": 0
+                },
+                {
+                    "Date": "22/07/20",
+                    "FC Petrocub H\u00eencesti ": 2,
+                    "Dacia Buiucani ": 0
+                }
+            ]
+        },
+        {
+            "team": "/csf-speranta-nisporeni-fc-floresti/cDrsoAnc",
+            "h2h_score": [
+                {
+                    "Date": "28/02/21",
+                    "FC Floresti ": 4,
+                    "CSF Speran\u021ba Nisporeni ": 4
+                },
+                {
+                    "Date": "16/10/20",
+                    "CSF Speran\u021ba Nisporeni ": 0,
+                    "FC Floresti ": 0
+                },
+                {
+                    "Date": "22/07/20",
+                    "FC Floresti ": 1,
+                    "CSF Speran\u021ba Nisporeni ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fcsb-fc-academica-clinceni/bqbsOVj",
+            "h2h_score": [
+                {
+                    "Date": "22/04/21",
+                    "FC Academica Clinceni ": 0,
+                    "FCSB ": 2
+                },
+                {
+                    "Date": "08/02/21",
+                    "FCSB ": 0,
+                    "FC Academica Clinceni ": 1
+                },
+                {
+                    "Date": "19/10/20",
+                    "FC Academica Clinceni ": 0,
+                    "FCSB ": 2
+                },
+                {
+                    "Date": "10/02/20",
+                    "FCSB ": 0,
+                    "FC Academica Clinceni ": 0
+                }
+            ]
+        },
+        {
+            "team": "/dinamo-bucuresti-astra-giurgiu/NpbsRpb",
+            "h2h_score": [
+                {
+                    "Date": "16/04/21",
+                    "Astra Giurgiu ": 0,
+                    "Dinamo Bucure\u0219ti ": 0
+                },
+                {
+                    "Date": "13/04/21",
+                    "Astra Giurgiu ": 1,
+                    "Dinamo Bucure\u0219ti ": 0
+                },
+                {
+                    "Date": "22/02/21",
+                    "Astra Giurgiu ": 2,
+                    "Dinamo Bucure\u0219ti ": 0
+                },
+                {
+                    "Date": "15/11/20",
+                    "Dinamo Bucure\u0219ti ": 1,
+                    "Astra Giurgiu ": 1
+                }
+            ]
+        },
+        {
+            "team": "/amazulu-baroka-fc/fddsWXub",
+            "h2h_score": [
+                {
+                    "Date": "23/01/21",
+                    "Baroka FC ": 0,
+                    "AmaZulu ": 2
+                },
+                {
+                    "Date": "15/08/20",
+                    "AmaZulu ": 0,
+                    "Baroka FC ": 0
+                },
+                {
+                    "Date": "27/10/19",
+                    "Baroka FC ": 0,
+                    "AmaZulu ": 1
+                }
+            ]
+        },
+        {
+            "team": "/orlando-pirates-stellenbosch/tddsfwr",
+            "h2h_score": [
+                {
+                    "Date": "28/10/20",
+                    "Orlando Pirates ": 1,
+                    "Stellenbosch ": 1
+                },
+                {
+                    "Date": "05/09/20",
+                    "Orlando Pirates ": 1,
+                    "Stellenbosch ": 0
+                },
+                {
+                    "Date": "26/10/19",
+                    "Stellenbosch ": 1,
+                    "Orlando Pirates ": 0
+                }
+            ]
+        },
+        {
+            "team": "/osters-if-gif-sundsvall/nKsGK",
+            "h2h_score": [
+                {
+                    "Date": "05/09/20",
+                    "GIF Sundsvall ": 1,
+                    "\u00d6sters IF ": 2
+                },
+                {
+                    "Date": "25/07/20",
+                    "\u00d6sters IF ": 1,
+                    "GIF Sundsvall ": 1
+                },
+                {
+                    "Date": "17/08/14",
+                    "GIF Sundsvall ": 5,
+                    "\u00d6sters IF ": 1
+                }
+            ]
+        },
+        {
+            "team": "/sc-kriens-fc-aarau/XYsoZ",
+            "h2h_score": [
+                {
+                    "Date": "05/02/21",
+                    "SC Kriens ": 0,
+                    "FC Aarau ": 0
+                },
+                {
+                    "Date": "16/12/20",
+                    "SC Kriens ": 1,
+                    "FC Aarau ": 3
+                },
+                {
+                    "Date": "04/11/20",
+                    "FC Aarau ": 2,
+                    "SC Kriens ": 2
+                },
+                {
+                    "Date": "08/07/20",
+                    "SC Kriens ": 4,
+                    "FC Aarau ": 1
+                }
+            ]
+        },
+        {
+            "team": "/schaffhausen-fc-thun/eZslZ",
+            "h2h_score": [
+                {
+                    "Date": "20/02/21",
+                    "Schaffhausen ": 4,
+                    "FC Thun ": 0
+                },
+                {
+                    "Date": "23/01/21",
+                    "FC Thun ": 3,
+                    "Schaffhausen ": 1
+                },
+                {
+                    "Date": "08/11/20",
+                    "Schaffhausen ": 1,
+                    "FC Thun ": 1
+                },
+                {
+                    "Date": "16/06/18",
+                    "FC Thun ": 2,
+                    "Schaffhausen ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-chiasso-fc-wil-1900/fZsVZ",
+            "h2h_score": [
+                {
+                    "Date": "26/02/21",
+                    "FC Chiasso ": 1,
+                    "FC Wil 1900 ": 0
+                },
+                {
+                    "Date": "12/12/20",
+                    "FC Wil 1900 ": 0,
+                    "FC Chiasso ": 3
+                },
+                {
+                    "Date": "31/10/20",
+                    "FC Chiasso ": 1,
+                    "FC Wil 1900 ": 1
+                },
+                {
+                    "Date": "31/07/20",
+                    "FC Wil 1900 ": 1,
+                    "FC Chiasso ": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-ain-hatta/HQosQfQb",
+            "h2h_score": [
+                {
+                    "Date": "15/01/21",
+                    "Hatta ": 0,
+                    "Al-Ain ": 1
+                },
+                {
+                    "Date": "27/02/20",
+                    "Hatta ": 0,
+                    "Al-Ain ": 3
+                },
+                {
+                    "Date": "19/10/19",
+                    "Al-Ain ": 2,
+                    "Hatta ": 1
+                },
+                {
+                    "Date": "21/01/18",
+                    "Al-Ain ": 6,
+                    "Hatta ": 2
+                }
+            ]
+        },
+        {
+            "team": "/al-ittihad-kalba-al-sharjah/kGnsfox",
+            "h2h_score": [
+                {
+                    "Date": "15/01/21",
+                    "Al-Sharjah ": 1,
+                    "Al-Ittihad Kalba ": 0
+                },
+                {
+                    "Date": "22/02/20",
+                    "Al-Ittihad Kalba ": 0,
+                    "Al-Sharjah ": 2
+                },
+                {
+                    "Date": "02/02/20",
+                    "Al-Sharjah ": 3,
+                    "Al-Ittihad Kalba ": 1
+                },
+                {
+                    "Date": "26/09/19",
+                    "Al-Ittihad Kalba ": 1,
+                    "Al-Sharjah ": 3
+                }
+            ]
+        },
+        {
+            "team": "/al-jazira-al-khaleej-khor-fakkan/PldsCJTb",
+            "h2h_score": [
+                {
+                    "Date": "16/01/21",
+                    "Al-Khaleej Khor Fakkan ": 3,
+                    "Al-Jazira ": 0
+                },
+                {
+                    "Date": "28/02/20",
+                    "Al-Jazira ": 0,
+                    "Al-Khaleej Khor Fakkan ": 1
+                },
+                {
+                    "Date": "19/10/19",
+                    "Al-Khaleej Khor Fakkan ": 1,
+                    "Al-Jazira ": 3
+                },
+                {
+                    "Date": "22/08/19",
+                    "Al-Jazira ": 3,
+                    "Al-Khaleej Khor Fakkan ": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-nasr-dubai-shabab-al-ahli-dubai/HBtslHfc",
+            "h2h_score": [
+                {
+                    "Date": "09/04/21",
+                    "Shabab Al-Ahli Dubai ": 0,
+                    "Al-Nasr Dubai ": 0
+                },
+                {
+                    "Date": "15/01/21",
+                    "Shabab Al-Ahli Dubai ": 1,
+                    "Al-Nasr Dubai ": 0
+                },
+                {
+                    "Date": "06/03/20",
+                    "Shabab Al-Ahli Dubai ": 2,
+                    "Al-Nasr Dubai ": 2
+                }
+            ]
+        },
+        {
+            "team": "/al-dhafra-al-wasl/zdusfBH",
+            "h2h_score": [
+                {
+                    "Date": "16/01/21",
+                    "Al-Dhafra ": 1,
+                    "Al Wasl ": 1
+                },
+                {
+                    "Date": "05/03/20",
+                    "Al Wasl ": 2,
+                    "Al-Dhafra ": 1
+                },
+                {
+                    "Date": "27/10/19",
+                    "Al-Dhafra ": 1,
+                    "Al Wasl ": 3
+                },
+                {
+                    "Date": "22/08/19",
+                    "Al Wasl ": 0,
+                    "Al-Dhafra ": 6
+                }
+            ]
+        },
+        {
+            "team": "/baniyas-al-wahda-fc/OyyspHfc",
+            "h2h_score": [
+                {
+                    "Date": "16/01/21",
+                    "Al-Wahda FC ": 0,
+                    "Baniyas ": 2
+                },
+                {
+                    "Date": "06/02/20",
+                    "Al-Wahda FC ": 3,
+                    "Baniyas ": 0
+                },
+                {
+                    "Date": "04/10/19",
+                    "Baniyas ": 4,
+                    "Al-Wahda FC ": 3
+                },
+                {
+                    "Date": "07/09/19",
+                    "Al-Wahda FC ": 1,
+                    "Baniyas ": 1
+                }
+            ]
+        },
+        {
+            "team": "/ajman-club-fujairah-fc/MyysPltb",
+            "h2h_score": [
+                {
+                    "Date": "15/01/21",
+                    "Ajman Club ": 2,
+                    "Fujairah FC ": 1
+                },
+                {
+                    "Date": "12/11/20",
+                    "Ajman Club ": 1,
+                    "Fujairah FC ": 2
+                },
+                {
+                    "Date": "08/10/20",
+                    "Fujairah FC ": 1,
+                    "Ajman Club ": 0
+                },
+                {
+                    "Date": "02/01/20",
+                    "Fujairah FC ": 1,
+                    "Ajman Club ": 1
+                }
+            ]
+        },
+        {
+            "team": "/excursionistas-berazategui/xnBsGVhc",
+            "h2h_score": [
+                {
+                    "Date": "03/11/19",
+                    "Excursionistas ": 2,
+                    "Berazategui ": 4
+                },
+                {
+                    "Date": "11/03/19",
+                    "Berazategui ": 2,
+                    "Excursionistas ": 2
+                },
+                {
+                    "Date": "01/10/18",
+                    "Excursionistas ": 1,
+                    "Berazategui ": 0
+                }
+            ]
+        },
+        {
+            "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+            "h2h_score": [
+                {
+                    "Date": "25/02/20",
+                    "Deportivo Paraguayo ": 1,
+                    "Juventud Unida San Miguel ": 0
+                },
+                {
+                    "Date": "21/09/19",
+                    "Juventud Unida San Miguel ": 1,
+                    "Deportivo Paraguayo ": 0
+                },
+                {
+                    "Date": "13/05/19",
+                    "Juventud Unida San Miguel ": 1,
+                    "Deportivo Paraguayo ": 0
+                },
+                {
+                    "Date": "10/12/18",
+                    "Deportivo Paraguayo ": 0,
+                    "Juventud Unida San Miguel ": 0
+                }
+            ]
+        },
+        {
+            "team": "/central-ballester-sportivo-barracas/inFbsKxgc",
+            "h2h_score": [
+                {
+                    "Date": "11/02/20",
+                    "Central Ballester ": 1,
+                    "Sportivo Barracas ": 1
+                },
+                {
+                    "Date": "11/09/19",
+                    "Sportivo Barracas ": 2,
+                    "Central Ballester ": 1
+                }
+            ]
+        },
+        {
+            "team": "/argentino-de-rosario-yupanqui/MxgcsJygc",
+            "h2h_score": [
+                {
+                    "Date": "15/12/20",
+                    "Yupanqui ": 1,
+                    "Argentino de Rosario ": 2
+                },
+                {
+                    "Date": "10/11/19",
+                    "Argentino de Rosario ": 0,
+                    "Yupanqui ": 1
+                },
+                {
+                    "Date": "20/02/19",
+                    "Yupanqui ": 2,
+                    "Argentino de Rosario ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-shirak-gyumri-fc-noah/rBnsDUec",
+            "h2h_score": [
+                {
+                    "Date": "30/10/20",
+                    "FC Shirak Gyumri ": 0,
+                    "FC Noah ": 3
+                },
+                {
+                    "Date": "16/08/20",
+                    "FC Noah ": 2,
+                    "FC Shirak Gyumri ": 2
+                },
+                {
+                    "Date": "06/07/20",
+                    "FC Noah ": 4,
+                    "FC Shirak Gyumri ": 0
+                }
+            ]
+        },
+        {
+            "team": "/pyunik-yerevan-fc-ararat-armenia/oecsEUec",
+            "h2h_score": [
+                {
+                    "Date": "21/02/21",
+                    "FC Ararat-Armenia ": 2,
+                    "Pyunik Yerevan ": 1
+                },
+                {
+                    "Date": "06/12/20",
+                    "Pyunik Yerevan ": 0,
+                    "FC Ararat-Armenia ": 1
+                }
+            ]
+        },
+        {
+            "team": "/urartu-fc-van/AecsEpFc",
+            "h2h_score": [
+                {
+                    "Date": "06/03/21",
+                    "FC Van ": 3,
+                    "Urartu ": 1
+                },
+                {
+                    "Date": "19/10/20",
+                    "Urartu ": 2,
+                    "FC Van ": 0
+                },
+                {
+                    "Date": "05/02/20",
+                    "Urartu ": 3,
+                    "FC Van ": 0
+                }
+            ]
+        },
+        {
+            "team": "/bkma-yerevan-urartu-ii/DpFcsKpFc",
+            "h2h_score": [
+                {
+                    "Date": "03/03/21",
+                    "Urartu II ": 1,
+                    "BKMA Yerevan ": 1
+                },
+                {
+                    "Date": "26/02/21",
+                    "BKMA Yerevan ": 7,
+                    "Urartu II ": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-ararat-ii-fc-noravank/hRusjRQc",
+            "h2h_score": [
+                {
+                    "Date": "09/04/21",
+                    "FC Noravank ": 3,
+                    "FC Ararat II ": 1
+                },
+                {
+                    "Date": "29/10/20",
+                    "FC Ararat II ": 0,
+                    "FC Noravank ": 2
+                }
+            ]
+        },
+        {
+            "team": "/fc-ararat-ii-pyunik-ii/byoshRu",
+            "h2h_score": [
+                {
+                    "Date": "02/03/21",
+                    "Pyunik II ": 1,
+                    "FC Ararat II ": 2
+                },
+                {
+                    "Date": "26/02/21",
+                    "FC Ararat II ": 0,
+                    "Pyunik II ": 1
+                }
+            ]
+        },
+        {
+            "team": "/redlands-united-eastern-suburbs-brisbane/LxLsJNL",
+            "h2h_score": [
+                {
+                    "Date": "11/10/20",
+                    "Redlands United ": 2,
+                    "Eastern Suburbs Brisbane ": 1
+                },
+                {
+                    "Date": "14/03/20",
+                    "Eastern Suburbs Brisbane ": 1,
+                    "Redlands United ": 2
+                }
+            ]
+        },
+        {
+            "team": "/palm-beach-reserve-robina-city-reserves/codcsgMqc",
+            "h2h_score": [
+                {
+                    "Date": "29/08/20",
+                    "Robina City Reserves ": 1,
+                    "Palm Beach Reserve ": 3
+                },
+                {
+                    "Date": "11/08/18",
+                    "Palm Beach Reserve ": 3,
+                    "Robina City Reserves ": 1
+                }
+            ]
+        },
+        {
+            "team": "/qarabag-fk-ii-sumqayit-fk-ii/YJrcsZwtc",
+            "h2h_score": [
+                {
+                    "Date": "18/03/21",
+                    "Qaraba\u011f FK II ": 0,
+                    "Sumqay\u0131t FK II ": 0
+                },
+                {
+                    "Date": "01/10/20",
+                    "Sumqay\u0131t FK II ": 2,
+                    "Qaraba\u011f FK II ": 3
+                },
+                {
+                    "Date": "08/11/19",
+                    "Qaraba\u011f FK II ": 1,
+                    "Sumqay\u0131t FK II ": 2
+                }
+            ]
+        },
+        {
+            "team": "/kepez-pfk-kesle-fk-ii/afpsKffc",
+            "h2h_score": [
+                {
+                    "Date": "18/03/21",
+                    "K\u0259p\u0259z PFK ": 3,
+                    "Ke\u015fl\u0259 FK II ": 1
+                },
+                {
+                    "Date": "01/10/20",
+                    "Ke\u015fl\u0259 FK II ": 2,
+                    "K\u0259p\u0259z PFK ": 6
+                },
+                {
+                    "Date": "13/02/20",
+                    "K\u0259p\u0259z PFK ": 3,
+                    "Ke\u015fl\u0259 FK II ": 3
+                },
+                {
+                    "Date": "28/08/19",
+                    "Ke\u015fl\u0259 FK II ": 2,
+                    "K\u0259p\u0259z PFK ": 2
+                }
+            ]
+        },
+        {
+            "team": "/sabah-ii-neftci-baku-ii/axtcsbxtc",
+            "h2h_score": [
+                {
+                    "Date": "20/04/21",
+                    "Sabah II ": 0,
+                    "Neft\u00e7i Baku II ": 2
+                },
+                {
+                    "Date": "01/10/20",
+                    "Neft\u00e7i Baku II ": 1,
+                    "Sabah II ": 0
+                },
+                {
+                    "Date": "05/03/20",
+                    "Sabah II ": 1,
+                    "Neft\u00e7i Baku II ": 1
+                },
+                {
+                    "Date": "26/09/19",
+                    "Neft\u00e7i Baku II ": 1,
+                    "Sabah II ": 2
+                }
+            ]
+        },
+        {
+            "team": "/qaradag-lokbatan-moik-baku/cfpsefp",
+            "h2h_score": [
+                {
+                    "Date": "19/03/21",
+                    "MOIK Baku ": 0,
+                    "Qarada\u011f L\u00f6kbatan ": 0
+                },
+                {
+                    "Date": "02/10/20",
+                    "Qarada\u011f L\u00f6kbatan ": 1,
+                    "MOIK Baku ": 1
+                },
+                {
+                    "Date": "28/11/19",
+                    "Qarada\u011f L\u00f6kbatan ": 0,
+                    "MOIK Baku ": 1
+                }
+            ]
+        },
+        {
+            "team": "/turan-tovuz-pfk-zaqatala/bOosiwHb",
+            "h2h_score": [
+                {
+                    "Date": "19/03/21",
+                    "Turan Tovuz ": 1,
+                    "PFK Zaqatala ": 3
+                },
+                {
+                    "Date": "02/10/20",
+                    "PFK Zaqatala ": 0,
+                    "Turan Tovuz ": 1
+                },
+                {
+                    "Date": "28/11/19",
+                    "PFK Zaqatala ": 3,
+                    "Turan Tovuz ": 1
+                }
+            ]
+        },
+        {
+            "team": "/bahrain-sc-isa-town/DizsoJWb",
+            "h2h_score": [
+                {
+                    "Date": "02/02/21",
+                    "Isa Town ": 2,
+                    "Bahrain SC ": 0
+                },
+                {
+                    "Date": "28/01/20",
+                    "Isa Town ": 1,
+                    "Bahrain SC ": 2
+                },
+                {
+                    "Date": "24/09/19",
+                    "Bahrain SC ": 1,
+                    "Isa Town ": 0
+                },
+                {
+                    "Date": "22/04/19",
+                    "Bahrain SC ": 1,
+                    "Isa Town ": 3
+                }
+            ]
+        },
+        {
+            "team": "/arambagh-ks-sheikh-jamal-dhanmondi-club/NCKbsvzjc",
+            "h2h_score": [
+                {
+                    "Date": "27/01/21",
+                    "Sheikh Jamal Dhanmondi Club ": 6,
+                    "Arambagh KS ": 0
+                },
+                {
+                    "Date": "02/03/20",
+                    "Sheikh Jamal Dhanmondi Club ": 4,
+                    "Arambagh KS ": 1
+                },
+                {
+                    "Date": "27/06/19",
+                    "Arambagh KS ": 0,
+                    "Sheikh Jamal Dhanmondi Club ": 1
+                }
+            ]
+        },
+        {
+            "team": "/chittagong-abahani-limited-sheikh-russel-kc/akwbsVfRb",
+            "h2h_score": [
+                {
+                    "Date": "28/01/21",
+                    "Chittagong Abahani Limited ": 0,
+                    "Sheikh Russel KC ": 1
+                },
+                {
+                    "Date": "01/01/21",
+                    "Sheikh Russel KC ": 0,
+                    "Chittagong Abahani Limited ": 2
+                },
+                {
+                    "Date": "02/03/20",
+                    "Chittagong Abahani Limited ": 2,
+                    "Sheikh Russel KC ": 0
+                }
+            ]
+        },
+        {
+            "team": "/saif-sporting-club-muktijoddha-sangsad-kc/TfRbsVlkc",
+            "h2h_score": [
+                {
+                    "Date": "28/01/21",
+                    "Muktijoddha Sangsad KC ": 1,
+                    "Saif Sporting Club ": 2
+                },
+                {
+                    "Date": "03/03/20",
+                    "Muktijoddha Sangsad KC ": 0,
+                    "Saif Sporting Club ": 2
+                },
+                {
+                    "Date": "01/08/19",
+                    "Saif Sporting Club ": 3,
+                    "Muktijoddha Sangsad KC ": 1
+                }
+            ]
+        },
+        {
+            "team": "/racing-belarus-machulishci/yFMcsoQMc",
+            "h2h_score": [
+                {
+                    "Date": "27/11/20",
+                    "Machulishci ": 3,
+                    "Racing Belarus ": 2
+                },
+                {
+                    "Date": "13/06/20",
+                    "Machulishci ": 0,
+                    "Racing Belarus ": 1
+                }
+            ]
+        },
+        {
+            "team": "/b-12-minsk-dinamo-living-air/iFMcspQMc",
+            "h2h_score": [
+                {
+                    "Date": "29/11/20",
+                    "Dinamo Living Air ": 3,
+                    "B-12 Minsk ": 0
+                },
+                {
+                    "Date": "12/07/20",
+                    "Dinamo Living Air ": 0,
+                    "B-12 Minsk ": 2
+                }
+            ]
+        },
+        {
+            "team": "/standard-liege-kaa-gent-ladies/bUosUowb",
+            "h2h_score": [
+                {
+                    "Date": "03/04/21",
+                    "KAA Gent Ladies ": 2,
+                    "Standard Li\u00e8ge ": 1
+                },
+                {
+                    "Date": "27/03/21",
+                    "Standard Li\u00e8ge ": 0,
+                    "KAA Gent Ladies ": 2
+                },
+                {
+                    "Date": "21/11/20",
+                    "KAA Gent Ladies ": 1,
+                    "Standard Li\u00e8ge ": 3
+                },
+                {
+                    "Date": "22/02/20",
+                    "Standard Li\u00e8ge ": 3,
+                    "KAA Gent Ladies ": 1
+                }
+            ]
+        },
+        {
+            "team": "/eendracht-aalst-fc-femina-white-star-woluwe/RaucsGpyc",
+            "h2h_score": [
+                {
+                    "Date": "03/04/21",
+                    "Eendracht Aalst ": 2,
+                    "FC F\u00e9mina White Star Woluwe ": 0
+                },
+                {
+                    "Date": "13/03/21",
+                    "Eendracht Aalst ": 1,
+                    "FC F\u00e9mina White Star Woluwe ": 1
+                },
+                {
+                    "Date": "07/11/20",
+                    "FC F\u00e9mina White Star Woluwe ": 0,
+                    "Eendracht Aalst ": 0
+                },
+                {
+                    "Date": "25/01/20",
+                    "FC F\u00e9mina White Star Woluwe ": 2,
+                    "Eendracht Aalst ": 0
+                }
+            ]
+        },
+        {
+            "team": "/sporting-charleroi-sv-zulte-waregem/bmycszOQc",
+            "h2h_score": [
+                {
+                    "Date": "03/04/21",
+                    "Sporting Charleroi ": 0,
+                    "SV Zulte Waregem A ": 2
+                },
+                {
+                    "Date": "30/01/21",
+                    "Sporting Charleroi ": 0,
+                    "SV Zulte Waregem A ": 0
+                },
+                {
+                    "Date": "23/01/21",
+                    "SV Zulte Waregem A ": 1,
+                    "Sporting Charleroi ": 2
+                }
+            ]
+        },
+        {
+            "team": "/votuporanguense-batatais-fc/awdbszkeb",
+            "h2h_score": [
+                {
+                    "Date": "18/08/19",
+                    "Batatais FC ": 0,
+                    "Votuporanguense ": 3
+                },
+                {
+                    "Date": "13/07/19",
+                    "Votuporanguense ": 2,
+                    "Batatais FC ": 2
+                },
+                {
+                    "Date": "22/09/18",
+                    "Votuporanguense ": 1,
+                    "Batatais FC ": 0
+                }
+            ]
+        },
+        {
+            "team": "/ca-linense-nacional-sp/dausDAAb",
+            "h2h_score": [
+                {
+                    "Date": "18/02/20",
+                    "Nacional SP ": 1,
+                    "CA Linense ": 1
+                },
+                {
+                    "Date": "03/02/19",
+                    "CA Linense ": 1,
+                    "Nacional SP ": 1
+                }
+            ]
+        },
+        {
+            "team": "/comercial-sp-desportivo-brasil/PIzskBXb",
+            "h2h_score": [
+                {
+                    "Date": "22/02/20",
+                    "Desportivo Brasil ": 1,
+                    "Comercial SP ": 2
+                },
+                {
+                    "Date": "13/04/19",
+                    "Desportivo Brasil ": 3,
+                    "Comercial SP ": 2
+                },
+                {
+                    "Date": "07/04/19",
+                    "Comercial SP ": 1,
+                    "Desportivo Brasil ": 0
+                }
+            ]
+        },
+        {
+            "team": "/ec-noroeste-olimpia-fc/mOcslBXb",
+            "h2h_score": [
+                {
+                    "Date": "15/03/20",
+                    "Ol\u00edmpia FC ": 1,
+                    "EC Noroeste ": 3
+                },
+                {
+                    "Date": "31/01/19",
+                    "EC Noroeste ": 1,
+                    "Ol\u00edmpia FC ": 0
+                },
+                {
+                    "Date": "22/03/18",
+                    "EC Noroeste ": 2,
+                    "Ol\u00edmpia FC ": 2
+                }
+            ]
+        },
+        {
+            "team": "/rio-negro-rr-atletico-roraima/WOshWLc",
+            "h2h_score": [
+                {
+                    "Date": "11/03/20",
+                    "Atletico Roraima ": 0,
+                    "Rio Negro RR ": 1
+                }
+            ]
+        },
+        {
+            "team": "/dobrudzha-dobrich-hebar-pazardzhik/RecsUZRb",
+            "h2h_score": [
+                {
+                    "Date": "29/11/20",
+                    "Dobrudzha Dobrich ": 2,
+                    "Hebar Pazardzhik ": 1
+                }
+            ]
+        },
+        {
+            "team": "/lokomotiv-gorna-oryahovitsa-ludogorets-razgrad/bEysBmFb",
+            "h2h_score": [
+                {
+                    "Date": "06/02/21",
+                    "Ludogorets Razgrad B ": 4,
+                    "Lokomotiv Gorna Oryahovitsa ": 0
+                },
+                {
+                    "Date": "01/12/20",
+                    "Lokomotiv Gorna Oryahovitsa ": 0,
+                    "Ludogorets Razgrad B ": 2
+                },
+                {
+                    "Date": "01/07/20",
+                    "Lokomotiv Gorna Oryahovitsa ": 0,
+                    "Ludogorets Razgrad B ": 1
+                }
+            ]
+        },
+        {
+            "team": "/guangdong-meizhou-hakka-henan-jianye/lnRcsmnRc",
+            "h2h_score": [
+                {
+                    "Date": "30/09/20",
+                    "Henan Jianye ": 1,
+                    "Guangdong Meizhou Hakka ": 1
+                },
+                {
+                    "Date": "05/09/20",
+                    "Guangdong Meizhou Hakka ": 3,
+                    "Henan Jianye ": 2
+                },
+                {
+                    "Date": "24/08/19",
+                    "Henan Jianye ": 4,
+                    "Guangdong Meizhou Hakka ": 0
+                },
+                {
+                    "Date": "20/07/19",
+                    "Guangdong Meizhou Hakka ": 0,
+                    "Henan Jianye ": 0
+                }
+            ]
+        },
+        {
+            "team": "/shandong-sports-lottery-wuhan-chegu-jhun/fRocsinRc",
+            "h2h_score": [
+                {
+                    "Date": "15/09/20",
+                    "Shandong Sports Lottery ": 1,
+                    "Wuhan Chegu JHUN ": 3
+                },
+                {
+                    "Date": "12/07/18",
+                    "Shandong Sports Lottery ": 5,
+                    "Wuhan Chegu JHUN ": 1
+                }
+            ]
+        },
+        {
+            "team": "/shanghai-rcb-jiangsu/VbhcsYbhc",
+            "h2h_score": [
+                {
+                    "Date": "06/10/20",
+                    "Shanghai RCB ": 0,
+                    "Jiangsu ": 1
+                },
+                {
+                    "Date": "05/09/20",
+                    "Jiangsu ": 0,
+                    "Shanghai RCB ": 3
+                },
+                {
+                    "Date": "25/08/19",
+                    "Shanghai RCB ": 3,
+                    "Jiangsu ": 2
+                },
+                {
+                    "Date": "19/07/19",
+                    "Jiangsu ": 1,
+                    "Shanghai RCB ": 0
+                }
+            ]
+        },
+        {
+            "team": "/zhejiang-hangzhou-changchun-dazhong-zhiye/eRocsjnRc",
+            "h2h_score": [
+                {
+                    "Date": "07/10/20",
+                    "Changchun Dazhong Zhiye ": 5,
+                    "Zhejiang Hangzhou ": 0
+                },
+                {
+                    "Date": "15/09/20",
+                    "Zhejiang Hangzhou ": 0,
+                    "Changchun Dazhong Zhiye ": 4
+                }
+            ]
+        },
+        {
+            "team": "/nk-rudes-nk-hrvatski-dragovoljac/DPsBeo",
+            "h2h_score": [
+                {
+                    "Date": "20/11/20",
+                    "NK Hrvatski Dragovoljac ": 0,
+                    "NK Rude\u0161 ": 1
+                },
+                {
+                    "Date": "27/10/19",
+                    "NK Rude\u0161 ": 1,
+                    "NK Hrvatski Dragovoljac ": 1
+                },
+                {
+                    "Date": "25/03/17",
+                    "NK Rude\u0161 ": 0,
+                    "NK Hrvatski Dragovoljac ": 0
+                }
+            ]
+        },
+        {
+            "team": "/nk-vrbovec-nk-lucko/GkksDOr",
+            "h2h_score": [
+                {
+                    "Date": "17/10/20",
+                    "NK Vrbovec ": 2,
+                    "NK Lu\u010dko ": 3
+                }
+            ]
+        },
+        {
+            "team": "/nk-valbandon-72-nk-liznjan/UfXcsXfXc",
+            "h2h_score": [
+                {
+                    "Date": "30/08/20",
+                    "NK Li\u017enjan ": 1,
+                    "NK Valbandon 72 ": 1
+                }
+            ]
+        },
+        {
+            "team": "/nk-orkan-dugi-rat-nk-omis/eyacsWXpc",
+            "h2h_score": [
+                {
+                    "Date": "24/10/20",
+                    "NK Omi\u0161 ": 0,
+                    "NK Orkan Dugi Rat ": 3
+                }
+            ]
+        },
+        {
+            "team": "/nk-poljicanin-1921-nk-mracaj-runovic/LPQcsqmVc",
+            "h2h_score": [
+                {
+                    "Date": "24/10/20",
+                    "NK Mra\u010daj Runovi\u0107 ": 2,
+                    "NK Polji\u010danin 1921 ": 0
+                }
+            ]
+        },
+        {
+            "team": "/nk-primorac-1929-stobrec-nk-gosk-kastela/uoFsumVc",
+            "h2h_score": [
+                {
+                    "Date": "24/10/20",
+                    "NK GO\u0160K Ka\u0161tela ": 2,
+                    "NK Primorac 1929 Stobre\u010d ": 1
+                }
+            ]
+        },
+        {
+            "team": "/nk-omladinac-vranjic-hnk-val-kastel-stari/molcsHWEc",
+            "h2h_score": [
+                {
+                    "Date": "24/10/20",
+                    "NK Omladinac Vranjic ": 1,
+                    "HNK Val Ka\u0161tel Stari ": 0
+                }
+            ]
+        },
+        {
+            "team": "/as-simba-jeunesse-sportive-de-kinshasa/JZXcsoIYc",
+            "h2h_score": [
+                {
+                    "Date": "28/11/20",
+                    "AS Simba ": 1,
+                    "Jeunesse Sportive de Kinshasa ": 0
+                }
+            ]
+        },
+        {
+            "team": "/wigan-athletic-u23-sheffield-united-u23/PvGbsXaQb",
+            "h2h_score": [
+                {
+                    "Date": "25/11/20",
+                    "Wigan Athletic U23 ": 1,
+                    "Sheffield United U23 ": 0
+                },
+                {
+                    "Date": "13/02/20",
+                    "Wigan Athletic U23 ": 1,
+                    "Sheffield United U23 ": 0
+                },
+                {
+                    "Date": "17/12/19",
+                    "Sheffield United U23 ": 2,
+                    "Wigan Athletic U23 ": 2
+                }
+            ]
+        },
+        {
+            "team": "/flora-tallinn-narva-trans/TqbsWqb",
+            "h2h_score": [
+                {
+                    "Date": "17/04/21",
+                    "Flora Tallinn ": 5,
+                    "Narva Trans ": 0
+                }
+            ]
+        },
+        {
+            "team": "/jimma-aba-jifar-welayta-dicha-fc/Palcsafxc",
+            "h2h_score": [
+                {
+                    "Date": "31/01/21",
+                    "Jimma Aba Jifar ": 1,
+                    "Welayta Dicha FC ": 3
+                },
+                {
+                    "Date": "24/01/19",
+                    "Jimma Aba Jifar ": 2,
+                    "Welayta Dicha FC ": 0
+                }
+            ]
+        },
+        {
+            "team": "/saint-george-welkite-ketema/MVMstiJc",
+            "h2h_score": [
+                {
+                    "Date": "13/11/19",
+                    "Saint George ": 3,
+                    "Welkite Ketema ": 1
+                }
+            ]
+        },
+        {
+            "team": "/saint-george-sidama-bunna/MVMsDhBc",
+            "h2h_score": [
+                {
+                    "Date": "30/01/21",
+                    "Saint George ": 0,
+                    "Sidama Bunna ": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-dinamo-zugdidi-gareji/tMosvDZb",
+            "h2h_score": [
+                {
+                    "Date": "14/03/21",
+                    "FC Dinamo Zugdidi ": 2,
+                    "Gareji ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-rustavi-merani-martvili/dedsdWo",
+            "h2h_score": [
+                {
+                    "Date": "14/03/21",
+                    "FC Rustavi ": 0,
+                    "Merani Martvili ": 2
+                },
+                {
+                    "Date": "28/10/20",
+                    "FC Rustavi ": 3,
+                    "Merani Martvili ": 1
+                }
+            ]
+        },
+        {
+            "team": "/sioni-bolnisi-shevardeni-1906/jucsLRbc",
+            "h2h_score": [
+                {
+                    "Date": "15/03/21",
+                    "Shevardeni 1906 ": 0,
+                    "Sioni Bolnisi ": 2
+                },
+                {
+                    "Date": "23/09/20",
+                    "Shevardeni 1906 ": 0,
+                    "Sioni Bolnisi ": 4
+                },
+                {
+                    "Date": "06/07/20",
+                    "Shevardeni 1906 ": 2,
+                    "Sioni Bolnisi ": 4
+                }
+            ]
+        },
+        {
+            "team": "/europa-point-fc-glacis-united/cBabsZaTb",
+            "h2h_score": [
+                {
+                    "Date": "12/04/21",
+                    "Glacis United ": 3,
+                    "Europa Point FC ": 1
+                },
+                {
+                    "Date": "21/11/20",
+                    "Glacis United ": 1,
+                    "Europa Point FC ": 1
+                },
+                {
+                    "Date": "31/01/20",
+                    "Europa Point FC ": 2,
+                    "Glacis United ": 1
+                }
+            ]
+        },
+        {
+            "team": "/hong-kong-rangers-hong-kong-pegasus/DZtsXtG",
+            "h2h_score": [
+                {
+                    "Date": "28/02/21",
+                    "Hong Kong Pegasus ": 2,
+                    "Hong Kong Rangers ": 0
+                },
+                {
+                    "Date": "14/11/20",
+                    "Hong Kong Pegasus ": 4,
+                    "Hong Kong Rangers ": 2
+                },
+                {
+                    "Date": "31/10/20",
+                    "Hong Kong Rangers ": 0,
+                    "Hong Kong Pegasus ": 2
+                }
+            ]
+        },
+        {
+            "team": "/epitok-kc-diosjeno-se/qicdswicd",
+            "h2h_score": [
+                {
+                    "Date": "30/08/20",
+                    "\u00c9p\u00edt\u0151k KC ": 1,
+                    "Di\u00f3sjen\u0151 SE ": 3
+                }
+            ]
+        },
+        {
+            "team": "/throttur-reykjavik-valur-reykjavik/JTosCku",
+            "h2h_score": [
+                {
+                    "Date": "20/03/21",
+                    "Valur Reykjav\u00edk ": 8,
+                    "Thr\u00f3ttur Reykjav\u00edk ": 0
+                },
+                {
+                    "Date": "25/08/20",
+                    "Valur Reykjav\u00edk ": 3,
+                    "Thr\u00f3ttur Reykjav\u00edk ": 1
+                },
+                {
+                    "Date": "19/06/20",
+                    "Thr\u00f3ttur Reykjav\u00edk ": 1,
+                    "Valur Reykjav\u00edk ": 2
+                },
+                {
+                    "Date": "02/02/20",
+                    "Thr\u00f3ttur Reykjav\u00edk ": 1,
+                    "Valur Reykjav\u00edk ": 8
+                }
+            ]
+        },
+        {
+            "team": "/thorka-akureyri-umf-selfoss/jkxsPXOb",
+            "h2h_score": [
+                {
+                    "Date": "04/10/20",
+                    "\u00de\u00f3r/KA Akureyri ": 1,
+                    "UMF Selfoss ": 0
+                },
+                {
+                    "Date": "19/07/20",
+                    "UMF Selfoss ": 2,
+                    "\u00de\u00f3r/KA Akureyri ": 1
+                },
+                {
+                    "Date": "29/02/20",
+                    "\u00de\u00f3r/KA Akureyri ": 0,
+                    "UMF Selfoss ": 2
+                },
+                {
+                    "Date": "25/08/19",
+                    "\u00de\u00f3r/KA Akureyri ": 1,
+                    "UMF Selfoss ": 2
+                }
+            ]
+        },
+        {
+            "team": "/crotone-u19-pescara-u19/nGGsyGG",
+            "h2h_score": [
+                {
+                    "Date": "06/02/21",
+                    "Pescara U19 ": 3,
+                    "Crotone U19 ": 0
+                },
+                {
+                    "Date": "09/03/19",
+                    "Pescara U19 ": 3,
+                    "Crotone U19 ": 0
+                }
+            ]
+        },
+        {
+            "team": "/ramtha-sc-al-hussein-irbid/VQwseUW",
+            "h2h_score": [
+                {
+                    "Date": "29/12/20",
+                    "Ramtha SC ": 2,
+                    "Al Hussein Irbid ": 1
+                },
+                {
+                    "Date": "24/09/20",
+                    "Al Hussein Irbid ": 1,
+                    "Ramtha SC ": 1
+                },
+                {
+                    "Date": "27/04/19",
+                    "Al Hussein Irbid ": 0,
+                    "Ramtha SC ": 1
+                },
+                {
+                    "Date": "10/11/18",
+                    "Ramtha SC ": 1,
+                    "Al Hussein Irbid ": 0
+                }
+            ]
+        },
+        {
+            "team": "/maktaaral-kairat-zhastar/JgLsyvAc",
+            "h2h_score": [
+                {
+                    "Date": "24/08/19",
+                    "Kairat-Zhastar ": 0,
+                    "Maktaaral ": 3
+                },
+                {
+                    "Date": "11/05/19",
+                    "Maktaaral ": 0,
+                    "Kairat-Zhastar ": 4
+                }
+            ]
+        },
+        {
+            "team": "/fk-kyran-shymkent-fk-baikonur/wnvspeMb",
+            "h2h_score": [
+                {
+                    "Date": "13/10/20",
+                    "FK Kyran Shymkent ": 1,
+                    "FK Baikonur ": 3
+                },
+                {
+                    "Date": "15/09/20",
+                    "FK Baikonur ": 0,
+                    "FK Kyran Shymkent ": 3
+                },
+                {
+                    "Date": "15/09/20",
+                    "FK Baikonur ": 0,
+                    "FK Kyran Shymkent ": 3
+                }
+            ]
+        },
+        {
+            "team": "/atlas-pachuca/ZuecsuZgc",
+            "h2h_score": [
+                {
+                    "Date": "08/05/21",
+                    "Pachuca ": 0,
+                    "Atlas ": 2
+                },
+                {
+                    "Date": "04/02/21",
+                    "Atlas ": 3,
+                    "Pachuca ": 3
+                },
+                {
+                    "Date": "17/11/20",
+                    "Pachuca ": 1,
+                    "Atlas ": 3
+                }
+            ]
+        },
+        {
+            "team": "/guadalajara-toluca/BvecsyWfc",
+            "h2h_score": [
+                {
+                    "Date": "08/05/21",
+                    "Toluca ": 0,
+                    "Guadalajara ": 1
+                },
+                {
+                    "Date": "12/03/21",
+                    "Guadalajara ": 1,
+                    "Toluca ": 1
+                },
+                {
+                    "Date": "28/08/20",
+                    "Toluca ": 1,
+                    "Guadalajara ": 4
+                },
+                {
+                    "Date": "15/03/20",
+                    "Guadalajara ": 2,
+                    "Toluca ": 0
+                }
+            ]
+        },
+        {
+            "team": "/tigres-uanl-club-america/Dxecsewhc",
+            "h2h_score": [
+                {
+                    "Date": "07/05/21",
+                    "Club Am\u00e9rica ": 0,
+                    "Tigres UANL ": 4
+                },
+                {
+                    "Date": "16/03/21",
+                    "Club Am\u00e9rica ": 2,
+                    "Tigres UANL ": 2
+                },
+                {
+                    "Date": "11/10/20",
+                    "Tigres UANL ": 1,
+                    "Club Am\u00e9rica ": 0
+                }
+            ]
+        },
+        {
+            "team": "/monterrey-pumas-unam/avecsPPjc",
+            "h2h_score": [
+                {
+                    "Date": "07/05/21",
+                    "Pumas UNAM ": 1,
+                    "Monterrey ": 2
+                },
+                {
+                    "Date": "22/01/21",
+                    "Pumas UNAM ": 3,
+                    "Monterrey ": 0
+                },
+                {
+                    "Date": "01/12/20",
+                    "Monterrey ": 4,
+                    "Pumas UNAM ": 0
+                },
+                {
+                    "Date": "28/11/20",
+                    "Pumas UNAM ": 1,
+                    "Monterrey ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-tighina-fc-balti/qfcsYBQc",
+            "h2h_score": [
+                {
+                    "Date": "10/10/20",
+                    "FC Tighina ": 0,
+                    "FC Balti ": 3
+                }
+            ]
+        },
+        {
+            "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+            "h2h_score": [
+                {
+                    "Date": "10/10/20",
+                    "CS Drochia ": 1,
+                    "FC Cahul - 2005 ": 3
+                },
+                {
+                    "Date": "09/11/19",
+                    "FC Cahul - 2005 ": 4,
+                    "CS Drochia ": 0
+                },
+                {
+                    "Date": "03/08/19",
+                    "CS Drochia ": 1,
+                    "FC Cahul - 2005 ": 2
+                }
+            ]
+        },
+        {
+            "team": "/fc-sireti-fc-iskra-rabnita/bxGbsKOHb",
+            "h2h_score": [
+                {
+                    "Date": "10/10/20",
+                    "FC Sireti ": 4,
+                    "FC Iskra Rabnita ": 4
+                },
+                {
+                    "Date": "27/10/19",
+                    "FC Sireti ": 4,
+                    "FC Iskra Rabnita ": 3
+                },
+                {
+                    "Date": "10/07/19",
+                    "FC Iskra Rabnita ": 1,
+                    "FC Sireti ": 5
+                },
+                {
+                    "Date": "14/10/18",
+                    "FC Sireti ": 1,
+                    "FC Iskra Rabnita ": 2
+                }
+            ]
+        },
+        {
+            "team": "/fc-victoria-fc-sucleia/cjpsZKBc",
+            "h2h_score": [
+                {
+                    "Date": "09/10/20",
+                    "FC Victoria ": 4,
+                    "Fc Sucleia ": 6
+                }
+            ]
+        },
+        {
+            "team": "/cf-sparta-real-succes/AtFsOxH",
+            "h2h_score": [
+                {
+                    "Date": "27/10/20",
+                    "CF Sparta ": 2,
+                    "Real Succes ": 1
+                },
+                {
+                    "Date": "09/11/19",
+                    "Real Succes ": 0,
+                    "CF Sparta ": 3
+                },
+                {
+                    "Date": "04/08/19",
+                    "CF Sparta ": 2,
+                    "Real Succes ": 1
+                },
+                {
+                    "Date": "01/09/17",
+                    "CF Sparta ": 3,
+                    "Real Succes ": 1
+                }
+            ]
+        },
+        {
+            "team": "/sheriff-tiraspol-ii-fc-granicerul/FOosHjab",
+            "h2h_score": [
+                {
+                    "Date": "09/10/20",
+                    "FC Granicerul ": 0,
+                    "Sheriff Tiraspol II ": 1
+                },
+                {
+                    "Date": "17/11/17",
+                    "FC Granicerul ": 1,
+                    "Sheriff Tiraspol II ": 2
+                },
+                {
+                    "Date": "27/09/17",
+                    "FC Granicerul ": 2,
+                    "Sheriff Tiraspol II ": 2
+                }
+            ]
+        },
+        {
+            "team": "/vv-alkmaar-excelsiorbarendrecht/MKfcsNKfc",
+            "h2h_score": [
+                {
+                    "Date": "06/03/21",
+                    "Excelsior/Barendrecht ": 0,
+                    "VV Alkmaar ": 3
+                },
+                {
+                    "Date": "27/02/21",
+                    "VV Alkmaar ": 4,
+                    "Excelsior/Barendrecht ": 3
+                }
+            ]
+        },
+        {
+            "team": "/independiente-fbc-rubio-nu/NDoszju",
+            "h2h_score": [
+                {
+                    "Date": "10/08/19",
+                    "Rubio \u00d1u ": 1,
+                    "Independiente FBC ": 0
+                },
+                {
+                    "Date": "29/04/19",
+                    "Independiente FBC ": 3,
+                    "Rubio \u00d1u ": 1
+                }
+            ]
+        },
+        {
+            "team": "/gks-katowice-blekitni-stargard/mmbsWVob",
+            "h2h_score": [
+                {
+                    "Date": "30/10/20",
+                    "GKS Katowice ": 5,
+                    "B\u0142\u0119kitni Stargard ": 0
+                },
+                {
+                    "Date": "29/02/20",
+                    "GKS Katowice ": 2,
+                    "B\u0142\u0119kitni Stargard ": 2
+                }
+            ]
+        },
+        {
+            "team": "/estoril-praia-u23-sc-braga-u23/UbrcsObtc",
+            "h2h_score": [
+                {
+                    "Date": "07/03/21",
+                    "Estoril Praia U23 ": 1,
+                    "SC Braga U23 ": 1
+                },
+                {
+                    "Date": "22/01/21",
+                    "SC Braga U23 ": 2,
+                    "Estoril Praia U23 ": 1
+                },
+                {
+                    "Date": "28/02/20",
+                    "SC Braga U23 ": 0,
+                    "Estoril Praia U23 ": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-duhail-al-rayyan/knqsQNr",
+            "h2h_score": [
+                {
+                    "Date": "14/02/21",
+                    "Al Duhail ": 2,
+                    "Al-Rayyan ": 0
+                },
+                {
+                    "Date": "25/10/20",
+                    "Al-Rayyan ": 1,
+                    "Al Duhail ": 2
+                },
+                {
+                    "Date": "01/02/20",
+                    "Al-Rayyan ": 1,
+                    "Al Duhail ": 0
+                },
+                {
+                    "Date": "15/09/19",
+                    "Al Duhail ": 1,
+                    "Al-Rayyan ": 1
+                }
+            ]
+        },
+        {
+            "team": "/sc-makhachkala-anzhi-makhachkala/CWsWdEc",
+            "h2h_score": [
+                {
+                    "Date": "25/10/20",
+                    "SC Makhachkala ": 1,
+                    "Anzhi Makhachkala ": 0
+                },
+                {
+                    "Date": "12/10/19",
+                    "SC Makhachkala ": 1,
+                    "Anzhi Makhachkala ": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-zvezda-perm-krylia-sovetov-samara-ii/fqecsCqqc",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "FC Zvezda Perm ": 3,
+                    "Krylia Sovetov Samara II ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-lada-togliatti-volga-ulyanovsk/QWsWNi",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "FC Lada-Togliatti ": 0,
+                    "Volga Ulyanovsk ": 3
+                },
+                {
+                    "Date": "15/07/20",
+                    "Volga Ulyanovsk ": 1,
+                    "FC Lada-Togliatti ": 2
+                },
+                {
+                    "Date": "16/07/19",
+                    "FC Lada-Togliatti ": 1,
+                    "Volga Ulyanovsk ": 0
+                }
+            ]
+        },
+        {
+            "team": "/zenit-izhevsk-orenburg-ii/VdFsBnec",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "Orenburg II ": 2,
+                    "Zenit Izhevsk ": 0
+                },
+                {
+                    "Date": "10/04/18",
+                    "Orenburg II ": 0,
+                    "Zenit Izhevsk ": 4
+                },
+                {
+                    "Date": "25/08/17",
+                    "Zenit Izhevsk ": 2,
+                    "Orenburg II ": 0
+                }
+            ]
+        },
+        {
+            "team": "/nosta-novotroitsk-fk-kamaz-naberezhnye-chelny/tadsxad",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "Nosta Novotroitsk ": 1,
+                    "FK Kamaz Naberezhnye Chelny ": 2
+                },
+                {
+                    "Date": "30/09/19",
+                    "FK Kamaz Naberezhnye Chelny ": 0,
+                    "Nosta Novotroitsk ": 1
+                },
+                {
+                    "Date": "24/07/19",
+                    "Nosta Novotroitsk ": 2,
+                    "FK Kamaz Naberezhnye Chelny ": 4
+                },
+                {
+                    "Date": "09/07/19",
+                    "FK Kamaz Naberezhnye Chelny ": 2,
+                    "Nosta Novotroitsk ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fk-chita-luki-energiya-velikiye-luki/BNnsyAdc",
+            "h2h_score": [
+                {
+                    "Date": "09/09/20",
+                    "Luki-Energiya Velikiye Luki ": 3,
+                    "FK Chita ": 0
+                }
+            ]
+        },
+        {
+            "team": "/rodina-moscow-fk-kolomna/wURsZdEc",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "Rodina Moscow ": 4,
+                    "FK Kolomna ": 1
+                },
+                {
+                    "Date": "02/09/20",
+                    "FK Kolomna ": 2,
+                    "Rodina Moscow ": 3
+                },
+                {
+                    "Date": "28/09/19",
+                    "FK Kolomna ": 0,
+                    "Rodina Moscow ": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-tver-leningradets/NJqcsZQQc",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "FC Tver ": 3,
+                    "Leningradets ": 0
+                }
+            ]
+        },
+        {
+            "team": "/lokomotiv-kazanka-moscow-zenit-st-petersburg-ii/ohusRwD",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "Zenit St. Petersburg II ": 6,
+                    "Lokomotiv-Kazanka Moscow ": 0
+                },
+                {
+                    "Date": "05/10/19",
+                    "Lokomotiv-Kazanka Moscow ": 1,
+                    "Zenit St. Petersburg II ": 1
+                },
+                {
+                    "Date": "24/10/13",
+                    "Zenit St. Petersburg II ": 1,
+                    "Lokomotiv-Kazanka Moscow ": 0
+                }
+            ]
+        },
+        {
+            "team": "/olimp-dolgoprudniy-dynamo-moscow-ii/RjQbsvxPc",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "Dynamo Moscow II ": 3,
+                    "Olimp-Dolgoprudniy ": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-murom-zvezda-sankt-peterburg/qzFbsjgec",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "Zvezda Sankt-Peterburg ": 0,
+                    "FC Murom ": 0
+                },
+                {
+                    "Date": "12/10/19",
+                    "Zvezda Sankt-Peterburg ": 1,
+                    "FC Murom ": 4
+                }
+            ]
+        },
+        {
+            "team": "/fc-znamya-truda-orekhovo-zuevo-torpedo-vladimir/vHjsweF",
+            "h2h_score": [
+                {
+                    "Date": "06/09/20",
+                    "FC Znamya Truda Orekhovo-Zuevo ": 0,
+                    "Torpedo Vladimir ": 0
+                },
+                {
+                    "Date": "21/09/19",
+                    "FC Znamya Truda Orekhovo-Zuevo ": 0,
+                    "Torpedo Vladimir ": 0
+                },
+                {
+                    "Date": "27/10/18",
+                    "Torpedo Vladimir ": 0,
+                    "FC Znamya Truda Orekhovo-Zuevo ": 2
+                }
+            ]
+        },
+        {
+            "team": "/fc-smolensk-zenit-irkutsk/tBQbscXyc",
+            "h2h_score": [
+                {
+                    "Date": "09/09/20",
+                    "FC Smolensk ": 1,
+                    "Zenit Irkutsk ": 2
+                }
+            ]
+        },
+        {
+            "team": "/kolomyagi-sh-357-u21-sdyushor-zenit-st-petersburg-u21/zAbcsXqRc",
+            "h2h_score": [
+                {
+                    "Date": "06/10/20",
+                    "Kolomyagi (sh 357) U21 ": 1,
+                    "SDYuShOR Zenit St. Petersburg U21 ": 4
+                }
+            ]
+        },
+        {
+            "team": "/sh-n2-vo-zvezda-u19-zvezda-sankt-peterburg-u21/HaMcslnOc",
+            "h2h_score": [
+                {
+                    "Date": "03/10/20",
+                    "Zvezda Sankt-Peterburg U21 ": 1,
+                    "SH N2 VO Zvezda U19 ": 4
+                }
+            ]
+        },
+        {
+            "team": "/yadro-inter-lesgafta/rYbdsoacd",
+            "h2h_score": [
+                {
+                    "Date": "17/04/21",
+                    "Yadro ": 0,
+                    "Inter Lesgafta ": 1
+                }
+            ]
+        },
+        {
+            "team": "/bugesera-fc-apr-fc/OyBbsRmhc",
+            "h2h_score": [
+                {
+                    "Date": "08/05/21",
+                    "Bugesera FC ": 0,
+                    "APR FC ": 3
+                },
+                {
+                    "Date": "12/01/20",
+                    "APR FC ": 2,
+                    "Bugesera FC ": 1
+                },
+                {
+                    "Date": "08/10/19",
+                    "Bugesera FC ": 0,
+                    "APR FC ": 1
+                }
+            ]
+        },
+        {
+            "team": "/gorilla-fc-as-muhanga/yPvcsbhLc",
+            "h2h_score": [
+                {
+                    "Date": "08/05/21",
+                    "Gorilla FC ": 2,
+                    "As Muhanga ": 1
+                },
+                {
+                    "Date": "10/12/20",
+                    "As Muhanga ": 0,
+                    "Gorilla FC ": 0
+                }
+            ]
+        },
+        {
+            "team": "/gasogi-united-kiyovu-sports/PmhcsEzCc",
+            "h2h_score": [
+                {
+                    "Date": "08/05/21",
+                    "Gasogi United ": 2,
+                    "Kiyovu Sports ": 1
+                },
+                {
+                    "Date": "03/03/20",
+                    "Kiyovu Sports ": 0,
+                    "Gasogi United ": 1
+                }
+            ]
+        },
+        {
+            "team": "/rutsiro-fc-rayon-sports-fc/xKdbsDhLc",
+            "h2h_score": [
+                {
+                    "Date": "08/05/21",
+                    "Rutsiro FC ": 0,
+                    "Rayon Sports FC ": 2
+                },
+                {
+                    "Date": "04/12/20",
+                    "Rutsiro FC ": 1,
+                    "Rayon Sports FC ": 1
+                }
+            ]
+        },
+        {
+            "team": "/sp-tre-penne-la-fiorita/khpsmhp",
+            "h2h_score": [
+                {
+                    "Date": "13/03/21",
+                    "SP Tre Penne ": 0,
+                    "La Fiorita ": 1
+                }
+            ]
+        },
+        {
+            "team": "/fk-radnicki-1946-lubnica-fk-trebic-sokobanja/AacdsBacd",
+            "h2h_score": [
+                {
+                    "Date": "26/09/20",
+                    "FK Radni\u010dki 1946 Lubnica ": 2,
+                    "FK Trebi\u010d Sokobanja ": 2
+                }
+            ]
+        },
+        {
+            "team": "/helsingborg-u21-trelleborgs-u21/cOKsJmLb",
+            "h2h_score": [
+                {
+                    "Date": "24/07/18",
+                    "Helsingborg U21 ": 1,
+                    "Trelleborgs U21 ": 0
+                }
+            ]
+        },
+        {
+            "team": "/orgryte-is-u21-falkenbergs-u21/vdBseOK",
+            "h2h_score": [
+                {
+                    "Date": "14/07/17",
+                    "\u00d6rgryte IS U21 ": 0,
+                    "Falkenbergs U21 ": 4
+                },
+                {
+                    "Date": "02/05/17",
+                    "Falkenbergs U21 ": 6,
+                    "\u00d6rgryte IS U21 ": 1
+                },
+                {
+                    "Date": "25/06/13",
+                    "Falkenbergs U21 ": 2,
+                    "\u00d6rgryte IS U21 ": 5
+                },
+                {
+                    "Date": "10/04/13",
+                    "\u00d6rgryte IS U21 ": 0,
+                    "Falkenbergs U21 ": 6
+                }
+            ]
+        },
+        {
+            "team": "/kagera-sugar-fc-mwadui-fc/cYJbseYJb",
+            "h2h_score": [
+                {
+                    "Date": "22/11/20",
+                    "Kagera Sugar Fc ": 1,
+                    "Mwadui FC ": 0
+                },
+                {
+                    "Date": "26/07/20",
+                    "Mwadui FC ": 2,
+                    "Kagera Sugar Fc ": 1
+                },
+                {
+                    "Date": "05/02/20",
+                    "Kagera Sugar Fc ": 2,
+                    "Mwadui FC ": 1
+                },
+                {
+                    "Date": "06/01/19",
+                    "Mwadui FC ": 4,
+                    "Kagera Sugar Fc ": 0
+                }
+            ]
+        },
+        {
+            "team": "/coastal-union-simba-sc/jYJbsnYJb",
+            "h2h_score": [
+                {
+                    "Date": "23/07/20",
+                    "Coastal Union ": 0,
+                    "Simba SC ": 0
+                },
+                {
+                    "Date": "01/02/20",
+                    "Simba SC ": 2,
+                    "Coastal Union ": 0
+                },
+                {
+                    "Date": "08/05/19",
+                    "Simba SC ": 8,
+                    "Coastal Union ": 1
+                }
+            ]
+        },
+        {
+            "team": "/mbarara-city-bright-stars/PkKbsYKec",
+            "h2h_score": [
+                {
+                    "Date": "13/03/21",
+                    "Mbarara City ": 0,
+                    "Bright Stars ": 1
+                },
+                {
+                    "Date": "04/03/20",
+                    "Bright Stars ": 1,
+                    "Mbarara City ": 3
+                },
+                {
+                    "Date": "06/11/19",
+                    "Mbarara City ": 0,
+                    "Bright Stars ": 0
+                },
+                {
+                    "Date": "12/02/19",
+                    "Bright Stars ": 0,
+                    "Mbarara City ": 0
+                }
+            ]
+        },
+        {
+            "team": "/busoga-united-fc-wakiso-giantsc/mXrcsPfGc",
+            "h2h_score": [
+                {
+                    "Date": "13/03/21",
+                    "Wakiso Giants F.C ": 0,
+                    "Busoga United FC ": 1
+                },
+                {
+                    "Date": "25/02/20",
+                    "Busoga United FC ": 1,
+                    "Wakiso Giants F.C ": 0
+                },
+                {
+                    "Date": "08/11/19",
+                    "Wakiso Giants F.C ": 2,
+                    "Busoga United FC ": 1
+                }
+            ]
+        },
+        {
+            "team": "/onduparaka-sc-villa/NlgcsPlgc",
+            "h2h_score": [
+                {
+                    "Date": "04/05/21",
+                    "SC Villa ": 0,
+                    "Onduparaka ": 0
+                },
+                {
+                    "Date": "01/05/21",
+                    "Onduparaka ": 0,
+                    "SC Villa ": 1
+                },
+                {
+                    "Date": "14/03/21",
+                    "SC Villa ": 1,
+                    "Onduparaka ": 0
+                },
+                {
+                    "Date": "19/02/20",
+                    "SC Villa ": 1,
+                    "Onduparaka ": 0
+                }
+            ]
+        },
+        {
+            "team": "/myda-fc-updf/crGbsOcIc",
+            "h2h_score": [
+                {
+                    "Date": "12/03/21",
+                    "Myda FC ": 0,
+                    "UPDF ": 3
+                }
+            ]
+        },
+        {
+            "team": "/metallurg-bekabad-lokomotiv-tashkent/lfqsqfq",
+            "h2h_score": [
+                {
+                    "Date": "25/09/20",
+                    "Metallurg Bekabad ": 2,
+                    "Lokomotiv Tashkent ": 2
+                },
+                {
+                    "Date": "15/06/20",
+                    "Lokomotiv Tashkent ": 0,
+                    "Metallurg Bekabad ": 3
+                },
+                {
+                    "Date": "15/09/19",
+                    "Lokomotiv Tashkent ": 1,
+                    "Metallurg Bekabad ": 1
+                },
+                {
+                    "Date": "12/05/19",
+                    "Metallurg Bekabad ": 0,
+                    "Lokomotiv Tashkent ": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-sogdiana-jizzakh-pfk-andijon/rfqsoxu",
+            "h2h_score": [
+                {
+                    "Date": "18/10/20",
+                    "PFK Andijon ": 1,
+                    "FC Sogdiana Jizzakh ": 1
+                },
+                {
+                    "Date": "26/06/20",
+                    "FC Sogdiana Jizzakh ": 1,
+                    "PFK Andijon ": 1
+                },
+                {
+                    "Date": "13/09/19",
+                    "PFK Andijon ": 0,
+                    "FC Sogdiana Jizzakh ": 0
+                },
+                {
+                    "Date": "10/05/19",
+                    "FC Sogdiana Jizzakh ": 2,
+                    "PFK Andijon ": 1
+                }
+            ]
+        }
+    ]
+}

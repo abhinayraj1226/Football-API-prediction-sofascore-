@@ -1,0 +1,2014 @@
+{
+    "Date": "2021-05-10",
+    "Total Match": 251,
+    "result": [
+        {
+            "team": "/sevilla-real-madrid/EgbsIgb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Real Madrid ": 2,
+                "Sevilla ": 2
+            }
+        },
+        {
+            "team": "/milan-juventus/MdbsRdb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Juventus ": 0,
+                "Milan ": 3
+            }
+        },
+        {
+            "team": "/stade-rennais-paris-saint-germain/UHsiI",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Stade Rennais ": 1,
+                "Paris Saint-Germain ": 1
+            }
+        },
+        {
+            "team": "/gil-vicente-fc-sporting-braga/Zjbskkb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Gil Vicente FC ": 1,
+                "Sporting Braga ": 1
+            }
+        },
+        {
+            "team": "/portimonense-moreirense/okbsBkb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Portimonense ": 1,
+                "Moreirense ": 2
+            }
+        },
+        {
+            "team": "/ural-yekaterinburg-fc-rostov/BWsEad",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Ural Yekaterinburg ": 1,
+                "FC Rostov ": 0
+            }
+        },
+        {
+            "team": "/fk-khimki-spartak-moscow/yWsNW",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Spartak Moscow ": 2,
+                "FK Khimki ": 1
+            }
+        },
+        {
+            "team": "/club-leon-toluca/GNsJFo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Club Le\u00f3n ": 2,
+                "Toluca ": 2
+            }
+        },
+        {
+            "team": "/cd-guadalajara-pachuca/LNsNN",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Pachuca ": 4,
+                "CD Guadalajara ": 2
+            }
+        },
+        {
+            "team": "/seattle-sounders-portland-timbers/hPisjPi",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Portland Timbers ": 1,
+                "Seattle Sounders ": 2
+            }
+        },
+        {
+            "team": "/leganes-rayo-vallecano/tgbsVgb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Rayo Vallecano ": 1,
+                "Legan\u00e9s ": 1
+            }
+        },
+        {
+            "team": "/holstein-kiel-hannover-96/Qabsybb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Holstein Kiel ": 1,
+                "Hannover 96 ": 0
+            }
+        },
+        {
+            "team": "/ascoli-chievoverona/Udbsheb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "ChievoVerona ": 3,
+                "Ascoli ": 0
+            }
+        },
+        {
+            "team": "/cittadella-venezia/Ndbsreb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Cittadella ": 1,
+                "Venezia ": 1
+            }
+        },
+        {
+            "team": "/empoli-lecce/Odbsfeb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Empoli ": 2,
+                "Lecce ": 1
+            }
+        },
+        {
+            "team": "/lr-vicenza-reggiana/xebsqPj",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "L.R. Vicenza ": 2,
+                "Reggiana ": 1
+            }
+        },
+        {
+            "team": "/monza-brescia/QdbsEeb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Monza ": 0,
+                "Brescia ": 2
+            }
+        },
+        {
+            "team": "/pescara-salernitana/kebsKid",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Pescara ": 0,
+                "Salernitana ": 3
+            }
+        },
+        {
+            "team": "/virtus-entella-pisa/MebsFyr",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Pisa ": 3,
+                "Virtus Entella ": 2
+            }
+        },
+        {
+            "team": "/cosenza-pordenone/qebsfzU",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Pordenone ": 2,
+                "Cosenza ": 0
+            }
+        },
+        {
+            "team": "/frosinone-reggina/bgbstoHb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Reggina ": 0,
+                "Frosinone ": 4
+            }
+        },
+        {
+            "team": "/cremonese-spal/lfbsfAV",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "SPAL ": 1,
+                "Cremonese ": 0
+            }
+        },
+        {
+            "team": "/red-bull-bragantino-botafogo-sp/EOsZO",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Botafogo SP ": 1,
+                "Red Bull Bragantino ": 1
+            }
+        },
+        {
+            "team": "/corinthians-gremio-novorizontino/hOsokeb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Corinthians ": 2,
+                "Gr\u00eamio Novorizontino ": 1
+            }
+        },
+        {
+            "team": "/guarani-inter-de-limeira/xOsBkeb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Inter de Limeira ": 1,
+                "Guarani ": 0
+            }
+        },
+        {
+            "team": "/mirassol-sao-paulo/GOsHOi",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Mirassol ": 1,
+                "S\u00e3o Paulo ": 1
+            }
+        },
+        {
+            "team": "/ponte-preta-palmeiras/nOsuO",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Ponte Preta ": 0,
+                "Palmeiras ": 3
+            }
+        },
+        {
+            "team": "/sao-bento-santos/tOsrOc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Santos ": 2,
+                "S\u00e3o Bento ": 0
+            }
+        },
+        {
+            "team": "/ferroviaria-sao-caetano/oOsKfo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "S\u00e3o Caetano ": 0,
+                "Ferrovi\u00e1ria ": 3
+            }
+        },
+        {
+            "team": "/hebei-shanghai-shenhua/yrbsoGD",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Hebei ": 1,
+                "Shanghai Shenhua ": 1
+            }
+        },
+        {
+            "team": "/wuhan-beijing-guoan/BrbsJFq",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Wuhan ": 0,
+                "Beijing Guoan ": 2
+            }
+        },
+        {
+            "team": "/cd-antofagasta-universidad-de-chile/lnbsbmc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "CD Antofagasta ": 1,
+                "Universidad de Chile ": 2
+            }
+        },
+        {
+            "team": "/cobresal-audax-italiano/mnbsrnb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Audax Italiano ": 0,
+                "Cobresal ": 0
+            }
+        },
+        {
+            "team": "/fc-nordsjaelland-fc-kobenhavn/JAsRA",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Nordsj\u00e6lland ": 2,
+                "FC K\u00f8benhavn ": 2
+            }
+        },
+        {
+            "team": "/universidad-cesar-vallejo-sport-huancayo/GfcsVCn",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Sport Huancayo ": 0,
+                "Universidad C\u00e9sar Vallejo ": 0
+            }
+        },
+        {
+            "team": "/deportivo-municipal-alianza-universidad/GPcskIxc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Deportivo Municipal ": 1,
+                "Alianza Universidad ": 0
+            }
+        },
+        {
+            "team": "/ifk-norrkoping-aik/oKsuK",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "IFK Norrk\u00f6ping ": 2,
+                "AIK ": 0
+            }
+        },
+        {
+            "team": "/fc-anyang-ansan-greeners-fc/AdnsArZb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Ansan Greeners FC ": 3,
+                "FC Anyang ": 2
+            }
+        },
+        {
+            "team": "/daejeon-hana-citizen-busanpark/RcdsVcd",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Busan I Park ": 4,
+                "Daejeon Hana Citizen ": 1
+            }
+        },
+        {
+            "team": "/tacoma-defiance-la-galaxy-ii/PulbsmQDb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "LA Galaxy II ": 1,
+                "Tacoma Defiance ": 1
+            }
+        },
+        {
+            "team": "/ca-huracan-independiente/jobsEcd",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "CA Hurac\u00e1n ": 1,
+                "Independiente ": 3
+            }
+        },
+        {
+            "team": "/colon-de-santa-fe-union-de-santa-fe/eobshob",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Col\u00f3n de Santa Fe ": 1,
+                "Uni\u00f3n de Santa Fe ": 1
+            }
+        },
+        {
+            "team": "/lanus-talleres/kobstob",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Lan\u00fas ": 1,
+                "Talleres ": 0
+            }
+        },
+        {
+            "team": "/sarmiento-newells-old-boys/mobsNWq",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Newell's Old Boys ": 1,
+                "Sarmiento ": 1
+            }
+        },
+        {
+            "team": "/estudiantes-de-buenos-aires-agropecuario-argentino/hmMsMpgc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Agropecuario Argentino ": 0,
+                "Estudiantes de Buenos Aires ": 0
+            }
+        },
+        {
+            "team": "/club-atletico-atlanta-temperley/ZAwsZZU",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Temperley ": 0,
+                "Club Atl\u00e9tico Atlanta ": 3
+            }
+        },
+        {
+            "team": "/runaway-bay-coomera-colts/iobcsuwcc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Coomera Colts ": 1,
+                "Runaway Bay ": 1
+            }
+        },
+        {
+            "team": "/southport-fc-broadbeach-united/ilbcstZbc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Broadbeach United ": 4,
+                "Southport FC ": 2
+            }
+        },
+        {
+            "team": "/musgrave-blue-surfers-paradise/COEbsWFec",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Musgrave Blue ": 0,
+                "Surfers Paradise ": 4
+            }
+        },
+        {
+            "team": "/nova-iguacu-botafogo/iOsGOc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Nova Igua\u00e7u ": 0,
+                "Botafogo ": 1
+            }
+        },
+        {
+            "team": "/portuguesa-rj-fluminense/lOsrlIb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Fluminense ": 3,
+                "Portuguesa RJ ": 1
+            }
+        },
+        {
+            "team": "/gremio-caxias/aPsBtc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Gr\u00eamio ": 2,
+                "Caxias ": 0
+            }
+        },
+        {
+            "team": "/america-mineiro-cruzeiro/eOsyO",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Am\u00e9rica Mineiro ": 3,
+                "Cruzeiro ": 1
+            }
+        },
+        {
+            "team": "/atletico-cajazeirense-sousa-pb/oMistXxc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Atl\u00e9tico Cajazeirense ": 0,
+                "Sousa PB ": 1
+            }
+        },
+        {
+            "team": "/nautico-santa-cruz/BOslP",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "N\u00e1utico ": 2,
+                "Santa Cruz ": 1
+            }
+        },
+        {
+            "team": "/academica-vitoria-retro-fc-brasil/ydnsOWEc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Acad\u00eamica Vit\u00f3ria ": 0,
+                "Retr\u00f4 FC Brasil ": 5
+            }
+        },
+        {
+            "team": "/itabaiana-se-lagarto/dMisgXhb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Itabaiana SE ": 0,
+                "Lagarto ": 2
+            }
+        },
+        {
+            "team": "/botev-vratsa-montana-1921/RcnsNNo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Botev Vratsa ": 1,
+                "Montana 1921 ": 0
+            }
+        },
+        {
+            "team": "/etar-veliko-tarnovo-slavia-sofia/zpbsQNo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Etar Veliko Tarnovo ": 0,
+                "Slavia Sofia ": 3
+            }
+        },
+        {
+            "team": "/cobreloa-union-san-felipe/cnbsjnb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Uni\u00f3n San Felipe ": 0,
+                "Cobreloa ": 0
+            }
+        },
+        {
+            "team": "/universidad-de-concepcion-coquimbo-unido/pnbsJac",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Coquimbo Unido ": 1,
+                "Universidad de Concepci\u00f3n ": 0
+            }
+        },
+        {
+            "team": "/magallanes-deportes-puerto-montt/inbsiPK",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Deportes Puerto Montt ": 1,
+                "Magallanes ": 1
+            }
+        },
+        {
+            "team": "/san-marcos-de-arica-santiago-morning/gnbsuJp",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Santiago Morning ": 3,
+                "San Marcos de Arica ": 0
+            }
+        },
+        {
+            "team": "/nantong-zhiyun-jiangxi-beidamen/vJBbsDAac",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Jiangxi Beidamen ": 1,
+                "Nantong Zhiyun ": 3
+            }
+        },
+        {
+            "team": "/xinjiang-tianshan-leopard-sichuan-jiuniu/YqLsGBmc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Sichuan Jiuniu ": 2,
+                "Xinjiang Tianshan Leopard ": 1
+            }
+        },
+        {
+            "team": "/apollon-limassol-omonia-nicosia/Vrbsctb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Omonia Nicosia ": 1,
+                "Apollon Limassol ": 1
+            }
+        },
+        {
+            "team": "/apoel-nicosia-karmiotissa-polemidion/YrbsNqY",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Karmiotissa Polemidion ": 1,
+                "APOEL Nicosia ": 6
+            }
+        },
+        {
+            "team": "/fc-fredericia-esbjerg-fb/MAscB",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Esbjerg fB ": 1,
+                "FC Fredericia ": 2
+            }
+        },
+        {
+            "team": "/cd-olmedo-delfin-sc/jfcsNxKb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Delf\u00edn SC ": 2,
+                "CD Olmedo ": 4
+            }
+        },
+        {
+            "team": "/aucas-tecnico-universitario/ZecsQNi",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Aucas ": 0,
+                "T\u00e9cnico Universitario ": 2
+            }
+        },
+        {
+            "team": "/al-masry-misr-el-makkasa/jwrskwr",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Al-Masry ": 0,
+                "Misr El-Makkasa ": 0
+            }
+        },
+        {
+            "team": "/enppi-al-ittihad-alexandria/Mdosowr",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "ENPPI ": 0,
+                "Al-Ittihad Alexandria ": 0
+            }
+        },
+        {
+            "team": "/ceramica-cleopatra-pyramids-fc/cavbsxHYc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Pyramids FC ": 2,
+                "Ceramica Cleopatra ": 4
+            }
+        },
+        {
+            "team": "/ghazl-el-mahalla-talaea-el-gaish/lwrsuqy",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Tala'ea El-Gaish ": 3,
+                "Ghazl El Mahalla ": 1
+            }
+        },
+        {
+            "team": "/sv-waldhof-mannheim-hallescher-fc/HbbsFdb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "SV Waldhof Mannheim ": 3,
+                "Hallescher FC ": 2
+            }
+        },
+        {
+            "team": "/fc-santa-lucia-cotzumalguapa-coban-imperial/wkGbseptc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Santa Luc\u00eda Cotzumalguapa ": 3,
+                "Cob\u00e1n Imperial ": 0
+            }
+        },
+        {
+            "team": "/valur-reykjavik-fh-hafnarfjordur/UMsZM",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FH Hafnarfj\u00f6r\u00f0ur ": 1,
+                "Valur Reykjav\u00edk ": 1
+            }
+        },
+        {
+            "team": "/stjarnan-gardabaer-keflavik-if/aNsmN",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Keflav\u00edk IF ": 2,
+                "Stjarnan Gar\u00f0ab\u00e6r ": 0
+            }
+        },
+        {
+            "team": "/fylkirellidi-u19-fh-hafnarfjordur-u19/JxDcscuOc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FH Hafnarfj\u00f6r\u00f0ur U19 ": 6,
+                "Fylkir/Ellidi U19 ": 0
+            }
+        },
+        {
+            "team": "/oghab-tehran-fc-shahrdari-mahshahr/difcswHZc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Shahrdari Mahshahr ": 0,
+                "Oghab Tehran FC ": 2
+            }
+        },
+        {
+            "team": "/naft-omidiyeh-shohada-babolsar/UDfcsYkic",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Shohada Babolsar ": 0,
+                "Naft Omidiyeh ": 1
+            }
+        },
+        {
+            "team": "/mohtasham-tabriz-avalan-kamyaran/KOxcspnZc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Mohtasham Tabriz ": 1,
+                "Avalan Kamyaran ": 0
+            }
+        },
+        {
+            "team": "/atrak-bojnourd-fc-sardar-bukan/rIhcsnzZc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Sardar Bukan ": 0,
+                "Atrak Bojnourd FC ": 3
+            }
+        },
+        {
+            "team": "/kian-babol-u23-aluminium-arak-u23/FhadsKwad",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Aluminium Arak U23 ": 2,
+                "Kian Babol U23 ": 2
+            }
+        },
+        {
+            "team": "/maccabi-yavne-shimshon-kfar-kasem/iJzspzgc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Maccabi Yavne ": 3,
+                "Shimshon Kfar Kasem ": 1
+            }
+        },
+        {
+            "team": "/rigas-futbola-skola-fk-ventspils/ehcstzC",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Rigas Futbola Skola ": 1,
+                "FK Ventspils ": 0
+            }
+        },
+        {
+            "team": "/wydad-athletic-club-as-far-rabat/UMjstAo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "AS FAR Rabat ": 0,
+                "Wydad Athletic Club ": 0
+            }
+        },
+        {
+            "team": "/rs-berkane-moghreb-tetouan/ZaxsVhH",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "RS Berkane ": 1,
+                "Moghreb T\u00e9touan ": 1
+            }
+        },
+        {
+            "team": "/mas-de-fes-raja-club-athletic/hKqsKax",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Raja Club Athletic ": 1,
+                "MAS de F\u00e8s ": 0
+            }
+        },
+        {
+            "team": "/club-libertad-12-de-octubre-de-itaugua/OucsWuc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Club Libertad ": 3,
+                "12 de Octubre de Itaugu\u00e1 ": 1
+            }
+        },
+        {
+            "team": "/club-olimpia-sol-de-america/XucsODo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Club Olimpia ": 3,
+                "Sol de Am\u00e9rica ": 3
+            }
+        },
+        {
+            "team": "/river-plate-de-asuncion-guairena-fc/vuLsUIZb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Guaire\u00f1a FC ": 0,
+                "River Plate de Asunci\u00f3n ": 0
+            }
+        },
+        {
+            "team": "/piast-gliwice-rakow-czestochowa/tidstfo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Rak\u00f3w Cz\u0119stochowa ": 1,
+                "Piast Gliwice ": 0
+            }
+        },
+        {
+            "team": "/penafiel-varzim-sc/fkbsrkb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Varzim SC ": 1,
+                "Penafiel ": 2
+            }
+        },
+        {
+            "team": "/academico-viseu-ud-vilafranquense/xkbsERHb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Acad\u00e9mico Viseu ": 1,
+                "UD Vilafranquense ": 2
+            }
+        },
+        {
+            "team": "/cfr-cluj-sepsi-osk/MfcsOVAb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "CFR Cluj ": 0,
+                "Sepsi OSK ": 1
+            }
+        },
+        {
+            "team": "/chindia-targoviste-fc-voluntari/fKrsCxx",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Voluntari ": 0,
+                "Chindia T\u00e2rgovi\u015fte ": 0
+            }
+        },
+        {
+            "team": "/ifk-varnamo-gais-goteborg/LKsRL",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "IFK V\u00e4rnamo ": 1,
+                "GAIS G\u00f6teborg ": 0
+            }
+        },
+        {
+            "team": "/akropolis-if-trelleborgs-ff/wKsrQc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Trelleborgs FF ": 1,
+                "Akropolis IF ": 1
+            }
+        },
+        {
+            "team": "/fc-stade-lausanne-ouchy-neuchatel-xamax/bZsmdo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Stade Lausanne-Ouchy ": 1,
+                "Neuch\u00e2tel Xamax ": 1
+            }
+        },
+        {
+            "team": "/winterthur-grasshopper-club-zurich/ZYsiZ",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Winterthur ": 2,
+                "Grasshopper Club Z\u00fcrich ": 1
+            }
+        },
+        {
+            "team": "/belediye-kutahyaspor-iskenderun-futbol-kulubu/VDHsiitb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Belediye K\u00fctahyaspor ": 2,
+                "\u0130skenderun Futbol Kul\u00fcb\u00fc ": 3
+            }
+        },
+        {
+            "team": "/bursa-yildirimspor-1954-kelkit-belediyespor/zkFcskdGc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Bursa Y\u0131ld\u0131r\u0131mspor ": 1,
+                "1954 Kelkit Belediyespor ": 1
+            }
+        },
+        {
+            "team": "/duzcespor-68-aksaray-belediye-spor/LTWsVXFb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "D\u00fczcespor ": 0,
+                "68 Aksaray Belediye Spor ": 3
+            }
+        },
+        {
+            "team": "/malatya-yesilyurt-belediyespor-ofspor/kVjsAkFc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Malatya Ye\u015filyurt Belediyespor ": 1,
+                "Ofspor ": 0
+            }
+        },
+        {
+            "team": "/icel-idman-yurdu-sk-isparta-32-spor/mdGcsfeGc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "\u0130\u00e7el \u0130dman Yurdu SK ": 2,
+                "Isparta 32 Spor ": 2
+            }
+        },
+        {
+            "team": "/arnavutkoy-belediyesi-genclik-ve-spor-bucaspor-1928/JitbsBPUc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Bucaspor 1928 ": 2,
+                "Arnavutk\u00f6y Belediyesi Gen\u00e7lik ve Spor ": 0
+            }
+        },
+        {
+            "team": "/esenler-erokspor-catalcaspor/citbsFZec",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Esenler Erokspor ": 2,
+                "\u00c7atalcaspor ": 1
+            }
+        },
+        {
+            "team": "/fethiyespor-yomraspor/QPcsTXFb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Fethiyespor ": 0,
+                "Yomraspor ": 1
+            }
+        },
+        {
+            "team": "/fc-internacional-tirana-fk-shenkolli/jmTbsiyad",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Internacional Tirana ": 5,
+                "FK Sh\u00ebnkolli ": 2
+            }
+        },
+        {
+            "team": "/club-comunicaciones-fenix/VZUsbaV",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "F\u00e9nix ": 1,
+                "Club Comunicaciones ": 2
+            }
+        },
+        {
+            "team": "/deportivo-merlo-justo-jose-de-urquiza/PLoslyFb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Justo Jos\u00e9 de Urquiza ": 1,
+                "Deportivo Merlo ": 3
+            }
+        },
+        {
+            "team": "/sportivo-italiano-ituzaingo/TLosXigc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Ituzaing\u00f3 ": 0,
+                "Sportivo Italiano ": 2
+            }
+        },
+        {
+            "team": "/ferro-carril-midland-real-pilar/aAgcsUgic",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Real Pilar ": 2,
+                "Ferro Carril Midland ": 0
+            }
+        },
+        {
+            "team": "/centro-espanol-ca-lugano/HcFbsFrZb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "CA Lugano ": 2,
+                "Centro Espa\u00f1ol ": 1
+            }
+        },
+        {
+            "team": "/defensores-de-cambaceres-csyd-liniers/QgCbsEyZb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Defensores de Cambaceres ": 1,
+                "CSYD Liniers ": 1
+            }
+        },
+        {
+            "team": "/puerto-nuevo-deportivo-muniz/LxgcsNxgc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Puerto Nuevo ": 2,
+                "Deportivo Mu\u00f1iz ": 0
+            }
+        },
+        {
+            "team": "/club-atletico-sansinena-deportivo-madryn/vRNbsyqkc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Deportivo Madryn ": 1,
+                "Club Atl\u00e9tico Sansinena ": 0
+            }
+        },
+        {
+            "team": "/sportivo-desamparados-olimpo/xobsRVv",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Olimpo ": 0,
+                "Sportivo Desamparados ": 1
+            }
+        },
+        {
+            "team": "/camioneros-huracan-las-heras/DVDbshBbc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Hurac\u00e1n Las Heras ": 1,
+                "Camioneros ": 0
+            }
+        },
+        {
+            "team": "/sportivo-penarol-villa-mitre/pLPbsRMWb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Sportivo Pe\u00f1arol ": 1,
+                "Villa Mitre ": 1
+            }
+        },
+        {
+            "team": "/douglas-haig-boca-unidos/KLosZyF",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Douglas Haig ": 1,
+                "Boca Unidos ": 2
+            }
+        },
+        {
+            "team": "/union-de-sunchales-defensores-villa-ramallo/naObsqnQb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Uni\u00f3n de Sunchales ": 1,
+                "Defensores Villa Ramallo ": 0
+            }
+        },
+        {
+            "team": "/sarmiento-de-resistencia-chaco-for-ever/vnBsBebc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Chaco For Ever ": 0,
+                "Sarmiento de Resistencia ": 1
+            }
+        },
+        {
+            "team": "/gimnasiaesgrima-de-concepcion-del-uruguay-juventud-unida-gualeguaychu/rvMswUAb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Gimnasia Y Esgrima de Concepcion Del Uruguay ": 2,
+                "Juventud Unida Gualeguaych\u00fa ": 1
+            }
+        },
+        {
+            "team": "/sportivo-belgrano-central-norte-de-salta/onBsBicc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Central Norte de Salta ": 1,
+                "Sportivo Belgrano ": 1
+            }
+        },
+        {
+            "team": "/racing-club-lanus/PzucswPuc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Racing Club ": 2,
+                "Lan\u00fas ": 3
+            }
+        },
+        {
+            "team": "/excursionistas-uai-urquiza/tddcsnLfc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "UAI Urquiza ": 5,
+                "Excursionistas ": 0
+            }
+        },
+        {
+            "team": "/fc-alashkert-fc-ararat/ChcsqjC",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Ararat ": 0,
+                "FC Alashkert ": 0
+            }
+        },
+        {
+            "team": "/lernayin-artsakh-fc-fc-sevan/eNrcsHPHc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Lernayin Artsakh FC ": 0,
+                "FC Sevan ": 2
+            }
+        },
+        {
+            "team": "/bkma-yerevan-urartu-ii/DpFcsKpFc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Urartu II ": 2,
+                "BKMA Yerevan ": 6
+            }
+        },
+        {
+            "team": "/calder-united-sc-fc-bulleen-lions/hAccswddc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Bulleen Lions ": 3,
+                "Calder United SC ": 0
+            }
+        },
+        {
+            "team": "/qalali-al-ittihad-bahrain/GoKbsfpKb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Qalali ": 0,
+                "Al Ittihad Bahrain ": 1
+            }
+        },
+        {
+            "team": "/al-tadhmon-sitra-club/vUWsLOAb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Sitra Club ": 2,
+                "Al-Tadhmon ": 1
+            }
+        },
+        {
+            "team": "/uttar-baridhara-club-brothers-union/FGbcsuugc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Brothers Union ": 0,
+                "Uttar Baridhara Club ": 3
+            }
+        },
+        {
+            "team": "/naftan-novopolotsk-fk-slonim-2017/JecsXqk",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Slonim 2017 ": 0,
+                "Naftan Novopolotsk ": 0
+            }
+        },
+        {
+            "team": "/lokomotiv-gomel-fc-orsha/zNosjkr",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Lokomotiv Gomel ": 2,
+                "FC Orsha ": 1
+            }
+        },
+        {
+            "team": "/guabira-montero-nacional-potosi/aeusbeu",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Nacional Potos\u00ed ": 2,
+                "Guabir\u00e1 Montero ": 1
+            }
+        },
+        {
+            "team": "/jorge-wilstermann-always-ready/DhdsIlhc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Jorge Wilstermann ": 5,
+                "Always Ready ": 2
+            }
+        },
+        {
+            "team": "/real-potosi-oriente-petrolero/kQcsvBn",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Oriente Petrolero ": 2,
+                "Real Potos\u00ed ": 0
+            }
+        },
+        {
+            "team": "/fk-drina-zvornik-fk-tekstilac-derventa/JqksKmQ",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Tekstilac Derventa ": 2,
+                "FK Drina Zvornik ": 1
+            }
+        },
+        {
+            "team": "/palmeiras-corinthians/HnObsRaAc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Corinthians ": 1,
+                "Palmeiras ": 1
+            }
+        },
+        {
+            "team": "/gremio-santos/ixObsBzZb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Gr\u00eamio ": 1,
+                "Santos ": 2
+            }
+        },
+        {
+            "team": "/sao-raimundo-am-princesa-dos-solimoes/eXhbspIJc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Princesa dos Solim\u00f5es ": 3,
+                "S\u00e3o Raimundo AM ": 2
+            }
+        },
+        {
+            "team": "/ceilandia-ec-brasiliense/zPsEfo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Ceil\u00e2ndia EC ": 1,
+                "Brasiliense ": 1
+            }
+        },
+        {
+            "team": "/luziania-gama/DOsGxM",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Gama ": 3,
+                "Luzi\u00e2nia ": 1
+            }
+        },
+        {
+            "team": "/vilavelhense-vitoria-es/Ffosnfad",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Vit\u00f3ria ES ": 3,
+                "Vilavelhense ": 1
+            }
+        },
+        {
+            "team": "/crato-atletico-cearense/nRpsTZJb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Atl\u00e9tico Cearense ": 7,
+                "Crato ": 1
+            }
+        },
+        {
+            "team": "/pacajus-icasa/bMisrvnc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Pacajus ": 3,
+                "Icasa ": 0
+            }
+        },
+        {
+            "team": "/caucaia-ec-ceara-sc/bPsXrnc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Caucaia EC ": 1,
+                "Cear\u00e1 SC ": 6
+            }
+        },
+        {
+            "team": "/aparecidense-vila-nova/wPsUfn",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Aparecidense ": 0,
+                "Vila Nova ": 1
+            }
+        },
+        {
+            "team": "/gremio-anapolis-atletico-goianiense/oWcstTJ",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Atl\u00e9tico Goianiense ": 2,
+                "Gr\u00eamio An\u00e1polis ": 1
+            }
+        },
+        {
+            "team": "/athletico-paranaense-maringa-fc/rOszgeb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Athletico Paranaense ": 2,
+                "Maring\u00e1 FC ": 2
+            }
+        },
+        {
+            "team": "/londrina-coritiba/HOsxP",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Londrina ": 1,
+                "Coritiba ": 0
+            }
+        },
+        {
+            "team": "/rio-claro-ec-taubate/pOcsmkeb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "EC Taubat\u00e9 ": 0,
+                "Rio Claro ": 0
+            }
+        },
+        {
+            "team": "/ca-juventus-ec-xv-de-novembro/kOcsRIz",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "EC XV de Novembro ": 1,
+                "CA Juventus ": 1
+            }
+        },
+        {
+            "team": "/gremio-osasco-audax-monte-azul/rRpsHzK",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Monte Azul ": 2,
+                "Gr\u00eamio Osasco Audax ": 0
+            }
+        },
+        {
+            "team": "/sertaozinho-sao-bernardo/iOcseau",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "S\u00e3o Bernardo ": 2,
+                "Sert\u00e3ozinho ": 0
+            }
+        },
+        {
+            "team": "/sc-atibaia-ec-agua-santa/kkebsAAAb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "EC \u00c1gua Santa ": 2,
+                "SC Atibaia ": 1
+            }
+        },
+        {
+            "team": "/red-bull-brasil-portuguesa-de-desportos/WMisJzK",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Portuguesa de Desportos ": 0,
+                "Red Bull Brasil ": 1
+            }
+        },
+        {
+            "team": "/velo-clube-ec-sao-bernardo/LzKsXROb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Velo Clube ": 2,
+                "EC S\u00e3o Bernardo ": 0
+            }
+        },
+        {
+            "team": "/capivariano-ca-penapolense/MgJsNzK",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Capivariano ": 3,
+                "CA Penapolense ": 2
+            }
+        },
+        {
+            "team": "/marilia-rio-preto/lOcslAn",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Rio Preto ": 0,
+                "Mar\u00edlia ": 3
+            }
+        },
+        {
+            "team": "/4-de-julho-pi-river-pi/ekBsZBAb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "4 de Julho PI ": 0,
+                "R\u00edver PI ": 0
+            }
+        },
+        {
+            "team": "/parnahyba-altos/HfosZnQb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Altos ": 3,
+                "Parnahyba ": 1
+            }
+        },
+        {
+            "team": "/se-tiradentes-flamengo-pi/gOstgad",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Flamengo PI ": 2,
+                "SE Tiradentes ": 1
+            }
+        },
+        {
+            "team": "/porto-velho-ec-genus-ro/vhLbsfUKc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Porto Velho EC ": 1,
+                "Genus RO ": 0
+            }
+        },
+        {
+            "team": "/real-ariquemes-rondoniense/ERObsEqkc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Real Ariquemes ": 1,
+                "Rondoniense ": 0
+            }
+        },
+        {
+            "team": "/barcelona-ro-ulbra-ji-parana/gPsuDnc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Barcelona RO ": 3,
+                "Ulbra Ji-Paran\u00e1 ": 2
+            }
+        },
+        {
+            "team": "/se-uniao-cacoalense-guapore-fc/jUKcskUKc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Guapor\u00e9 FC ": 1,
+                "SE Uni\u00e3o Cacoalense ": 1
+            }
+        },
+        {
+            "team": "/dourados-ac-ms-comercial-ms/ePsRIad",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Comercial MS ": 0,
+                "Dourados AC MS ": 1
+            }
+        },
+        {
+            "team": "/aquidauanense-fc-costa-rica-ec/PjBsbkyc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Costa Rica EC ": 2,
+                "Aquidauanense FC ": 1
+            }
+        },
+        {
+            "team": "/nautico-u20-palmeiras-u20/OLEbsWoTb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "N\u00e1utico U20 ": 1,
+                "Palmeiras U20 ": 2
+            }
+        },
+        {
+            "team": "/galvez-u20-atletico-mineiro-u20/dnFbskJpc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Galvez U20 ": 2,
+                "Atl\u00e9tico Mineiro U20 ": 2
+            }
+        },
+        {
+            "team": "/bahia-u20-coritiba-u20/zLqsfLEb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Bahia U20 ": 2,
+                "Coritiba U20 ": 2
+            }
+        },
+        {
+            "team": "/uniao-harmonia-rs-santa-cruz-rs/QOislnFc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Uni\u00e3o Harmonia RS ": 0,
+                "Santa Cruz RS ": 3
+            }
+        },
+        {
+            "team": "/forca-e-luz-abc-fc/NLisvWxc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "For\u00e7a e Luz ": 1,
+                "ABC FC ": 6
+            }
+        },
+        {
+            "team": "/palmeira-globo-fc/HIAbsuWxc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Palmeira ": 0,
+                "Globo FC ": 4
+            }
+        },
+        {
+            "team": "/jarabacoa-fc-universidad-o-and-m/AIncsRUoc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Jarabacoa FC ": 1,
+                "Universidad O&m ": 1
+            }
+        },
+        {
+            "team": "/cd-fas-cd-municipal-limeno/LMjsIxQb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "CD Municipal Lime\u00f1o ": 2,
+                "CD FAS ": 1
+            }
+        },
+        {
+            "team": "/santa-tecla-fc-cd-once-deportivo/QMjsMJE",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "CD Once Deportivo ": 1,
+                "Santa Tecla FC ": 2
+            }
+        },
+        {
+            "team": "/cd-aguila-alianza-fc/IMjsKMj",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Alianza FC ": 2,
+                "CD \u00c1guila ": 1
+            }
+        },
+        {
+            "team": "/cd-titan-cd-san-pablo-municipal/YZxcsNVBc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "CD San Pablo Municipal ": 1,
+                "CD Titan ": 2
+            }
+        },
+        {
+            "team": "/cd-atletico-marte-cd-aguila/rfbdsFhbd",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "CD Aguila ": 2,
+                "CD Atletico Marte ": 4
+            }
+        },
+        {
+            "team": "/liverpool-u23-leicester-city-u23/gGoshkU",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Leicester City U23 ": 0,
+                "Liverpool U23 ": 2
+            }
+        },
+        {
+            "team": "/manchester-united-u23-derby-county-u23/FCosYHrb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Manchester United U23 ": 1,
+                "Derby County U23 ": 3
+            }
+        },
+        {
+            "team": "/stoke-city-u23-sunderland-u23/WFosZFo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Sunderland U23 ": 1,
+                "Stoke City U23 ": 1
+            }
+        },
+        {
+            "team": "/reading-u23-wolverhampton-u23/bGosrhG",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Wolverhampton U23 ": 2,
+                "Reading U23 ": 2
+            }
+        },
+        {
+            "team": "/norwich-city-u23-west-bromwich-albion-u23/kvrsrMw",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "West Bromwich Albion U23 ": 3,
+                "Norwich City U23 ": 2
+            }
+        },
+        {
+            "team": "/wigan-athletic-u23-birmingham-city-u23/eYFbsXaQb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Wigan Athletic U23 ": 1,
+                "Birmingham City U23 ": 11
+            }
+        },
+        {
+            "team": "/fci-levadia-tallinn-u21-flora-tallinn-u21/zwosAwo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FCI Levadia Tallinn U21 ": 1,
+                "Flora Tallinn U21 ": 0
+            }
+        },
+        {
+            "team": "/jk-tabasalu-laanemaa-jk-haapsalu/nqFbsIYpc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "JK Tabasalu ": 6,
+                "L\u00e4\u00e4nemaa JK Haapsalu ": 0
+            }
+        },
+        {
+            "team": "/wallidan-fc-marimoo-fc/yFjcshiCc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Wallidan FC ": 2,
+                "Marimoo FC ": 0
+            }
+        },
+        {
+            "team": "/merani-tbilisi-chikhura-sachkhere/WVoshWo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Chikhura Sachkhere ": 1,
+                "Merani Tbilisi ": 5
+            }
+        },
+        {
+            "team": "/wit-georgia-fc-gagra/WdcspMo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "WIT Georgia ": 0,
+                "FC Gagra ": 2
+            }
+        },
+        {
+            "team": "/southern-district-fc-kitchee-sc/ZTqsZtG",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Kitchee SC ": 4,
+                "Southern District FC ": 1
+            }
+        },
+        {
+            "team": "/breidablik-kopavogur-ibv/inpsujBb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "\u00cdBV ": 4,
+                "Brei\u00f0ablik K\u00f3pavogur ": 2
+            }
+        },
+        {
+            "team": "/al-jalil-al-salt/KQwsJkac",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Al-Jalil ": 0,
+                "Al Salt ": 0
+            }
+        },
+        {
+            "team": "/al-wihdat-fc-maan/anqslgzc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Maan ": 0,
+                "Al Wihdat ": 2
+            }
+        },
+        {
+            "team": "/yeleen-usfas-bamako/TbrcsOLwc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Yeleen ": 6,
+                "Usfas Bamako ": 5
+            }
+        },
+        {
+            "team": "/tijuana-u20-toluca-u20/DOVbsbfec",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Tijuana U20 ": 2,
+                "Toluca U20 ": 2
+            }
+        },
+        {
+            "team": "/cruz-azul-hidalgo-irapuato/CFosOImc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Irapuato ": 2,
+                "Cruz Azul Hidalgo ": 0
+            }
+        },
+        {
+            "team": "/raja-beni-mellal-olympique-dcheira/ThHsZKGb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Olympique Dcheira ": 0,
+                "Raja Beni Mellal ": 0
+            }
+        },
+        {
+            "team": "/olympique-khouribga-as-sale/XaxsrwW",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Olympique Khouribga ": 2,
+                "AS Sal\u00e9 ": 0
+            }
+        },
+        {
+            "team": "/deportivo-ocotal-deportivo-walter-ferretti/lAFbsbZfc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Deportivo Walter Ferretti ": 3,
+                "Deportivo Ocotal ": 0
+            }
+        },
+        {
+            "team": "/real-madriz-managua-fc/whTbsFWZb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Managua FC ": 1,
+                "Real Madriz ": 0
+            }
+        },
+        {
+            "team": "/diriangen-u20-walter-ferretti-u20/hyucsTJuc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Diriang\u00e9n U20 ": 2,
+                "Walter Ferretti U20 ": 1
+            }
+        },
+        {
+            "team": "/hyh-export-sebaco-fc-america-jde/mTLcsmkZc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "America Jde ": 0,
+                "HYH Export Sebaco FC ": 2
+            }
+        },
+        {
+            "team": "/deportivo-matagalpa-fc-san-marcos-fc/bZEcsHAad",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Deportivo Matagalpa FC ": 4,
+                "San Marcos FC ": 1
+            }
+        },
+        {
+            "team": "/al-arabi-sc-al-sadd/IUpsUNr",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Al-Sadd ": 3,
+                "Al-Arabi SC ": 0
+            }
+        },
+        {
+            "team": "/avangard-kursk-sakhalin-yuzhno-sakhalinsk/qadswhr",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Sakhalin Yuzhno-Sakhalinsk ": 0,
+                "Avangard Kursk ": 1
+            }
+        },
+        {
+            "team": "/fk-krasny-smolensk-strogino/pURsaRQc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Strogino ": 5,
+                "FK Krasny Smolensk ": 0
+            }
+        },
+        {
+            "team": "/fc-metallurg-vidnoye-sokol-saratov/oWsbRQc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Sokol Saratov ": 5,
+                "FC Metallurg Vidnoye ": 0
+            }
+        },
+        {
+            "team": "/khimik-arsenal-tula-znamya-noginsk/GRRbshhec",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Znamya Noginsk ": 1,
+                "Khimik Arsenal Tula ": 1
+            }
+        },
+        {
+            "team": "/fk-kaluga-khimki-m/GdFsrknc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Kaluga ": 4,
+                "Khimki-M ": 2
+            }
+        },
+        {
+            "team": "/fakel-m-voronezh-fk-kvant-obninsk/xoRbsetoc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Fakel-M Voronezh ": 3,
+                "FK Kvant Obninsk ": 2
+            }
+        },
+        {
+            "team": "/salyut-belgorod-fk-ryazan/yadstfr",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Salyut Belgorod ": 0,
+                "FK Ryazan ": 2
+            }
+        },
+        {
+            "team": "/metallurg-lipetsk-saturn-moscow-region/zWsVW",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Saturn Moscow Region ": 1,
+                "Metallurg Lipetsk ": 2
+            }
+        },
+        {
+            "team": "/mashuk-kmv-pyatigorsk-fc-essentuki/vadsCvCc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Essentuki ": 1,
+                "Mashuk-KMV Pyatigorsk ": 4
+            }
+        },
+        {
+            "team": "/fc-inter-cherkessk-chernomorets-novorossijsk/qWsXdEc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Chernomorets Novorossijsk ": 2,
+                "FC Inter Cherkessk ": 0
+            }
+        },
+        {
+            "team": "/fc-forte-taganrog-fc-kuban-holding-pavlovskaya/dlpcsAmLc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Kuban Holding Pavlovskaya ": 2,
+                "FC Forte Taganrog ": 1
+            }
+        },
+        {
+            "team": "/druzhba-maykop-fk-krasnodar-iii/bcFsHurc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Krasnodar III ": 1,
+                "Druzhba Maykop ": 0
+            }
+        },
+        {
+            "team": "/ska-rostov-na-donu-legion-dynamo-makhachkala/AadsHZPb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Legion-Dynamo Makhachkala ": 0,
+                "SKA Rostov-na-Donu ": 0
+            }
+        },
+        {
+            "team": "/fk-biolog-novokubansk-fc-tuapse/QbFsguQc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Biolog Novokubansk ": 4,
+                "FC Tuapse ": 1
+            }
+        },
+        {
+            "team": "/pfc-kuban-spartak-nalchik/UWsLJqc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Spartak Nalchik ": 0,
+                "PFC Kuban ": 3
+            }
+        },
+        {
+            "team": "/ural-yekaterinburg-ii-dinamo-barnaul/PNistnec",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Dinamo Barnaul ": 1,
+                "Ural Yekaterinburg II ": 0
+            }
+        },
+        {
+            "team": "/chelyabinsk-fk-novosibirsk/BAosJADc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Novosibirsk ": 1,
+                "Chelyabinsk ": 2
+            }
+        },
+        {
+            "team": "/zvezda-lyubertsy-kotelniki/lcdcsXmBc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Kotelniki ": 2,
+                "Zvezda Lyubertsy ": 2
+            }
+        },
+        {
+            "team": "/fk-yadro-st-petersburg-spbpu/XwBcsxgKc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Yadro ST Petersburg ": 2,
+                "Spbpu ": 1
+            }
+        },
+        {
+            "team": "/fk-rostov-veliki-fc-cherepovets/NlbcszBEc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FC Cherepovets ": 2,
+                "FK Rostov Veliki ": 0
+            }
+        },
+        {
+            "team": "/semenov-vodnik-sshor-8-nizhny-novgorod/eLUcsfLUc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Vodnik-Sshor-8 Nizhny Novgorod ": 3,
+                "Semenov ": 0
+            }
+        },
+        {
+            "team": "/marines-fc-gisenyi-espoir-fc/DJNbsvlOb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Espoir FC ": 0,
+                "Marines FC Gisenyi ": 1
+            }
+        },
+        {
+            "team": "/sunrise-fc-mukura/NmhcsQmhc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Sunrise FC ": 4,
+                "Mukura ": 2
+            }
+        },
+        {
+            "team": "/as-kigali-etincelles/vwbcsyQgc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Etincelles ": 2,
+                "AS Kigali ": 1
+            }
+        },
+        {
+            "team": "/musanze-rwanda-police-fc/wYEbsOmhc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Rwanda Police FC ": 2,
+                "Musanze ": 1
+            }
+        },
+        {
+            "team": "/dieppe-bay-eagles-fc-bath-united-fc/AebdsBebd",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Dieppe Bay Eagles FC ": 0,
+                "Bath United FC ": 3
+            }
+        },
+        {
+            "team": "/old-road-jets-he-garden-hotspurs/VqkcsdbKc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "He Garden Hotspurs ": 1,
+                "OLD Road Jets ": 0
+            }
+        },
+        {
+            "team": "/slh-st-pauls-united-flow-4g-cayon-rockets/CypcsMzpc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Flow 4G Cayon Rockets ": 0,
+                "SLH St Pauls United ": 2
+            }
+        },
+        {
+            "team": "/demba-diop-fc-amitie-fc/fHwcsaGJc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "DEMBA DIOP FC ": 1,
+                "Amitie FC ": 1
+            }
+        },
+        {
+            "team": "/dubocica-leskovac-fk-graficar-beograd/yuicsnAvc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Grafi\u010dar Beograd ": 1,
+                "Dubo\u010dica Leskovac ": 1
+            }
+        },
+        {
+            "team": "/fk-imt-fk-zeleznicar-pancevo/dUmcsBnyc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Imt ": 1,
+                "FK \u017delezni\u010dar Pan\u010devo ": 3
+            }
+        },
+        {
+            "team": "/zfk-spartak-zfk-sloga/wtwsZnbc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "\u017dFK Sloga ": 0,
+                "\u017dFK Spartak ": 9
+            }
+        },
+        {
+            "team": "/zfk-tsc-zfk-zemun/FWAcsZLQc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "ZFK Zemun ": 2,
+                "ZFK Tsc ": 4
+            }
+        },
+        {
+            "team": "/zfk-pozarevac-zfk-vojvodina/hagcsqMhc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "\u017dFK Vojvodina ": 1,
+                "\u017dFK Po\u017earevac ": 2
+            }
+        },
+        {
+            "team": "/fk-sloboda-2013-nikolinac-fk-sloga-zuckovac/KTbdsLTbd",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "FK Sloboda 2013 Nikolinac ": 3,
+                "FK Sloga \u017du\u010dkovac ": 0
+            }
+        },
+        {
+            "team": "/gumi-sportstoto-wfc-incheon-hyundai-steel-red-angels/DmrbsKNBb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Gumi Sportstoto WFC ": 0,
+                "Incheon Hyundai Steel Red Angels ": 2
+            }
+        },
+        {
+            "team": "/suwon-fmc-boeun-sangmu-fc/qNBbsrNBb",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Boeun Sangmu FC ": 0,
+                "Suwon FMC ": 2
+            }
+        },
+        {
+            "team": "/gyeongju-khnp-seoul-city-wfc/JNBbsfBac",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Gyeongju KHNP ": 3,
+                "Seoul City WFC ": 0
+            }
+        },
+        {
+            "team": "/changnyeong-wfc-hwacheon-kspo-fc/INBbskRnc",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Hwacheon KSPO FC ": 1,
+                "Changnyeong WFC ": 1
+            }
+        },
+        {
+            "team": "/estudiantes-de-merida-portuguesa-fc/JzcsVed",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Estudiantes de Merida ": 0,
+                "Portuguesa FC ": 2
+            }
+        },
+        {
+            "team": "/carabobo-deportivo-la-guaira/EzcsMDo",
+            "h2h_score": {
+                "Date": "10/05/21",
+                "Deportivo La Guaira ": 4,
+                "Carabobo ": 2
+            }
+        }
+    ]
+}

@@ -1,0 +1,3169 @@
+{
+    "INFO": "Football API prediction",
+    "Date": "2021-05-11",
+    "result": [
+        {
+            "type": "OVER-0.5",
+            "range": "ALL",
+            "total-match": 99,
+            "match-list": [
+                {
+                    "team": "/burnley-fulham/gsT",
+                    "status": true
+                },
+                {
+                    "team": "/manchester-united-leicester-city/GK",
+                    "status": true
+                },
+                {
+                    "team": "/granada-real-betis/qgbsEAn",
+                    "status": true
+                },
+                {
+                    "team": "/rio-ave-cd-santa-clara/lkbsLkb",
+                    "status": true
+                },
+                {
+                    "team": "/tondela-belenenses-sad/ekbsWrp",
+                    "status": true
+                },
+                {
+                    "team": "/cd-nacional-sl-benfica/gkbsnkb",
+                    "status": true
+                },
+                {
+                    "team": "/konyaspor-trabzonspor/blbsKlb",
+                    "status": true
+                },
+                {
+                    "team": "/alanyaspor-bb-erzurumspor/mCcsdmx",
+                    "status": true
+                },
+                {
+                    "team": "/basaksehir-fk-kayserispor/xlbsLlb",
+                    "status": false
+                },
+                {
+                    "team": "/galatasaray-denizlispor/ilbsllb",
+                    "status": true
+                },
+                {
+                    "team": "/sivasspor-fenerbahce/clbsBlb",
+                    "status": true
+                },
+                {
+                    "team": "/gaziantep-fk-caykur-rizespor/olbsNcc",
+                    "status": true
+                },
+                {
+                    "team": "/genclerbirligi-goztepe/elbscgd",
+                    "status": true
+                },
+                {
+                    "team": "/kasimpasa-mke-ankaragucu/dmbsnwc",
+                    "status": true
+                },
+                {
+                    "team": "/hatayspor-yeni-malatyaspor/QlbsjVj",
+                    "status": true
+                },
+                {
+                    "team": "/hamburger-sv-1-fc-nurnberg/yabsBdb",
+                    "status": true
+                },
+                {
+                    "team": "/sc-rheindorf-altach-skn-st-polten/uRsgXb",
+                    "status": true
+                },
+                {
+                    "team": "/dalian-pro-tianjin-jinmen-tiger/rrbsLYu",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+                    "status": false
+                },
+                {
+                    "team": "/nk-osijek-hnk-sibenik/EPsPP",
+                    "status": true
+                },
+                {
+                    "team": "/utc-de-cajamarca-universitario-de-deportes/fWsehK",
+                    "status": true
+                },
+                {
+                    "team": "/pohang-steelers-incheon-united/Ycdsadd",
+                    "status": true
+                },
+                {
+                    "team": "/gwangju-fc-suwon-fc/lAqsmDu",
+                    "status": true
+                },
+                {
+                    "team": "/js-kabylie-u21-mc-oran-u21/LjgcsmJgc",
+                    "status": true
+                },
+                {
+                    "team": "/almirante-brown-deportivo-riestra/PzrsyUAb",
+                    "status": true
+                },
+                {
+                    "team": "/defensores-de-belgrano-club-atletico-san-telmo/pUvslrKb",
+                    "status": false
+                },
+                {
+                    "team": "/allerheiligen-sc-weiz/TRspvc",
+                    "status": false
+                },
+                {
+                    "team": "/fk-sloboda-tuzla-fk-sarajevo/MecsXzc",
+                    "status": false
+                },
+                {
+                    "team": "/salgueiro-sport-recife/jOszYi",
+                    "status": true
+                },
+                {
+                    "team": "/beroe-stara-zagora-lokomotiv-plovdiv/xpbsGpb",
+                    "status": false
+                },
+                {
+                    "team": "/deportes-santa-cruz-deportes-temuco/xGXsPuXb",
+                    "status": true
+                },
+                {
+                    "team": "/ac-barnechea-rangers-de-talca/enbsAXI",
+                    "status": true
+                },
+                {
+                    "team": "/guizhou-heilongjiang-ice-city/ravsQBDb",
+                    "status": true
+                },
+                {
+                    "team": "/enosis-neon-paralimniou-ermis-aradippou/ftbsCkk",
+                    "status": true
+                },
+                {
+                    "team": "/hobro-ik-skive-ik/eBsRC",
+                    "status": true
+                },
+                {
+                    "team": "/kolding-if-vendsyssel-ff/oBsmTi",
+                    "status": true
+                },
+                {
+                    "team": "/al-ahly-zamalek/kNcstXq",
+                    "status": true
+                },
+                {
+                    "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+                    "status": true
+                },
+                {
+                    "team": "/aldershot-town-yeovil-town/AbsGc",
+                    "status": true
+                },
+                {
+                    "team": "/hjk-fc-ilves/RUsLXi",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lahti-kups/UUsZU",
+                    "status": true
+                },
+                {
+                    "team": "/cholet-le-mans/xIsnJ",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-club-de-lyon-bourg-en-bresse/vNcsgbo",
+                    "status": true
+                },
+                {
+                    "team": "/fc-torpedo-kutaisi-fc-telavi/uicsCRbc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-samgurali-tskhaltubo-fc-dila-gori/uBnsrJr",
+                    "status": true
+                },
+                {
+                    "team": "/ihud-bney-majd-al-krum-hapoel-bueine/JWhcshtjc",
+                    "status": true
+                },
+                {
+                    "team": "/orlando-pirates-stellenbosch/tddsfwr",
+                    "status": false
+                },
+                {
+                    "team": "/osters-if-gif-sundsvall/nKsGK",
+                    "status": true
+                },
+                {
+                    "team": "/schaffhausen-fc-thun/eZslZ",
+                    "status": true
+                },
+                {
+                    "team": "/fc-chiasso-fc-wil-1900/fZsVZ",
+                    "status": true
+                },
+                {
+                    "team": "/al-ain-hatta/HQosQfQb",
+                    "status": true
+                },
+                {
+                    "team": "/al-ittihad-kalba-al-sharjah/kGnsfox",
+                    "status": true
+                },
+                {
+                    "team": "/al-jazira-al-khaleej-khor-fakkan/PldsCJTb",
+                    "status": true
+                },
+                {
+                    "team": "/al-dhafra-al-wasl/zdusfBH",
+                    "status": true
+                },
+                {
+                    "team": "/baniyas-al-wahda-fc/OyyspHfc",
+                    "status": true
+                },
+                {
+                    "team": "/ajman-club-fujairah-fc/MyysPltb",
+                    "status": true
+                },
+                {
+                    "team": "/excursionistas-berazategui/xnBsGVhc",
+                    "status": true
+                },
+                {
+                    "team": "/argentino-de-rosario-yupanqui/MxgcsJygc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-shirak-gyumri-fc-noah/rBnsDUec",
+                    "status": true
+                },
+                {
+                    "team": "/urartu-fc-van/AecsEpFc",
+                    "status": true
+                },
+                {
+                    "team": "/kepez-pfk-kesle-fk-ii/afpsKffc",
+                    "status": true
+                },
+                {
+                    "team": "/sabah-ii-neftci-baku-ii/axtcsbxtc",
+                    "status": true
+                },
+                {
+                    "team": "/turan-tovuz-pfk-zaqatala/bOosiwHb",
+                    "status": true
+                },
+                {
+                    "team": "/bahrain-sc-isa-town/DizsoJWb",
+                    "status": true
+                },
+                {
+                    "team": "/arambagh-ks-sheikh-jamal-dhanmondi-club/NCKbsvzjc",
+                    "status": true
+                },
+                {
+                    "team": "/chittagong-abahani-limited-sheikh-russel-kc/akwbsVfRb",
+                    "status": true
+                },
+                {
+                    "team": "/saif-sporting-club-muktijoddha-sangsad-kc/TfRbsVlkc",
+                    "status": true
+                },
+                {
+                    "team": "/standard-liege-kaa-gent-ladies/bUosUowb",
+                    "status": true
+                },
+                {
+                    "team": "/votuporanguense-batatais-fc/awdbszkeb",
+                    "status": false
+                },
+                {
+                    "team": "/comercial-sp-desportivo-brasil/PIzskBXb",
+                    "status": true
+                },
+                {
+                    "team": "/ec-noroeste-olimpia-fc/mOcslBXb",
+                    "status": true
+                },
+                {
+                    "team": "/lokomotiv-gorna-oryahovitsa-ludogorets-razgrad/bEysBmFb",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-rcb-jiangsu/VbhcsYbhc",
+                    "status": false
+                },
+                {
+                    "team": "/wigan-athletic-u23-sheffield-united-u23/PvGbsXaQb",
+                    "status": true
+                },
+                {
+                    "team": "/sioni-bolnisi-shevardeni-1906/jucsLRbc",
+                    "status": true
+                },
+                {
+                    "team": "/europa-point-fc-glacis-united/cBabsZaTb",
+                    "status": true
+                },
+                {
+                    "team": "/hong-kong-rangers-hong-kong-pegasus/DZtsXtG",
+                    "status": true
+                },
+                {
+                    "team": "/throttur-reykjavik-valur-reykjavik/JTosCku",
+                    "status": false
+                },
+                {
+                    "team": "/thorka-akureyri-umf-selfoss/jkxsPXOb",
+                    "status": true
+                },
+                {
+                    "team": "/ramtha-sc-al-hussein-irbid/VQwseUW",
+                    "status": true
+                },
+                {
+                    "team": "/fk-kyran-shymkent-fk-baikonur/wnvspeMb",
+                    "status": true
+                },
+                {
+                    "team": "/atlas-pachuca/ZuecsuZgc",
+                    "status": true
+                },
+                {
+                    "team": "/guadalajara-toluca/BvecsyWfc",
+                    "status": true
+                },
+                {
+                    "team": "/tigres-uanl-club-america/Dxecsewhc",
+                    "status": true
+                },
+                {
+                    "team": "/monterrey-pumas-unam/avecsPPjc",
+                    "status": true
+                },
+                {
+                    "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sireti-fc-iskra-rabnita/bxGbsKOHb",
+                    "status": true
+                },
+                {
+                    "team": "/cf-sparta-real-succes/AtFsOxH",
+                    "status": true
+                },
+                {
+                    "team": "/sheriff-tiraspol-ii-fc-granicerul/FOosHjab",
+                    "status": true
+                },
+                {
+                    "team": "/estoril-praia-u23-sc-braga-u23/UbrcsObtc",
+                    "status": true
+                },
+                {
+                    "team": "/al-duhail-al-rayyan/knqsQNr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lada-togliatti-volga-ulyanovsk/QWsWNi",
+                    "status": true
+                },
+                {
+                    "team": "/zenit-izhevsk-orenburg-ii/VdFsBnec",
+                    "status": true
+                },
+                {
+                    "team": "/nosta-novotroitsk-fk-kamaz-naberezhnye-chelny/tadsxad",
+                    "status": true
+                },
+                {
+                    "team": "/lokomotiv-kazanka-moscow-zenit-st-petersburg-ii/ohusRwD",
+                    "status": true
+                },
+                {
+                    "team": "/bugesera-fc-apr-fc/OyBbsRmhc",
+                    "status": true
+                },
+                {
+                    "team": "/orgryte-is-u21-falkenbergs-u21/vdBseOK",
+                    "status": true
+                },
+                {
+                    "team": "/kagera-sugar-fc-mwadui-fc/cYJbseYJb",
+                    "status": true
+                },
+                {
+                    "team": "/busoga-united-fc-wakiso-giantsc/mXrcsPfGc",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "type": "OVER-1.5",
+            "range": "ALL",
+            "total-match": 41,
+            "match-list": [
+                {
+                    "team": "/burnley-fulham/gsT",
+                    "status": true
+                },
+                {
+                    "team": "/cd-nacional-sl-benfica/gkbsnkb",
+                    "status": true
+                },
+                {
+                    "team": "/galatasaray-denizlispor/ilbsllb",
+                    "status": true
+                },
+                {
+                    "team": "/gaziantep-fk-caykur-rizespor/olbsNcc",
+                    "status": true
+                },
+                {
+                    "team": "/genclerbirligi-goztepe/elbscgd",
+                    "status": true
+                },
+                {
+                    "team": "/dalian-pro-tianjin-jinmen-tiger/rrbsLYu",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+                    "status": false
+                },
+                {
+                    "team": "/utc-de-cajamarca-universitario-de-deportes/fWsehK",
+                    "status": true
+                },
+                {
+                    "team": "/pohang-steelers-incheon-united/Ycdsadd",
+                    "status": true
+                },
+                {
+                    "team": "/gwangju-fc-suwon-fc/lAqsmDu",
+                    "status": true
+                },
+                {
+                    "team": "/fk-sloboda-tuzla-fk-sarajevo/MecsXzc",
+                    "status": false
+                },
+                {
+                    "team": "/salgueiro-sport-recife/jOszYi",
+                    "status": true
+                },
+                {
+                    "team": "/beroe-stara-zagora-lokomotiv-plovdiv/xpbsGpb",
+                    "status": false
+                },
+                {
+                    "team": "/deportes-santa-cruz-deportes-temuco/xGXsPuXb",
+                    "status": true
+                },
+                {
+                    "team": "/ac-barnechea-rangers-de-talca/enbsAXI",
+                    "status": true
+                },
+                {
+                    "team": "/guizhou-heilongjiang-ice-city/ravsQBDb",
+                    "status": true
+                },
+                {
+                    "team": "/al-ahly-zamalek/kNcstXq",
+                    "status": true
+                },
+                {
+                    "team": "/aldershot-town-yeovil-town/AbsGc",
+                    "status": true
+                },
+                {
+                    "team": "/hjk-fc-ilves/RUsLXi",
+                    "status": true
+                },
+                {
+                    "team": "/ihud-bney-majd-al-krum-hapoel-bueine/JWhcshtjc",
+                    "status": true
+                },
+                {
+                    "team": "/osters-if-gif-sundsvall/nKsGK",
+                    "status": true
+                },
+                {
+                    "team": "/schaffhausen-fc-thun/eZslZ",
+                    "status": true
+                },
+                {
+                    "team": "/al-dhafra-al-wasl/zdusfBH",
+                    "status": true
+                },
+                {
+                    "team": "/baniyas-al-wahda-fc/OyyspHfc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-shirak-gyumri-fc-noah/rBnsDUec",
+                    "status": true
+                },
+                {
+                    "team": "/urartu-fc-van/AecsEpFc",
+                    "status": true
+                },
+                {
+                    "team": "/kepez-pfk-kesle-fk-ii/afpsKffc",
+                    "status": true
+                },
+                {
+                    "team": "/saif-sporting-club-muktijoddha-sangsad-kc/TfRbsVlkc",
+                    "status": true
+                },
+                {
+                    "team": "/standard-liege-kaa-gent-ladies/bUosUowb",
+                    "status": true
+                },
+                {
+                    "team": "/sioni-bolnisi-shevardeni-1906/jucsLRbc",
+                    "status": true
+                },
+                {
+                    "team": "/europa-point-fc-glacis-united/cBabsZaTb",
+                    "status": true
+                },
+                {
+                    "team": "/hong-kong-rangers-hong-kong-pegasus/DZtsXtG",
+                    "status": true
+                },
+                {
+                    "team": "/throttur-reykjavik-valur-reykjavik/JTosCku",
+                    "status": false
+                },
+                {
+                    "team": "/fk-kyran-shymkent-fk-baikonur/wnvspeMb",
+                    "status": true
+                },
+                {
+                    "team": "/atlas-pachuca/ZuecsuZgc",
+                    "status": true
+                },
+                {
+                    "team": "/monterrey-pumas-unam/avecsPPjc",
+                    "status": true
+                },
+                {
+                    "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sireti-fc-iskra-rabnita/bxGbsKOHb",
+                    "status": true
+                },
+                {
+                    "team": "/cf-sparta-real-succes/AtFsOxH",
+                    "status": true
+                },
+                {
+                    "team": "/zenit-izhevsk-orenburg-ii/VdFsBnec",
+                    "status": true
+                },
+                {
+                    "team": "/orgryte-is-u21-falkenbergs-u21/vdBseOK",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "type": "OVER-2.5",
+            "range": "ALL",
+            "total-match": 15,
+            "match-list": [
+                {
+                    "team": "/genclerbirligi-goztepe/elbscgd",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+                    "status": false
+                },
+                {
+                    "team": "/salgueiro-sport-recife/jOszYi",
+                    "status": false
+                },
+                {
+                    "team": "/ac-barnechea-rangers-de-talca/enbsAXI",
+                    "status": true
+                },
+                {
+                    "team": "/al-ahly-zamalek/kNcstXq",
+                    "status": true
+                },
+                {
+                    "team": "/aldershot-town-yeovil-town/AbsGc",
+                    "status": true
+                },
+                {
+                    "team": "/ihud-bney-majd-al-krum-hapoel-bueine/JWhcshtjc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-shirak-gyumri-fc-noah/rBnsDUec",
+                    "status": true
+                },
+                {
+                    "team": "/kepez-pfk-kesle-fk-ii/afpsKffc",
+                    "status": true
+                },
+                {
+                    "team": "/throttur-reykjavik-valur-reykjavik/JTosCku",
+                    "status": false
+                },
+                {
+                    "team": "/fk-kyran-shymkent-fk-baikonur/wnvspeMb",
+                    "status": true
+                },
+                {
+                    "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sireti-fc-iskra-rabnita/bxGbsKOHb",
+                    "status": true
+                },
+                {
+                    "team": "/cf-sparta-real-succes/AtFsOxH",
+                    "status": true
+                },
+                {
+                    "team": "/orgryte-is-u21-falkenbergs-u21/vdBseOK",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "type": "OVER-3.5",
+            "range": "ALL",
+            "total-match": 2,
+            "match-list": [
+                {
+                    "team": "/kepez-pfk-kesle-fk-ii/afpsKffc",
+                    "status": true
+                },
+                {
+                    "team": "/orgryte-is-u21-falkenbergs-u21/vdBseOK",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "type": "UNDER-1.5",
+            "range": "ALL",
+            "total-match": 2,
+            "match-list": [
+                {
+                    "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+                    "status": true
+                },
+                {
+                    "team": "/onduparaka-sc-villa/NlgcsPlgc",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "type": "UNDER-2.5",
+            "range": "ALL",
+            "total-match": 16,
+            "match-list": [
+                {
+                    "team": "/deportivo-alaves-elche-cf/WgbsKhb",
+                    "status": true
+                },
+                {
+                    "team": "/fc-vaduz-young-boys/VYsnZ",
+                    "status": true
+                },
+                {
+                    "team": "/almirante-brown-deportivo-riestra/PzrsyUAb",
+                    "status": true
+                },
+                {
+                    "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+                    "status": true
+                },
+                {
+                    "team": "/cholet-le-mans/xIsnJ",
+                    "status": false
+                },
+                {
+                    "team": "/fcsb-fc-academica-clinceni/bqbsOVj",
+                    "status": false
+                },
+                {
+                    "team": "/dinamo-bucuresti-astra-giurgiu/NpbsRpb",
+                    "status": true
+                },
+                {
+                    "team": "/amazulu-baroka-fc/fddsWXub",
+                    "status": true
+                },
+                {
+                    "team": "/orlando-pirates-stellenbosch/tddsfwr",
+                    "status": true
+                },
+                {
+                    "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+                    "status": true
+                },
+                {
+                    "team": "/qaradag-lokbatan-moik-baku/cfpsefp",
+                    "status": false
+                },
+                {
+                    "team": "/chittagong-abahani-limited-sheikh-russel-kc/akwbsVfRb",
+                    "status": true
+                },
+                {
+                    "team": "/eendracht-aalst-fc-femina-white-star-woluwe/RaucsGpyc",
+                    "status": false
+                },
+                {
+                    "team": "/nk-rudes-nk-hrvatski-dragovoljac/DPsBeo",
+                    "status": true
+                },
+                {
+                    "team": "/fc-znamya-truda-orekhovo-zuevo-torpedo-vladimir/vHjsweF",
+                    "status": true
+                },
+                {
+                    "team": "/onduparaka-sc-villa/NlgcsPlgc",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "type": "UNDER-3.5",
+            "range": "ALL",
+            "total-match": 41,
+            "match-list": [
+                {
+                    "team": "/burnley-fulham/gsT",
+                    "status": true
+                },
+                {
+                    "team": "/cadiz-osasuna/vgbsNOb",
+                    "status": false
+                },
+                {
+                    "team": "/deportivo-alaves-elche-cf/WgbsKhb",
+                    "status": true
+                },
+                {
+                    "team": "/kasimpasa-mke-ankaragucu/dmbsnwc",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-gijon-cd-lugo/chbsHLj",
+                    "status": true
+                },
+                {
+                    "team": "/fc-vaduz-young-boys/VYsnZ",
+                    "status": true
+                },
+                {
+                    "team": "/gwangju-fc-suwon-fc/lAqsmDu",
+                    "status": true
+                },
+                {
+                    "team": "/js-kabylie-u21-mc-oran-u21/LjgcsmJgc",
+                    "status": true
+                },
+                {
+                    "team": "/almirante-brown-deportivo-riestra/PzrsyUAb",
+                    "status": true
+                },
+                {
+                    "team": "/allerheiligen-sc-weiz/TRspvc",
+                    "status": false
+                },
+                {
+                    "team": "/fk-borac-banja-luka-hsk-zrinjski-mostar/DdcsKec",
+                    "status": true
+                },
+                {
+                    "team": "/guizhou-heilongjiang-ice-city/ravsQBDb",
+                    "status": true
+                },
+                {
+                    "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+                    "status": true
+                },
+                {
+                    "team": "/hjk-fc-ilves/RUsLXi",
+                    "status": true
+                },
+                {
+                    "team": "/cholet-le-mans/xIsnJ",
+                    "status": true
+                },
+                {
+                    "team": "/us-creteil-lusitanos-stade-lavallois/yIsCI",
+                    "status": true
+                },
+                {
+                    "team": "/fc-samgurali-tskhaltubo-fc-dila-gori/uBnsrJr",
+                    "status": true
+                },
+                {
+                    "team": "/fcsb-fc-academica-clinceni/bqbsOVj",
+                    "status": true
+                },
+                {
+                    "team": "/dinamo-bucuresti-astra-giurgiu/NpbsRpb",
+                    "status": true
+                },
+                {
+                    "team": "/amazulu-baroka-fc/fddsWXub",
+                    "status": true
+                },
+                {
+                    "team": "/orlando-pirates-stellenbosch/tddsfwr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-chiasso-fc-wil-1900/fZsVZ",
+                    "status": false
+                },
+                {
+                    "team": "/ajman-club-fujairah-fc/MyysPltb",
+                    "status": true
+                },
+                {
+                    "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+                    "status": true
+                },
+                {
+                    "team": "/argentino-de-rosario-yupanqui/MxgcsJygc",
+                    "status": true
+                },
+                {
+                    "team": "/sabah-ii-neftci-baku-ii/axtcsbxtc",
+                    "status": false
+                },
+                {
+                    "team": "/qaradag-lokbatan-moik-baku/cfpsefp",
+                    "status": true
+                },
+                {
+                    "team": "/chittagong-abahani-limited-sheikh-russel-kc/akwbsVfRb",
+                    "status": true
+                },
+                {
+                    "team": "/eendracht-aalst-fc-femina-white-star-woluwe/RaucsGpyc",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-charleroi-sv-zulte-waregem/bmycszOQc",
+                    "status": true
+                },
+                {
+                    "team": "/nk-rudes-nk-hrvatski-dragovoljac/DPsBeo",
+                    "status": true
+                },
+                {
+                    "team": "/thorka-akureyri-umf-selfoss/jkxsPXOb",
+                    "status": true
+                },
+                {
+                    "team": "/ramtha-sc-al-hussein-irbid/VQwseUW",
+                    "status": false
+                },
+                {
+                    "team": "/estoril-praia-u23-sc-braga-u23/UbrcsObtc",
+                    "status": true
+                },
+                {
+                    "team": "/al-duhail-al-rayyan/knqsQNr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lada-togliatti-volga-ulyanovsk/QWsWNi",
+                    "status": false
+                },
+                {
+                    "team": "/fc-znamya-truda-orekhovo-zuevo-torpedo-vladimir/vHjsweF",
+                    "status": true
+                },
+                {
+                    "team": "/bugesera-fc-apr-fc/OyBbsRmhc",
+                    "status": true
+                },
+                {
+                    "team": "/busoga-united-fc-wakiso-giantsc/mXrcsPfGc",
+                    "status": true
+                },
+                {
+                    "team": "/onduparaka-sc-villa/NlgcsPlgc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sogdiana-jizzakh-pfk-andijon/rfqsoxu",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "type": "UNDER-4.5",
+            "range": "ALL",
+            "total-match": 85,
+            "match-list": [
+                {
+                    "team": "/burnley-fulham/gsT",
+                    "status": true
+                },
+                {
+                    "team": "/manchester-united-leicester-city/GK",
+                    "status": true
+                },
+                {
+                    "team": "/cadiz-osasuna/vgbsNOb",
+                    "status": true
+                },
+                {
+                    "team": "/deportivo-alaves-elche-cf/WgbsKhb",
+                    "status": true
+                },
+                {
+                    "team": "/rio-ave-cd-santa-clara/lkbsLkb",
+                    "status": true
+                },
+                {
+                    "team": "/tondela-belenenses-sad/ekbsWrp",
+                    "status": true
+                },
+                {
+                    "team": "/sivasspor-fenerbahce/clbsBlb",
+                    "status": true
+                },
+                {
+                    "team": "/genclerbirligi-goztepe/elbscgd",
+                    "status": false
+                },
+                {
+                    "team": "/kasimpasa-mke-ankaragucu/dmbsnwc",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-gijon-cd-lugo/chbsHLj",
+                    "status": true
+                },
+                {
+                    "team": "/sc-rheindorf-altach-skn-st-polten/uRsgXb",
+                    "status": false
+                },
+                {
+                    "team": "/flyeralarm-admira-sv-ried/ZPsaQ",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+                    "status": true
+                },
+                {
+                    "team": "/nk-lokomotiva-zagreb-nk-istra-1961/EkksWzo",
+                    "status": true
+                },
+                {
+                    "team": "/nk-osijek-hnk-sibenik/EPsPP",
+                    "status": true
+                },
+                {
+                    "team": "/fc-vaduz-young-boys/VYsnZ",
+                    "status": true
+                },
+                {
+                    "team": "/gwangju-fc-suwon-fc/lAqsmDu",
+                    "status": true
+                },
+                {
+                    "team": "/js-kabylie-u21-mc-oran-u21/LjgcsmJgc",
+                    "status": true
+                },
+                {
+                    "team": "/almirante-brown-deportivo-riestra/PzrsyUAb",
+                    "status": true
+                },
+                {
+                    "team": "/defensores-de-belgrano-club-atletico-san-telmo/pUvslrKb",
+                    "status": true
+                },
+                {
+                    "team": "/allerheiligen-sc-weiz/TRspvc",
+                    "status": false
+                },
+                {
+                    "team": "/fk-borac-banja-luka-hsk-zrinjski-mostar/DdcsKec",
+                    "status": true
+                },
+                {
+                    "team": "/salgueiro-sport-recife/jOszYi",
+                    "status": true
+                },
+                {
+                    "team": "/beroe-stara-zagora-lokomotiv-plovdiv/xpbsGpb",
+                    "status": true
+                },
+                {
+                    "team": "/deportes-santa-cruz-deportes-temuco/xGXsPuXb",
+                    "status": true
+                },
+                {
+                    "team": "/guizhou-heilongjiang-ice-city/ravsQBDb",
+                    "status": true
+                },
+                {
+                    "team": "/hobro-ik-skive-ik/eBsRC",
+                    "status": true
+                },
+                {
+                    "team": "/helsingor-hb-koge/RCcsVwo",
+                    "status": true
+                },
+                {
+                    "team": "/al-ahly-zamalek/kNcstXq",
+                    "status": true
+                },
+                {
+                    "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+                    "status": true
+                },
+                {
+                    "team": "/aldershot-town-yeovil-town/AbsGc",
+                    "status": true
+                },
+                {
+                    "team": "/hjk-fc-ilves/RUsLXi",
+                    "status": true
+                },
+                {
+                    "team": "/cholet-le-mans/xIsnJ",
+                    "status": true
+                },
+                {
+                    "team": "/us-creteil-lusitanos-stade-lavallois/yIsCI",
+                    "status": true
+                },
+                {
+                    "team": "/fc-torpedo-kutaisi-fc-telavi/uicsCRbc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-samgurali-tskhaltubo-fc-dila-gori/uBnsrJr",
+                    "status": true
+                },
+                {
+                    "team": "/fcsb-fc-academica-clinceni/bqbsOVj",
+                    "status": true
+                },
+                {
+                    "team": "/dinamo-bucuresti-astra-giurgiu/NpbsRpb",
+                    "status": true
+                },
+                {
+                    "team": "/amazulu-baroka-fc/fddsWXub",
+                    "status": true
+                },
+                {
+                    "team": "/orlando-pirates-stellenbosch/tddsfwr",
+                    "status": true
+                },
+                {
+                    "team": "/schaffhausen-fc-thun/eZslZ",
+                    "status": true
+                },
+                {
+                    "team": "/fc-chiasso-fc-wil-1900/fZsVZ",
+                    "status": true
+                },
+                {
+                    "team": "/al-ittihad-kalba-al-sharjah/kGnsfox",
+                    "status": true
+                },
+                {
+                    "team": "/al-jazira-al-khaleej-khor-fakkan/PldsCJTb",
+                    "status": true
+                },
+                {
+                    "team": "/al-nasr-dubai-shabab-al-ahli-dubai/HBtslHfc",
+                    "status": true
+                },
+                {
+                    "team": "/ajman-club-fujairah-fc/MyysPltb",
+                    "status": true
+                },
+                {
+                    "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+                    "status": true
+                },
+                {
+                    "team": "/argentino-de-rosario-yupanqui/MxgcsJygc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-shirak-gyumri-fc-noah/rBnsDUec",
+                    "status": true
+                },
+                {
+                    "team": "/urartu-fc-van/AecsEpFc",
+                    "status": true
+                },
+                {
+                    "team": "/sabah-ii-neftci-baku-ii/axtcsbxtc",
+                    "status": true
+                },
+                {
+                    "team": "/qaradag-lokbatan-moik-baku/cfpsefp",
+                    "status": true
+                },
+                {
+                    "team": "/turan-tovuz-pfk-zaqatala/bOosiwHb",
+                    "status": true
+                },
+                {
+                    "team": "/bahrain-sc-isa-town/DizsoJWb",
+                    "status": true
+                },
+                {
+                    "team": "/chittagong-abahani-limited-sheikh-russel-kc/akwbsVfRb",
+                    "status": true
+                },
+                {
+                    "team": "/saif-sporting-club-muktijoddha-sangsad-kc/TfRbsVlkc",
+                    "status": true
+                },
+                {
+                    "team": "/standard-liege-kaa-gent-ladies/bUosUowb",
+                    "status": true
+                },
+                {
+                    "team": "/eendracht-aalst-fc-femina-white-star-woluwe/RaucsGpyc",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-charleroi-sv-zulte-waregem/bmycszOQc",
+                    "status": true
+                },
+                {
+                    "team": "/votuporanguense-batatais-fc/awdbszkeb",
+                    "status": true
+                },
+                {
+                    "team": "/ec-noroeste-olimpia-fc/mOcslBXb",
+                    "status": true
+                },
+                {
+                    "team": "/lokomotiv-gorna-oryahovitsa-ludogorets-razgrad/bEysBmFb",
+                    "status": true
+                },
+                {
+                    "team": "/nk-rudes-nk-hrvatski-dragovoljac/DPsBeo",
+                    "status": true
+                },
+                {
+                    "team": "/wigan-athletic-u23-sheffield-united-u23/PvGbsXaQb",
+                    "status": true
+                },
+                {
+                    "team": "/europa-point-fc-glacis-united/cBabsZaTb",
+                    "status": true
+                },
+                {
+                    "team": "/thorka-akureyri-umf-selfoss/jkxsPXOb",
+                    "status": true
+                },
+                {
+                    "team": "/ramtha-sc-al-hussein-irbid/VQwseUW",
+                    "status": false
+                },
+                {
+                    "team": "/fk-kyran-shymkent-fk-baikonur/wnvspeMb",
+                    "status": false
+                },
+                {
+                    "team": "/tigres-uanl-club-america/Dxecsewhc",
+                    "status": true
+                },
+                {
+                    "team": "/monterrey-pumas-unam/avecsPPjc",
+                    "status": true
+                },
+                {
+                    "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+                    "status": true
+                },
+                {
+                    "team": "/cf-sparta-real-succes/AtFsOxH",
+                    "status": true
+                },
+                {
+                    "team": "/sheriff-tiraspol-ii-fc-granicerul/FOosHjab",
+                    "status": true
+                },
+                {
+                    "team": "/estoril-praia-u23-sc-braga-u23/UbrcsObtc",
+                    "status": true
+                },
+                {
+                    "team": "/al-duhail-al-rayyan/knqsQNr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lada-togliatti-volga-ulyanovsk/QWsWNi",
+                    "status": true
+                },
+                {
+                    "team": "/zenit-izhevsk-orenburg-ii/VdFsBnec",
+                    "status": false
+                },
+                {
+                    "team": "/fc-znamya-truda-orekhovo-zuevo-torpedo-vladimir/vHjsweF",
+                    "status": true
+                },
+                {
+                    "team": "/bugesera-fc-apr-fc/OyBbsRmhc",
+                    "status": true
+                },
+                {
+                    "team": "/kagera-sugar-fc-mwadui-fc/cYJbseYJb",
+                    "status": true
+                },
+                {
+                    "team": "/mbarara-city-bright-stars/PkKbsYKec",
+                    "status": true
+                },
+                {
+                    "team": "/busoga-united-fc-wakiso-giantsc/mXrcsPfGc",
+                    "status": true
+                },
+                {
+                    "team": "/onduparaka-sc-villa/NlgcsPlgc",
+                    "status": true
+                },
+                {
+                    "team": "/metallurg-bekabad-lokomotiv-tashkent/lfqsqfq",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sogdiana-jizzakh-pfk-andijon/rfqsoxu",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "type": "OVER-0.5",
+            "range": "last-2",
+            "total-match": 111,
+            "match-list": [
+                {
+                    "team": "/burnley-fulham/gsT",
+                    "status": true
+                },
+                {
+                    "team": "/manchester-united-leicester-city/GK",
+                    "status": true
+                },
+                {
+                    "team": "/granada-real-betis/qgbsEAn",
+                    "status": true
+                },
+                {
+                    "team": "/rio-ave-cd-santa-clara/lkbsLkb",
+                    "status": true
+                },
+                {
+                    "team": "/tondela-belenenses-sad/ekbsWrp",
+                    "status": true
+                },
+                {
+                    "team": "/cd-nacional-sl-benfica/gkbsnkb",
+                    "status": true
+                },
+                {
+                    "team": "/konyaspor-trabzonspor/blbsKlb",
+                    "status": true
+                },
+                {
+                    "team": "/alanyaspor-bb-erzurumspor/mCcsdmx",
+                    "status": true
+                },
+                {
+                    "team": "/basaksehir-fk-kayserispor/xlbsLlb",
+                    "status": false
+                },
+                {
+                    "team": "/galatasaray-denizlispor/ilbsllb",
+                    "status": true
+                },
+                {
+                    "team": "/sivasspor-fenerbahce/clbsBlb",
+                    "status": true
+                },
+                {
+                    "team": "/gaziantep-fk-caykur-rizespor/olbsNcc",
+                    "status": true
+                },
+                {
+                    "team": "/genclerbirligi-goztepe/elbscgd",
+                    "status": true
+                },
+                {
+                    "team": "/kasimpasa-mke-ankaragucu/dmbsnwc",
+                    "status": true
+                },
+                {
+                    "team": "/hatayspor-yeni-malatyaspor/QlbsjVj",
+                    "status": true
+                },
+                {
+                    "team": "/hamburger-sv-1-fc-nurnberg/yabsBdb",
+                    "status": true
+                },
+                {
+                    "team": "/sc-rheindorf-altach-skn-st-polten/uRsgXb",
+                    "status": true
+                },
+                {
+                    "team": "/dalian-pro-tianjin-jinmen-tiger/rrbsLYu",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+                    "status": false
+                },
+                {
+                    "team": "/nk-lokomotiva-zagreb-nk-istra-1961/EkksWzo",
+                    "status": true
+                },
+                {
+                    "team": "/nk-osijek-hnk-sibenik/EPsPP",
+                    "status": true
+                },
+                {
+                    "team": "/utc-de-cajamarca-universitario-de-deportes/fWsehK",
+                    "status": true
+                },
+                {
+                    "team": "/pohang-steelers-incheon-united/Ycdsadd",
+                    "status": true
+                },
+                {
+                    "team": "/gwangju-fc-suwon-fc/lAqsmDu",
+                    "status": true
+                },
+                {
+                    "team": "/js-kabylie-u21-mc-oran-u21/LjgcsmJgc",
+                    "status": true
+                },
+                {
+                    "team": "/almirante-brown-deportivo-riestra/PzrsyUAb",
+                    "status": true
+                },
+                {
+                    "team": "/defensores-de-belgrano-club-atletico-san-telmo/pUvslrKb",
+                    "status": false
+                },
+                {
+                    "team": "/allerheiligen-sc-weiz/TRspvc",
+                    "status": false
+                },
+                {
+                    "team": "/fk-sloboda-tuzla-fk-sarajevo/MecsXzc",
+                    "status": false
+                },
+                {
+                    "team": "/fk-borac-banja-luka-hsk-zrinjski-mostar/DdcsKec",
+                    "status": true
+                },
+                {
+                    "team": "/salgueiro-sport-recife/jOszYi",
+                    "status": true
+                },
+                {
+                    "team": "/beroe-stara-zagora-lokomotiv-plovdiv/xpbsGpb",
+                    "status": false
+                },
+                {
+                    "team": "/deportes-santa-cruz-deportes-temuco/xGXsPuXb",
+                    "status": true
+                },
+                {
+                    "team": "/ac-barnechea-rangers-de-talca/enbsAXI",
+                    "status": true
+                },
+                {
+                    "team": "/guizhou-heilongjiang-ice-city/ravsQBDb",
+                    "status": true
+                },
+                {
+                    "team": "/enosis-neon-paralimniou-ermis-aradippou/ftbsCkk",
+                    "status": true
+                },
+                {
+                    "team": "/hobro-ik-skive-ik/eBsRC",
+                    "status": true
+                },
+                {
+                    "team": "/kolding-if-vendsyssel-ff/oBsmTi",
+                    "status": true
+                },
+                {
+                    "team": "/helsingor-hb-koge/RCcsVwo",
+                    "status": true
+                },
+                {
+                    "team": "/al-ahly-zamalek/kNcstXq",
+                    "status": true
+                },
+                {
+                    "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+                    "status": true
+                },
+                {
+                    "team": "/aldershot-town-yeovil-town/AbsGc",
+                    "status": true
+                },
+                {
+                    "team": "/hjk-fc-ilves/RUsLXi",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lahti-kups/UUsZU",
+                    "status": true
+                },
+                {
+                    "team": "/cholet-le-mans/xIsnJ",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-club-de-lyon-bourg-en-bresse/vNcsgbo",
+                    "status": true
+                },
+                {
+                    "team": "/fc-torpedo-kutaisi-fc-telavi/uicsCRbc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-samgurali-tskhaltubo-fc-dila-gori/uBnsrJr",
+                    "status": true
+                },
+                {
+                    "team": "/ihud-bney-majd-al-krum-hapoel-bueine/JWhcshtjc",
+                    "status": true
+                },
+                {
+                    "team": "/fcsb-fc-academica-clinceni/bqbsOVj",
+                    "status": true
+                },
+                {
+                    "team": "/orlando-pirates-stellenbosch/tddsfwr",
+                    "status": false
+                },
+                {
+                    "team": "/osters-if-gif-sundsvall/nKsGK",
+                    "status": true
+                },
+                {
+                    "team": "/schaffhausen-fc-thun/eZslZ",
+                    "status": true
+                },
+                {
+                    "team": "/fc-chiasso-fc-wil-1900/fZsVZ",
+                    "status": true
+                },
+                {
+                    "team": "/al-ain-hatta/HQosQfQb",
+                    "status": true
+                },
+                {
+                    "team": "/al-ittihad-kalba-al-sharjah/kGnsfox",
+                    "status": true
+                },
+                {
+                    "team": "/al-jazira-al-khaleej-khor-fakkan/PldsCJTb",
+                    "status": true
+                },
+                {
+                    "team": "/al-dhafra-al-wasl/zdusfBH",
+                    "status": true
+                },
+                {
+                    "team": "/baniyas-al-wahda-fc/OyyspHfc",
+                    "status": true
+                },
+                {
+                    "team": "/ajman-club-fujairah-fc/MyysPltb",
+                    "status": true
+                },
+                {
+                    "team": "/excursionistas-berazategui/xnBsGVhc",
+                    "status": true
+                },
+                {
+                    "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+                    "status": false
+                },
+                {
+                    "team": "/argentino-de-rosario-yupanqui/MxgcsJygc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-shirak-gyumri-fc-noah/rBnsDUec",
+                    "status": true
+                },
+                {
+                    "team": "/urartu-fc-van/AecsEpFc",
+                    "status": true
+                },
+                {
+                    "team": "/kepez-pfk-kesle-fk-ii/afpsKffc",
+                    "status": true
+                },
+                {
+                    "team": "/sabah-ii-neftci-baku-ii/axtcsbxtc",
+                    "status": true
+                },
+                {
+                    "team": "/turan-tovuz-pfk-zaqatala/bOosiwHb",
+                    "status": true
+                },
+                {
+                    "team": "/bahrain-sc-isa-town/DizsoJWb",
+                    "status": true
+                },
+                {
+                    "team": "/arambagh-ks-sheikh-jamal-dhanmondi-club/NCKbsvzjc",
+                    "status": true
+                },
+                {
+                    "team": "/chittagong-abahani-limited-sheikh-russel-kc/akwbsVfRb",
+                    "status": true
+                },
+                {
+                    "team": "/saif-sporting-club-muktijoddha-sangsad-kc/TfRbsVlkc",
+                    "status": true
+                },
+                {
+                    "team": "/standard-liege-kaa-gent-ladies/bUosUowb",
+                    "status": true
+                },
+                {
+                    "team": "/eendracht-aalst-fc-femina-white-star-woluwe/RaucsGpyc",
+                    "status": true
+                },
+                {
+                    "team": "/votuporanguense-batatais-fc/awdbszkeb",
+                    "status": false
+                },
+                {
+                    "team": "/comercial-sp-desportivo-brasil/PIzskBXb",
+                    "status": true
+                },
+                {
+                    "team": "/ec-noroeste-olimpia-fc/mOcslBXb",
+                    "status": true
+                },
+                {
+                    "team": "/lokomotiv-gorna-oryahovitsa-ludogorets-razgrad/bEysBmFb",
+                    "status": true
+                },
+                {
+                    "team": "/guangdong-meizhou-hakka-henan-jianye/lnRcsmnRc",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-rcb-jiangsu/VbhcsYbhc",
+                    "status": false
+                },
+                {
+                    "team": "/nk-rudes-nk-hrvatski-dragovoljac/DPsBeo",
+                    "status": true
+                },
+                {
+                    "team": "/wigan-athletic-u23-sheffield-united-u23/PvGbsXaQb",
+                    "status": true
+                },
+                {
+                    "team": "/sioni-bolnisi-shevardeni-1906/jucsLRbc",
+                    "status": true
+                },
+                {
+                    "team": "/europa-point-fc-glacis-united/cBabsZaTb",
+                    "status": true
+                },
+                {
+                    "team": "/hong-kong-rangers-hong-kong-pegasus/DZtsXtG",
+                    "status": true
+                },
+                {
+                    "team": "/throttur-reykjavik-valur-reykjavik/JTosCku",
+                    "status": false
+                },
+                {
+                    "team": "/thorka-akureyri-umf-selfoss/jkxsPXOb",
+                    "status": true
+                },
+                {
+                    "team": "/ramtha-sc-al-hussein-irbid/VQwseUW",
+                    "status": true
+                },
+                {
+                    "team": "/fk-kyran-shymkent-fk-baikonur/wnvspeMb",
+                    "status": true
+                },
+                {
+                    "team": "/atlas-pachuca/ZuecsuZgc",
+                    "status": true
+                },
+                {
+                    "team": "/guadalajara-toluca/BvecsyWfc",
+                    "status": true
+                },
+                {
+                    "team": "/tigres-uanl-club-america/Dxecsewhc",
+                    "status": true
+                },
+                {
+                    "team": "/monterrey-pumas-unam/avecsPPjc",
+                    "status": true
+                },
+                {
+                    "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sireti-fc-iskra-rabnita/bxGbsKOHb",
+                    "status": true
+                },
+                {
+                    "team": "/cf-sparta-real-succes/AtFsOxH",
+                    "status": true
+                },
+                {
+                    "team": "/sheriff-tiraspol-ii-fc-granicerul/FOosHjab",
+                    "status": true
+                },
+                {
+                    "team": "/estoril-praia-u23-sc-braga-u23/UbrcsObtc",
+                    "status": true
+                },
+                {
+                    "team": "/al-duhail-al-rayyan/knqsQNr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lada-togliatti-volga-ulyanovsk/QWsWNi",
+                    "status": true
+                },
+                {
+                    "team": "/zenit-izhevsk-orenburg-ii/VdFsBnec",
+                    "status": true
+                },
+                {
+                    "team": "/nosta-novotroitsk-fk-kamaz-naberezhnye-chelny/tadsxad",
+                    "status": true
+                },
+                {
+                    "team": "/rodina-moscow-fk-kolomna/wURsZdEc",
+                    "status": true
+                },
+                {
+                    "team": "/lokomotiv-kazanka-moscow-zenit-st-petersburg-ii/ohusRwD",
+                    "status": true
+                },
+                {
+                    "team": "/bugesera-fc-apr-fc/OyBbsRmhc",
+                    "status": true
+                },
+                {
+                    "team": "/orgryte-is-u21-falkenbergs-u21/vdBseOK",
+                    "status": true
+                },
+                {
+                    "team": "/kagera-sugar-fc-mwadui-fc/cYJbseYJb",
+                    "status": true
+                },
+                {
+                    "team": "/mbarara-city-bright-stars/PkKbsYKec",
+                    "status": true
+                },
+                {
+                    "team": "/busoga-united-fc-wakiso-giantsc/mXrcsPfGc",
+                    "status": true
+                },
+                {
+                    "team": "/metallurg-bekabad-lokomotiv-tashkent/lfqsqfq",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sogdiana-jizzakh-pfk-andijon/rfqsoxu",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "type": "OVER-1.5",
+            "range": "last-2",
+            "total-match": 73,
+            "match-list": [
+                {
+                    "team": "/burnley-fulham/gsT",
+                    "status": true
+                },
+                {
+                    "team": "/manchester-united-leicester-city/GK",
+                    "status": true
+                },
+                {
+                    "team": "/granada-real-betis/qgbsEAn",
+                    "status": true
+                },
+                {
+                    "team": "/rio-ave-cd-santa-clara/lkbsLkb",
+                    "status": true
+                },
+                {
+                    "team": "/tondela-belenenses-sad/ekbsWrp",
+                    "status": true
+                },
+                {
+                    "team": "/cd-nacional-sl-benfica/gkbsnkb",
+                    "status": true
+                },
+                {
+                    "team": "/konyaspor-trabzonspor/blbsKlb",
+                    "status": true
+                },
+                {
+                    "team": "/alanyaspor-bb-erzurumspor/mCcsdmx",
+                    "status": true
+                },
+                {
+                    "team": "/galatasaray-denizlispor/ilbsllb",
+                    "status": true
+                },
+                {
+                    "team": "/gaziantep-fk-caykur-rizespor/olbsNcc",
+                    "status": true
+                },
+                {
+                    "team": "/genclerbirligi-goztepe/elbscgd",
+                    "status": true
+                },
+                {
+                    "team": "/hatayspor-yeni-malatyaspor/QlbsjVj",
+                    "status": true
+                },
+                {
+                    "team": "/hamburger-sv-1-fc-nurnberg/yabsBdb",
+                    "status": true
+                },
+                {
+                    "team": "/dalian-pro-tianjin-jinmen-tiger/rrbsLYu",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+                    "status": false
+                },
+                {
+                    "team": "/utc-de-cajamarca-universitario-de-deportes/fWsehK",
+                    "status": true
+                },
+                {
+                    "team": "/pohang-steelers-incheon-united/Ycdsadd",
+                    "status": true
+                },
+                {
+                    "team": "/gwangju-fc-suwon-fc/lAqsmDu",
+                    "status": true
+                },
+                {
+                    "team": "/allerheiligen-sc-weiz/TRspvc",
+                    "status": false
+                },
+                {
+                    "team": "/fk-sloboda-tuzla-fk-sarajevo/MecsXzc",
+                    "status": false
+                },
+                {
+                    "team": "/salgueiro-sport-recife/jOszYi",
+                    "status": true
+                },
+                {
+                    "team": "/beroe-stara-zagora-lokomotiv-plovdiv/xpbsGpb",
+                    "status": false
+                },
+                {
+                    "team": "/deportes-santa-cruz-deportes-temuco/xGXsPuXb",
+                    "status": true
+                },
+                {
+                    "team": "/ac-barnechea-rangers-de-talca/enbsAXI",
+                    "status": true
+                },
+                {
+                    "team": "/guizhou-heilongjiang-ice-city/ravsQBDb",
+                    "status": true
+                },
+                {
+                    "team": "/kolding-if-vendsyssel-ff/oBsmTi",
+                    "status": true
+                },
+                {
+                    "team": "/helsingor-hb-koge/RCcsVwo",
+                    "status": true
+                },
+                {
+                    "team": "/al-ahly-zamalek/kNcstXq",
+                    "status": true
+                },
+                {
+                    "team": "/aldershot-town-yeovil-town/AbsGc",
+                    "status": true
+                },
+                {
+                    "team": "/hjk-fc-ilves/RUsLXi",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lahti-kups/UUsZU",
+                    "status": true
+                },
+                {
+                    "team": "/fc-torpedo-kutaisi-fc-telavi/uicsCRbc",
+                    "status": true
+                },
+                {
+                    "team": "/ihud-bney-majd-al-krum-hapoel-bueine/JWhcshtjc",
+                    "status": true
+                },
+                {
+                    "team": "/osters-if-gif-sundsvall/nKsGK",
+                    "status": true
+                },
+                {
+                    "team": "/schaffhausen-fc-thun/eZslZ",
+                    "status": true
+                },
+                {
+                    "team": "/al-dhafra-al-wasl/zdusfBH",
+                    "status": true
+                },
+                {
+                    "team": "/baniyas-al-wahda-fc/OyyspHfc",
+                    "status": true
+                },
+                {
+                    "team": "/ajman-club-fujairah-fc/MyysPltb",
+                    "status": true
+                },
+                {
+                    "team": "/excursionistas-berazategui/xnBsGVhc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-shirak-gyumri-fc-noah/rBnsDUec",
+                    "status": true
+                },
+                {
+                    "team": "/urartu-fc-van/AecsEpFc",
+                    "status": true
+                },
+                {
+                    "team": "/kepez-pfk-kesle-fk-ii/afpsKffc",
+                    "status": true
+                },
+                {
+                    "team": "/bahrain-sc-isa-town/DizsoJWb",
+                    "status": true
+                },
+                {
+                    "team": "/arambagh-ks-sheikh-jamal-dhanmondi-club/NCKbsvzjc",
+                    "status": true
+                },
+                {
+                    "team": "/saif-sporting-club-muktijoddha-sangsad-kc/TfRbsVlkc",
+                    "status": true
+                },
+                {
+                    "team": "/standard-liege-kaa-gent-ladies/bUosUowb",
+                    "status": true
+                },
+                {
+                    "team": "/eendracht-aalst-fc-femina-white-star-woluwe/RaucsGpyc",
+                    "status": true
+                },
+                {
+                    "team": "/votuporanguense-batatais-fc/awdbszkeb",
+                    "status": false
+                },
+                {
+                    "team": "/comercial-sp-desportivo-brasil/PIzskBXb",
+                    "status": true
+                },
+                {
+                    "team": "/lokomotiv-gorna-oryahovitsa-ludogorets-razgrad/bEysBmFb",
+                    "status": true
+                },
+                {
+                    "team": "/guangdong-meizhou-hakka-henan-jianye/lnRcsmnRc",
+                    "status": true
+                },
+                {
+                    "team": "/sioni-bolnisi-shevardeni-1906/jucsLRbc",
+                    "status": true
+                },
+                {
+                    "team": "/europa-point-fc-glacis-united/cBabsZaTb",
+                    "status": true
+                },
+                {
+                    "team": "/hong-kong-rangers-hong-kong-pegasus/DZtsXtG",
+                    "status": true
+                },
+                {
+                    "team": "/throttur-reykjavik-valur-reykjavik/JTosCku",
+                    "status": false
+                },
+                {
+                    "team": "/ramtha-sc-al-hussein-irbid/VQwseUW",
+                    "status": true
+                },
+                {
+                    "team": "/fk-kyran-shymkent-fk-baikonur/wnvspeMb",
+                    "status": true
+                },
+                {
+                    "team": "/atlas-pachuca/ZuecsuZgc",
+                    "status": true
+                },
+                {
+                    "team": "/tigres-uanl-club-america/Dxecsewhc",
+                    "status": true
+                },
+                {
+                    "team": "/monterrey-pumas-unam/avecsPPjc",
+                    "status": true
+                },
+                {
+                    "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sireti-fc-iskra-rabnita/bxGbsKOHb",
+                    "status": true
+                },
+                {
+                    "team": "/cf-sparta-real-succes/AtFsOxH",
+                    "status": true
+                },
+                {
+                    "team": "/estoril-praia-u23-sc-braga-u23/UbrcsObtc",
+                    "status": true
+                },
+                {
+                    "team": "/al-duhail-al-rayyan/knqsQNr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lada-togliatti-volga-ulyanovsk/QWsWNi",
+                    "status": true
+                },
+                {
+                    "team": "/zenit-izhevsk-orenburg-ii/VdFsBnec",
+                    "status": true
+                },
+                {
+                    "team": "/rodina-moscow-fk-kolomna/wURsZdEc",
+                    "status": true
+                },
+                {
+                    "team": "/lokomotiv-kazanka-moscow-zenit-st-petersburg-ii/ohusRwD",
+                    "status": true
+                },
+                {
+                    "team": "/bugesera-fc-apr-fc/OyBbsRmhc",
+                    "status": true
+                },
+                {
+                    "team": "/orgryte-is-u21-falkenbergs-u21/vdBseOK",
+                    "status": true
+                },
+                {
+                    "team": "/metallurg-bekabad-lokomotiv-tashkent/lfqsqfq",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sogdiana-jizzakh-pfk-andijon/rfqsoxu",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "type": "OVER-2.5",
+            "range": "last-2",
+            "total-match": 37,
+            "match-list": [
+                {
+                    "team": "/manchester-united-leicester-city/GK",
+                    "status": true
+                },
+                {
+                    "team": "/rio-ave-cd-santa-clara/lkbsLkb",
+                    "status": false
+                },
+                {
+                    "team": "/konyaspor-trabzonspor/blbsKlb",
+                    "status": true
+                },
+                {
+                    "team": "/galatasaray-denizlispor/ilbsllb",
+                    "status": true
+                },
+                {
+                    "team": "/genclerbirligi-goztepe/elbscgd",
+                    "status": true
+                },
+                {
+                    "team": "/hatayspor-yeni-malatyaspor/QlbsjVj",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+                    "status": false
+                },
+                {
+                    "team": "/utc-de-cajamarca-universitario-de-deportes/fWsehK",
+                    "status": false
+                },
+                {
+                    "team": "/fk-sloboda-tuzla-fk-sarajevo/MecsXzc",
+                    "status": false
+                },
+                {
+                    "team": "/salgueiro-sport-recife/jOszYi",
+                    "status": false
+                },
+                {
+                    "team": "/ac-barnechea-rangers-de-talca/enbsAXI",
+                    "status": true
+                },
+                {
+                    "team": "/helsingor-hb-koge/RCcsVwo",
+                    "status": true
+                },
+                {
+                    "team": "/al-ahly-zamalek/kNcstXq",
+                    "status": true
+                },
+                {
+                    "team": "/aldershot-town-yeovil-town/AbsGc",
+                    "status": true
+                },
+                {
+                    "team": "/hjk-fc-ilves/RUsLXi",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lahti-kups/UUsZU",
+                    "status": true
+                },
+                {
+                    "team": "/ihud-bney-majd-al-krum-hapoel-bueine/JWhcshtjc",
+                    "status": true
+                },
+                {
+                    "team": "/schaffhausen-fc-thun/eZslZ",
+                    "status": false
+                },
+                {
+                    "team": "/ajman-club-fujairah-fc/MyysPltb",
+                    "status": true
+                },
+                {
+                    "team": "/excursionistas-berazategui/xnBsGVhc",
+                    "status": false
+                },
+                {
+                    "team": "/fc-shirak-gyumri-fc-noah/rBnsDUec",
+                    "status": true
+                },
+                {
+                    "team": "/kepez-pfk-kesle-fk-ii/afpsKffc",
+                    "status": true
+                },
+                {
+                    "team": "/arambagh-ks-sheikh-jamal-dhanmondi-club/NCKbsvzjc",
+                    "status": true
+                },
+                {
+                    "team": "/votuporanguense-batatais-fc/awdbszkeb",
+                    "status": false
+                },
+                {
+                    "team": "/comercial-sp-desportivo-brasil/PIzskBXb",
+                    "status": true
+                },
+                {
+                    "team": "/throttur-reykjavik-valur-reykjavik/JTosCku",
+                    "status": false
+                },
+                {
+                    "team": "/fk-kyran-shymkent-fk-baikonur/wnvspeMb",
+                    "status": true
+                },
+                {
+                    "team": "/tigres-uanl-club-america/Dxecsewhc",
+                    "status": true
+                },
+                {
+                    "team": "/monterrey-pumas-unam/avecsPPjc",
+                    "status": true
+                },
+                {
+                    "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sireti-fc-iskra-rabnita/bxGbsKOHb",
+                    "status": true
+                },
+                {
+                    "team": "/cf-sparta-real-succes/AtFsOxH",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lada-togliatti-volga-ulyanovsk/QWsWNi",
+                    "status": true
+                },
+                {
+                    "team": "/rodina-moscow-fk-kolomna/wURsZdEc",
+                    "status": true
+                },
+                {
+                    "team": "/bugesera-fc-apr-fc/OyBbsRmhc",
+                    "status": true
+                },
+                {
+                    "team": "/orgryte-is-u21-falkenbergs-u21/vdBseOK",
+                    "status": false
+                },
+                {
+                    "team": "/metallurg-bekabad-lokomotiv-tashkent/lfqsqfq",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "type": "OVER-3.5",
+            "range": "last-2",
+            "total-match": 15,
+            "match-list": [
+                {
+                    "team": "/manchester-united-leicester-city/GK",
+                    "status": true
+                },
+                {
+                    "team": "/konyaspor-trabzonspor/blbsKlb",
+                    "status": true
+                },
+                {
+                    "team": "/genclerbirligi-goztepe/elbscgd",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+                    "status": false
+                },
+                {
+                    "team": "/utc-de-cajamarca-universitario-de-deportes/fWsehK",
+                    "status": false
+                },
+                {
+                    "team": "/schaffhausen-fc-thun/eZslZ",
+                    "status": false
+                },
+                {
+                    "team": "/excursionistas-berazategui/xnBsGVhc",
+                    "status": false
+                },
+                {
+                    "team": "/kepez-pfk-kesle-fk-ii/afpsKffc",
+                    "status": true
+                },
+                {
+                    "team": "/arambagh-ks-sheikh-jamal-dhanmondi-club/NCKbsvzjc",
+                    "status": true
+                },
+                {
+                    "team": "/throttur-reykjavik-valur-reykjavik/JTosCku",
+                    "status": false
+                },
+                {
+                    "team": "/tigres-uanl-club-america/Dxecsewhc",
+                    "status": true
+                },
+                {
+                    "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sireti-fc-iskra-rabnita/bxGbsKOHb",
+                    "status": true
+                },
+                {
+                    "team": "/rodina-moscow-fk-kolomna/wURsZdEc",
+                    "status": true
+                },
+                {
+                    "team": "/orgryte-is-u21-falkenbergs-u21/vdBseOK",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "type": "UNDER-0.5",
+            "range": "last-2",
+            "total-match": 1,
+            "match-list": [
+                {
+                    "team": "/fc-znamya-truda-orekhovo-zuevo-torpedo-vladimir/vHjsweF",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "type": "UNDER-1.5",
+            "range": "last-2",
+            "total-match": 11,
+            "match-list": [
+                {
+                    "team": "/sc-rheindorf-altach-skn-st-polten/uRsgXb",
+                    "status": false
+                },
+                {
+                    "team": "/enosis-neon-paralimniou-ermis-aradippou/ftbsCkk",
+                    "status": false
+                },
+                {
+                    "team": "/hobro-ik-skive-ik/eBsRC",
+                    "status": false
+                },
+                {
+                    "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+                    "status": true
+                },
+                {
+                    "team": "/dinamo-bucuresti-astra-giurgiu/NpbsRpb",
+                    "status": true
+                },
+                {
+                    "team": "/al-nasr-dubai-shabab-al-ahli-dubai/HBtslHfc",
+                    "status": false
+                },
+                {
+                    "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+                    "status": true
+                },
+                {
+                    "team": "/wigan-athletic-u23-sheffield-united-u23/PvGbsXaQb",
+                    "status": false
+                },
+                {
+                    "team": "/fc-znamya-truda-orekhovo-zuevo-torpedo-vladimir/vHjsweF",
+                    "status": false
+                },
+                {
+                    "team": "/busoga-united-fc-wakiso-giantsc/mXrcsPfGc",
+                    "status": true
+                },
+                {
+                    "team": "/onduparaka-sc-villa/NlgcsPlgc",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "type": "UNDER-2.5",
+            "range": "last-2",
+            "total-match": 34,
+            "match-list": [
+                {
+                    "team": "/cadiz-osasuna/vgbsNOb",
+                    "status": false
+                },
+                {
+                    "team": "/deportivo-alaves-elche-cf/WgbsKhb",
+                    "status": true
+                },
+                {
+                    "team": "/tondela-belenenses-sad/ekbsWrp",
+                    "status": false
+                },
+                {
+                    "team": "/basaksehir-fk-kayserispor/xlbsLlb",
+                    "status": true
+                },
+                {
+                    "team": "/sivasspor-fenerbahce/clbsBlb",
+                    "status": true
+                },
+                {
+                    "team": "/kasimpasa-mke-ankaragucu/dmbsnwc",
+                    "status": false
+                },
+                {
+                    "team": "/sc-rheindorf-altach-skn-st-polten/uRsgXb",
+                    "status": false
+                },
+                {
+                    "team": "/flyeralarm-admira-sv-ried/ZPsaQ",
+                    "status": true
+                },
+                {
+                    "team": "/fc-vaduz-young-boys/VYsnZ",
+                    "status": true
+                },
+                {
+                    "team": "/almirante-brown-deportivo-riestra/PzrsyUAb",
+                    "status": true
+                },
+                {
+                    "team": "/enosis-neon-paralimniou-ermis-aradippou/ftbsCkk",
+                    "status": false
+                },
+                {
+                    "team": "/hobro-ik-skive-ik/eBsRC",
+                    "status": true
+                },
+                {
+                    "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+                    "status": true
+                },
+                {
+                    "team": "/cholet-le-mans/xIsnJ",
+                    "status": false
+                },
+                {
+                    "team": "/fcsb-fc-academica-clinceni/bqbsOVj",
+                    "status": false
+                },
+                {
+                    "team": "/dinamo-bucuresti-astra-giurgiu/NpbsRpb",
+                    "status": true
+                },
+                {
+                    "team": "/amazulu-baroka-fc/fddsWXub",
+                    "status": true
+                },
+                {
+                    "team": "/orlando-pirates-stellenbosch/tddsfwr",
+                    "status": true
+                },
+                {
+                    "team": "/al-ittihad-kalba-al-sharjah/kGnsfox",
+                    "status": true
+                },
+                {
+                    "team": "/al-nasr-dubai-shabab-al-ahli-dubai/HBtslHfc",
+                    "status": false
+                },
+                {
+                    "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+                    "status": true
+                },
+                {
+                    "team": "/sabah-ii-neftci-baku-ii/axtcsbxtc",
+                    "status": false
+                },
+                {
+                    "team": "/qaradag-lokbatan-moik-baku/cfpsefp",
+                    "status": false
+                },
+                {
+                    "team": "/chittagong-abahani-limited-sheikh-russel-kc/akwbsVfRb",
+                    "status": true
+                },
+                {
+                    "team": "/eendracht-aalst-fc-femina-white-star-woluwe/RaucsGpyc",
+                    "status": false
+                },
+                {
+                    "team": "/sporting-charleroi-sv-zulte-waregem/bmycszOQc",
+                    "status": true
+                },
+                {
+                    "team": "/nk-rudes-nk-hrvatski-dragovoljac/DPsBeo",
+                    "status": true
+                },
+                {
+                    "team": "/wigan-athletic-u23-sheffield-united-u23/PvGbsXaQb",
+                    "status": false
+                },
+                {
+                    "team": "/guadalajara-toluca/BvecsyWfc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-znamya-truda-orekhovo-zuevo-torpedo-vladimir/vHjsweF",
+                    "status": true
+                },
+                {
+                    "team": "/coastal-union-simba-sc/jYJbsnYJb",
+                    "status": false
+                },
+                {
+                    "team": "/busoga-united-fc-wakiso-giantsc/mXrcsPfGc",
+                    "status": true
+                },
+                {
+                    "team": "/onduparaka-sc-villa/NlgcsPlgc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sogdiana-jizzakh-pfk-andijon/rfqsoxu",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "type": "UNDER-3.5",
+            "range": "last-2",
+            "total-match": 76,
+            "match-list": [
+                {
+                    "team": "/burnley-fulham/gsT",
+                    "status": true
+                },
+                {
+                    "team": "/cadiz-osasuna/vgbsNOb",
+                    "status": false
+                },
+                {
+                    "team": "/deportivo-alaves-elche-cf/WgbsKhb",
+                    "status": true
+                },
+                {
+                    "team": "/tondela-belenenses-sad/ekbsWrp",
+                    "status": true
+                },
+                {
+                    "team": "/basaksehir-fk-kayserispor/xlbsLlb",
+                    "status": true
+                },
+                {
+                    "team": "/sivasspor-fenerbahce/clbsBlb",
+                    "status": true
+                },
+                {
+                    "team": "/gaziantep-fk-caykur-rizespor/olbsNcc",
+                    "status": false
+                },
+                {
+                    "team": "/kasimpasa-mke-ankaragucu/dmbsnwc",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-gijon-cd-lugo/chbsHLj",
+                    "status": true
+                },
+                {
+                    "team": "/sc-rheindorf-altach-skn-st-polten/uRsgXb",
+                    "status": false
+                },
+                {
+                    "team": "/flyeralarm-admira-sv-ried/ZPsaQ",
+                    "status": true
+                },
+                {
+                    "team": "/dalian-pro-tianjin-jinmen-tiger/rrbsLYu",
+                    "status": true
+                },
+                {
+                    "team": "/fc-vaduz-young-boys/VYsnZ",
+                    "status": true
+                },
+                {
+                    "team": "/pohang-steelers-incheon-united/Ycdsadd",
+                    "status": true
+                },
+                {
+                    "team": "/gwangju-fc-suwon-fc/lAqsmDu",
+                    "status": true
+                },
+                {
+                    "team": "/js-kabylie-u21-mc-oran-u21/LjgcsmJgc",
+                    "status": true
+                },
+                {
+                    "team": "/almirante-brown-deportivo-riestra/PzrsyUAb",
+                    "status": true
+                },
+                {
+                    "team": "/allerheiligen-sc-weiz/TRspvc",
+                    "status": false
+                },
+                {
+                    "team": "/fk-borac-banja-luka-hsk-zrinjski-mostar/DdcsKec",
+                    "status": true
+                },
+                {
+                    "team": "/salgueiro-sport-recife/jOszYi",
+                    "status": true
+                },
+                {
+                    "team": "/beroe-stara-zagora-lokomotiv-plovdiv/xpbsGpb",
+                    "status": true
+                },
+                {
+                    "team": "/deportes-santa-cruz-deportes-temuco/xGXsPuXb",
+                    "status": true
+                },
+                {
+                    "team": "/guizhou-heilongjiang-ice-city/ravsQBDb",
+                    "status": true
+                },
+                {
+                    "team": "/enosis-neon-paralimniou-ermis-aradippou/ftbsCkk",
+                    "status": false
+                },
+                {
+                    "team": "/hobro-ik-skive-ik/eBsRC",
+                    "status": true
+                },
+                {
+                    "team": "/al-ahly-zamalek/kNcstXq",
+                    "status": true
+                },
+                {
+                    "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+                    "status": true
+                },
+                {
+                    "team": "/wadi-degla-smouha/nwrstwr",
+                    "status": true
+                },
+                {
+                    "team": "/hjk-fc-ilves/RUsLXi",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lahti-kups/UUsZU",
+                    "status": false
+                },
+                {
+                    "team": "/cholet-le-mans/xIsnJ",
+                    "status": true
+                },
+                {
+                    "team": "/us-creteil-lusitanos-stade-lavallois/yIsCI",
+                    "status": true
+                },
+                {
+                    "team": "/fc-samgurali-tskhaltubo-fc-dila-gori/uBnsrJr",
+                    "status": true
+                },
+                {
+                    "team": "/fcsb-fc-academica-clinceni/bqbsOVj",
+                    "status": true
+                },
+                {
+                    "team": "/dinamo-bucuresti-astra-giurgiu/NpbsRpb",
+                    "status": true
+                },
+                {
+                    "team": "/amazulu-baroka-fc/fddsWXub",
+                    "status": true
+                },
+                {
+                    "team": "/orlando-pirates-stellenbosch/tddsfwr",
+                    "status": true
+                },
+                {
+                    "team": "/osters-if-gif-sundsvall/nKsGK",
+                    "status": true
+                },
+                {
+                    "team": "/fc-chiasso-fc-wil-1900/fZsVZ",
+                    "status": false
+                },
+                {
+                    "team": "/al-ain-hatta/HQosQfQb",
+                    "status": true
+                },
+                {
+                    "team": "/al-ittihad-kalba-al-sharjah/kGnsfox",
+                    "status": true
+                },
+                {
+                    "team": "/al-jazira-al-khaleej-khor-fakkan/PldsCJTb",
+                    "status": true
+                },
+                {
+                    "team": "/al-nasr-dubai-shabab-al-ahli-dubai/HBtslHfc",
+                    "status": false
+                },
+                {
+                    "team": "/al-dhafra-al-wasl/zdusfBH",
+                    "status": true
+                },
+                {
+                    "team": "/baniyas-al-wahda-fc/OyyspHfc",
+                    "status": true
+                },
+                {
+                    "team": "/ajman-club-fujairah-fc/MyysPltb",
+                    "status": true
+                },
+                {
+                    "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+                    "status": true
+                },
+                {
+                    "team": "/argentino-de-rosario-yupanqui/MxgcsJygc",
+                    "status": true
+                },
+                {
+                    "team": "/sabah-ii-neftci-baku-ii/axtcsbxtc",
+                    "status": false
+                },
+                {
+                    "team": "/qaradag-lokbatan-moik-baku/cfpsefp",
+                    "status": true
+                },
+                {
+                    "team": "/bahrain-sc-isa-town/DizsoJWb",
+                    "status": true
+                },
+                {
+                    "team": "/chittagong-abahani-limited-sheikh-russel-kc/akwbsVfRb",
+                    "status": true
+                },
+                {
+                    "team": "/saif-sporting-club-muktijoddha-sangsad-kc/TfRbsVlkc",
+                    "status": false
+                },
+                {
+                    "team": "/standard-liege-kaa-gent-ladies/bUosUowb",
+                    "status": true
+                },
+                {
+                    "team": "/eendracht-aalst-fc-femina-white-star-woluwe/RaucsGpyc",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-charleroi-sv-zulte-waregem/bmycszOQc",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-rcb-jiangsu/VbhcsYbhc",
+                    "status": true
+                },
+                {
+                    "team": "/nk-rudes-nk-hrvatski-dragovoljac/DPsBeo",
+                    "status": true
+                },
+                {
+                    "team": "/wigan-athletic-u23-sheffield-united-u23/PvGbsXaQb",
+                    "status": false
+                },
+                {
+                    "team": "/thorka-akureyri-umf-selfoss/jkxsPXOb",
+                    "status": true
+                },
+                {
+                    "team": "/ramtha-sc-al-hussein-irbid/VQwseUW",
+                    "status": false
+                },
+                {
+                    "team": "/guadalajara-toluca/BvecsyWfc",
+                    "status": true
+                },
+                {
+                    "team": "/monterrey-pumas-unam/avecsPPjc",
+                    "status": true
+                },
+                {
+                    "team": "/cf-sparta-real-succes/AtFsOxH",
+                    "status": true
+                },
+                {
+                    "team": "/sheriff-tiraspol-ii-fc-granicerul/FOosHjab",
+                    "status": true
+                },
+                {
+                    "team": "/estoril-praia-u23-sc-braga-u23/UbrcsObtc",
+                    "status": true
+                },
+                {
+                    "team": "/al-duhail-al-rayyan/knqsQNr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lada-togliatti-volga-ulyanovsk/QWsWNi",
+                    "status": false
+                },
+                {
+                    "team": "/nosta-novotroitsk-fk-kamaz-naberezhnye-chelny/tadsxad",
+                    "status": true
+                },
+                {
+                    "team": "/fc-znamya-truda-orekhovo-zuevo-torpedo-vladimir/vHjsweF",
+                    "status": true
+                },
+                {
+                    "team": "/bugesera-fc-apr-fc/OyBbsRmhc",
+                    "status": true
+                },
+                {
+                    "team": "/kagera-sugar-fc-mwadui-fc/cYJbseYJb",
+                    "status": true
+                },
+                {
+                    "team": "/coastal-union-simba-sc/jYJbsnYJb",
+                    "status": false
+                },
+                {
+                    "team": "/busoga-united-fc-wakiso-giantsc/mXrcsPfGc",
+                    "status": true
+                },
+                {
+                    "team": "/onduparaka-sc-villa/NlgcsPlgc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sogdiana-jizzakh-pfk-andijon/rfqsoxu",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "type": "UNDER-4.5",
+            "range": "last-2",
+            "total-match": 102,
+            "match-list": [
+                {
+                    "team": "/burnley-fulham/gsT",
+                    "status": true
+                },
+                {
+                    "team": "/manchester-united-leicester-city/GK",
+                    "status": true
+                },
+                {
+                    "team": "/cadiz-osasuna/vgbsNOb",
+                    "status": true
+                },
+                {
+                    "team": "/deportivo-alaves-elche-cf/WgbsKhb",
+                    "status": true
+                },
+                {
+                    "team": "/rio-ave-cd-santa-clara/lkbsLkb",
+                    "status": true
+                },
+                {
+                    "team": "/tondela-belenenses-sad/ekbsWrp",
+                    "status": true
+                },
+                {
+                    "team": "/basaksehir-fk-kayserispor/xlbsLlb",
+                    "status": true
+                },
+                {
+                    "team": "/sivasspor-fenerbahce/clbsBlb",
+                    "status": true
+                },
+                {
+                    "team": "/gaziantep-fk-caykur-rizespor/olbsNcc",
+                    "status": false
+                },
+                {
+                    "team": "/genclerbirligi-goztepe/elbscgd",
+                    "status": false
+                },
+                {
+                    "team": "/kasimpasa-mke-ankaragucu/dmbsnwc",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-gijon-cd-lugo/chbsHLj",
+                    "status": true
+                },
+                {
+                    "team": "/sc-rheindorf-altach-skn-st-polten/uRsgXb",
+                    "status": false
+                },
+                {
+                    "team": "/flyeralarm-admira-sv-ried/ZPsaQ",
+                    "status": true
+                },
+                {
+                    "team": "/dalian-pro-tianjin-jinmen-tiger/rrbsLYu",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-port-changchun-yatai/UTnsMFq",
+                    "status": true
+                },
+                {
+                    "team": "/nk-lokomotiva-zagreb-nk-istra-1961/EkksWzo",
+                    "status": true
+                },
+                {
+                    "team": "/nk-osijek-hnk-sibenik/EPsPP",
+                    "status": true
+                },
+                {
+                    "team": "/fc-vaduz-young-boys/VYsnZ",
+                    "status": true
+                },
+                {
+                    "team": "/pohang-steelers-incheon-united/Ycdsadd",
+                    "status": true
+                },
+                {
+                    "team": "/gwangju-fc-suwon-fc/lAqsmDu",
+                    "status": true
+                },
+                {
+                    "team": "/js-kabylie-u21-mc-oran-u21/LjgcsmJgc",
+                    "status": true
+                },
+                {
+                    "team": "/almirante-brown-deportivo-riestra/PzrsyUAb",
+                    "status": true
+                },
+                {
+                    "team": "/defensores-de-belgrano-club-atletico-san-telmo/pUvslrKb",
+                    "status": true
+                },
+                {
+                    "team": "/allerheiligen-sc-weiz/TRspvc",
+                    "status": false
+                },
+                {
+                    "team": "/fk-borac-banja-luka-hsk-zrinjski-mostar/DdcsKec",
+                    "status": true
+                },
+                {
+                    "team": "/salgueiro-sport-recife/jOszYi",
+                    "status": true
+                },
+                {
+                    "team": "/beroe-stara-zagora-lokomotiv-plovdiv/xpbsGpb",
+                    "status": true
+                },
+                {
+                    "team": "/deportes-santa-cruz-deportes-temuco/xGXsPuXb",
+                    "status": true
+                },
+                {
+                    "team": "/guizhou-heilongjiang-ice-city/ravsQBDb",
+                    "status": true
+                },
+                {
+                    "team": "/enosis-neon-paralimniou-ermis-aradippou/ftbsCkk",
+                    "status": false
+                },
+                {
+                    "team": "/hobro-ik-skive-ik/eBsRC",
+                    "status": true
+                },
+                {
+                    "team": "/helsingor-hb-koge/RCcsVwo",
+                    "status": true
+                },
+                {
+                    "team": "/al-ahly-zamalek/kNcstXq",
+                    "status": true
+                },
+                {
+                    "team": "/el-gouna-fc-aswan-sc/pwrsDFIb",
+                    "status": true
+                },
+                {
+                    "team": "/wadi-degla-smouha/nwrstwr",
+                    "status": true
+                },
+                {
+                    "team": "/aldershot-town-yeovil-town/AbsGc",
+                    "status": true
+                },
+                {
+                    "team": "/hjk-fc-ilves/RUsLXi",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lahti-kups/UUsZU",
+                    "status": false
+                },
+                {
+                    "team": "/cholet-le-mans/xIsnJ",
+                    "status": true
+                },
+                {
+                    "team": "/us-creteil-lusitanos-stade-lavallois/yIsCI",
+                    "status": true
+                },
+                {
+                    "team": "/fc-torpedo-kutaisi-fc-telavi/uicsCRbc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-samgurali-tskhaltubo-fc-dila-gori/uBnsrJr",
+                    "status": true
+                },
+                {
+                    "team": "/fcsb-fc-academica-clinceni/bqbsOVj",
+                    "status": true
+                },
+                {
+                    "team": "/dinamo-bucuresti-astra-giurgiu/NpbsRpb",
+                    "status": true
+                },
+                {
+                    "team": "/amazulu-baroka-fc/fddsWXub",
+                    "status": true
+                },
+                {
+                    "team": "/orlando-pirates-stellenbosch/tddsfwr",
+                    "status": true
+                },
+                {
+                    "team": "/osters-if-gif-sundsvall/nKsGK",
+                    "status": true
+                },
+                {
+                    "team": "/sc-kriens-fc-aarau/XYsoZ",
+                    "status": true
+                },
+                {
+                    "team": "/schaffhausen-fc-thun/eZslZ",
+                    "status": true
+                },
+                {
+                    "team": "/fc-chiasso-fc-wil-1900/fZsVZ",
+                    "status": true
+                },
+                {
+                    "team": "/al-ain-hatta/HQosQfQb",
+                    "status": true
+                },
+                {
+                    "team": "/al-ittihad-kalba-al-sharjah/kGnsfox",
+                    "status": true
+                },
+                {
+                    "team": "/al-jazira-al-khaleej-khor-fakkan/PldsCJTb",
+                    "status": true
+                },
+                {
+                    "team": "/al-nasr-dubai-shabab-al-ahli-dubai/HBtslHfc",
+                    "status": true
+                },
+                {
+                    "team": "/al-dhafra-al-wasl/zdusfBH",
+                    "status": true
+                },
+                {
+                    "team": "/baniyas-al-wahda-fc/OyyspHfc",
+                    "status": true
+                },
+                {
+                    "team": "/ajman-club-fujairah-fc/MyysPltb",
+                    "status": true
+                },
+                {
+                    "team": "/juventud-unida-san-miguel-deportivo-paraguayo/IxgcsKygc",
+                    "status": true
+                },
+                {
+                    "team": "/argentino-de-rosario-yupanqui/MxgcsJygc",
+                    "status": true
+                },
+                {
+                    "team": "/fc-shirak-gyumri-fc-noah/rBnsDUec",
+                    "status": true
+                },
+                {
+                    "team": "/urartu-fc-van/AecsEpFc",
+                    "status": true
+                },
+                {
+                    "team": "/sabah-ii-neftci-baku-ii/axtcsbxtc",
+                    "status": true
+                },
+                {
+                    "team": "/qaradag-lokbatan-moik-baku/cfpsefp",
+                    "status": true
+                },
+                {
+                    "team": "/turan-tovuz-pfk-zaqatala/bOosiwHb",
+                    "status": true
+                },
+                {
+                    "team": "/bahrain-sc-isa-town/DizsoJWb",
+                    "status": true
+                },
+                {
+                    "team": "/chittagong-abahani-limited-sheikh-russel-kc/akwbsVfRb",
+                    "status": true
+                },
+                {
+                    "team": "/saif-sporting-club-muktijoddha-sangsad-kc/TfRbsVlkc",
+                    "status": true
+                },
+                {
+                    "team": "/standard-liege-kaa-gent-ladies/bUosUowb",
+                    "status": true
+                },
+                {
+                    "team": "/eendracht-aalst-fc-femina-white-star-woluwe/RaucsGpyc",
+                    "status": true
+                },
+                {
+                    "team": "/sporting-charleroi-sv-zulte-waregem/bmycszOQc",
+                    "status": true
+                },
+                {
+                    "team": "/votuporanguense-batatais-fc/awdbszkeb",
+                    "status": true
+                },
+                {
+                    "team": "/ec-noroeste-olimpia-fc/mOcslBXb",
+                    "status": true
+                },
+                {
+                    "team": "/lokomotiv-gorna-oryahovitsa-ludogorets-razgrad/bEysBmFb",
+                    "status": true
+                },
+                {
+                    "team": "/shanghai-rcb-jiangsu/VbhcsYbhc",
+                    "status": true
+                },
+                {
+                    "team": "/nk-rudes-nk-hrvatski-dragovoljac/DPsBeo",
+                    "status": true
+                },
+                {
+                    "team": "/wigan-athletic-u23-sheffield-united-u23/PvGbsXaQb",
+                    "status": true
+                },
+                {
+                    "team": "/sioni-bolnisi-shevardeni-1906/jucsLRbc",
+                    "status": true
+                },
+                {
+                    "team": "/europa-point-fc-glacis-united/cBabsZaTb",
+                    "status": true
+                },
+                {
+                    "team": "/thorka-akureyri-umf-selfoss/jkxsPXOb",
+                    "status": true
+                },
+                {
+                    "team": "/ramtha-sc-al-hussein-irbid/VQwseUW",
+                    "status": false
+                },
+                {
+                    "team": "/fk-kyran-shymkent-fk-baikonur/wnvspeMb",
+                    "status": false
+                },
+                {
+                    "team": "/guadalajara-toluca/BvecsyWfc",
+                    "status": true
+                },
+                {
+                    "team": "/tigres-uanl-club-america/Dxecsewhc",
+                    "status": true
+                },
+                {
+                    "team": "/monterrey-pumas-unam/avecsPPjc",
+                    "status": true
+                },
+                {
+                    "team": "/cs-drochia-fc-cahul-2005/zOosXWr",
+                    "status": true
+                },
+                {
+                    "team": "/cf-sparta-real-succes/AtFsOxH",
+                    "status": true
+                },
+                {
+                    "team": "/sheriff-tiraspol-ii-fc-granicerul/FOosHjab",
+                    "status": true
+                },
+                {
+                    "team": "/estoril-praia-u23-sc-braga-u23/UbrcsObtc",
+                    "status": true
+                },
+                {
+                    "team": "/al-duhail-al-rayyan/knqsQNr",
+                    "status": true
+                },
+                {
+                    "team": "/fc-lada-togliatti-volga-ulyanovsk/QWsWNi",
+                    "status": true
+                },
+                {
+                    "team": "/zenit-izhevsk-orenburg-ii/VdFsBnec",
+                    "status": false
+                },
+                {
+                    "team": "/nosta-novotroitsk-fk-kamaz-naberezhnye-chelny/tadsxad",
+                    "status": true
+                },
+                {
+                    "team": "/fc-znamya-truda-orekhovo-zuevo-torpedo-vladimir/vHjsweF",
+                    "status": true
+                },
+                {
+                    "team": "/bugesera-fc-apr-fc/OyBbsRmhc",
+                    "status": true
+                },
+                {
+                    "team": "/kagera-sugar-fc-mwadui-fc/cYJbseYJb",
+                    "status": true
+                },
+                {
+                    "team": "/coastal-union-simba-sc/jYJbsnYJb",
+                    "status": false
+                },
+                {
+                    "team": "/mbarara-city-bright-stars/PkKbsYKec",
+                    "status": true
+                },
+                {
+                    "team": "/busoga-united-fc-wakiso-giantsc/mXrcsPfGc",
+                    "status": true
+                },
+                {
+                    "team": "/onduparaka-sc-villa/NlgcsPlgc",
+                    "status": true
+                },
+                {
+                    "team": "/metallurg-bekabad-lokomotiv-tashkent/lfqsqfq",
+                    "status": true
+                },
+                {
+                    "team": "/fc-sogdiana-jizzakh-pfk-andijon/rfqsoxu",
+                    "status": true
+                }
+            ]
+        }
+    ]
+}

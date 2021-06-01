@@ -1,0 +1,3699 @@
+{
+    "date": "2021-05-14",
+    "total_match": 276,
+    "response": [
+        {
+            "team": "/liverpool-manchester-united/KU",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/granada-real-madrid/EgbsEAn",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 4,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/crotone-hellas-verona/bebsteb",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/gil-vicente-fc-pacos-de-ferreira/dkbskkb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/rb-leipzig-borussia-dortmund/ydbskCo",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/vallieres-as-monaco/dIsmAp",
+            "h2h_score": []
+        },
+        {
+            "team": "/club-olimpia-always-ready/XucsIlhc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/ldu-de-quito-velez-sarsfield/iobshfc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/america-de-cali-atletico-mineiro/COscxc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/guabira-montero-bahia/fOsbeu",
+            "h2h_score": [
+                {
+                    "home": 5,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/aucas-fbc-melgar/iWsZec",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/penarol-corinthians/hOsCob",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/river-plate-de-asuncion-sport-huancayo/VCnsvuL",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/club-libertad-newells-old-boys/mobsWuc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/deportivo-la-equidad-aragua-fc/DzcsAOc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/gremio-lanus/tobsBtc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/club-america-pachuca/LNsON",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/santos-laguna-monterrey/HNsYN",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/chicago-fire-dc-united/cabsfab",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/chievoverona-venezia/NdbsUdb",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/melbourne-victory-macarthur-fc/vucsHIYc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/shandong-taishan-shenzhen/vrbswrb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/cangzhou-mighty-lions-guangzhou-city/ArbsPDB",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 2
+                },
+                {
+                    "home": 4,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/vejle-boldklub-ob/LAsxXb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/al-ettifaq-al-shabab/nLnstLn",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-faisaly-abha/KvxsPlrb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-ain-al-nassr/atjsUAXb",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/al-qadisiyah-al-ahli-saudi/uOnsCvx",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-hilal-saudi-al-batin/VMisJlrb",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 3
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 5
+                }
+            ]
+        },
+        {
+            "team": "/san-diego-loyal-sc-tacoma-defiance/mQDbslBKc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/tristan-suarez-atletico-rafaela/BZnsnvM",
+            "h2h_score": []
+        },
+        {
+            "team": "/fc-alashkert-fc-gandzasar-kapan/jwosqjC",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-ararat-urartu/AecsChc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/pyunik-yerevan-fc-ararat-armenia/oecsEUec",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-van-fc-noah/DUecsEpFc",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/ravshan-ahal-fk/owJsCKzb",
+            "h2h_score": []
+        },
+        {
+            "team": "/nasaf-qarshi-fc-alay/rFnsoEfb",
+            "h2h_score": []
+        },
+        {
+            "team": "/fc-khujand-altyn-asyr-fk/vFpbsgAKb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/gladesville-ryde-magic-bankstown-city-fc/YOtbsvcYb",
+            "h2h_score": []
+        },
+        {
+            "team": "/deutschlandsberger-sc-usv-weindorf-st-anna-am-aigen/ICEsqvqc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/sparkasse-gleisdorf-kalsdorf/iTsFAc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/tus-bad-gleichenberg-sc-weiz/TRsKLYb",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 4
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/sc-neusiedl-1919-wiener-sport-club/qQsTac",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/wiener-neustadter-sc-fc-mauerwerk/RxjsXgKb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/wiener-sport-club-asv-drassburg/qQsEOR",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/wiener-viktoria-asv-drassburg/KCEsEOR",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/sc-neusiedl-1919-fcm-traiskirchen/TacsFDFb",
+            "h2h_score": [
+                {
+                    "home": 5,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/qebele-fk-sabah/cOosDghc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/qarabag-agdam-fk-kesle-fk/mucsLFj",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 6,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/neftchi-baku-pfc-sumqayit-fk/pecsXOr",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/sebail-fk-zire-fk/gtubsJCRb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/slavia-mozyr-sputnik-rechitsa/irbskAcc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 9,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/fk-smorgon-dinamo-minsk/lrbsfWc",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/sousa-pb-treze/tPsoMi",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/botafogo-sp-ponte-preta/uOsEO",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/retro-fc-brasil-sete-de-setembro-pe/BYisOWEc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/etar-veliko-tarnovo-botev-vratsa/NNosQNo",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 5,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/slavia-sofia-montana-1921/zpbsRcn",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/salitas-fc-rc-de-kadiogo/NNYbsefxc",
+            "h2h_score": []
+        },
+        {
+            "team": "/kayanza-united-athletico-olympic/cCFcsIMGc",
+            "h2h_score": []
+        },
+        {
+            "team": "/muzinga-fc-bujumbura-city/POVbsOdNc",
+            "h2h_score": []
+        },
+        {
+            "team": "/sichuan-jiuniu-meizhou-hakka/LdLbsGBmc",
+            "h2h_score": []
+        },
+        {
+            "team": "/zibo-cuju-shaanxi-changan-athletic/mAacsOAmc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 6,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/cs-cartagines-adr-jicaral-sercoba/UPcsECrc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 4,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/herediano-limon-fc/VPcsfpr",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 4
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/ld-alajuelense-guadalupe-fc/xGcsVIec",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 3
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/municipal-perez-zeledon-sporting-san-jose/BGcsgifc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/san-carlos-deportivo-saprissa/zGcsXPc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/santos-de-guapiles-municipal-grecia/YPcsCIec",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-slovan-liberec-fc-zbrojovka-brno/kUsuU",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/vysocina-jihlava-fk-viktoria-zizkov/lUsnXb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/kolding-if-hobro-ik/RCsmTi",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/naestved-bk-hik-hellerup/iBsvB",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/ismaily-aswan-sc/qXqsDFIb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 4,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-mokawloon-national-bank-of-egypt/pXqsBHgc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/ghazl-el-mahalla-al-masry/kwrsuqy",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/ktp-fc-haka/PUsfV",
+            "h2h_score": [
+                {
+                    "home": 5,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 6,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-honka-inter-turku/XUskV",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/ifk-mariehamn-kups/UUsibc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/atlantis-fc-mypa/TUsucc",
+            "h2h_score": []
+        },
+        {
+            "team": "/sv-meppen-1-fc-saarbrucken/ebbseqc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-santa-lucia-cotzumalguapa-deportivo-guastatoya/Yppbseptc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/racing-ch-real-hope-fa/CNUbsDNUb",
+            "h2h_score": []
+        },
+        {
+            "team": "/breidablik-kopavogur-keflavik-if/aNsbN",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 6
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/ia-akranes-fh-hafnarfjordur/UMsYM",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 4
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/stjarnan-gardabaer-vikingur-reykjavik/iNsmN",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/hk-kopavogur-valur-reykjavik/ZMswRc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/zob-ahan-gol-gohar-sirjan/DLpsAkkc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/aluminium-arak-padideh-khorasan-fc/Hpqbsuuic",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/foolad-khuzestan-nassaji-mazandaran/dzwsRMic",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/tractor-sanat-naft-abadan/bzwspzw",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/esteghlal-tehran-persepolis/oLnsqLn",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/finn-harps-dundalk/EnbsGnb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/shakhter-karagandy-fc-turan/khcsIyBc",
+            "h2h_score": []
+        },
+        {
+            "team": "/kairat-almaty-akzhayik-uralsk/xdcsFIo",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fk-aktobe-kaisar-kyzylorda/fhcsRxo",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/zhetysu-taldykorgan-astana/ohcsfyo",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/bfc-daugava-daugavpils-fc-noah-jurmala/YEqskpMc",
+            "h2h_score": []
+        },
+        {
+            "team": "/rigas-futbola-skola-fk-liepaja/tzCsLBib",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fk-ventspils-valmiera-fk/dhcsehc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/fk-zalgiris-fk-panevezys/VgcsnfCb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/fk-nevezis-kedainiai-fc-hegelmann-litauen-kaunas/lwosJEtb",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/fk-riteriai-dainava-alytus/LaCbshlzc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/as-police-as-olympique-de-missira/BewcsuwJc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/academico-viseu-ud-oliveirense/xkbsGLi",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-botosani-fc-academica-clinceni/OVjsYVj",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/chindia-targoviste-fc-viitorul-constanta/BYosCxx",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 4,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/tsc-backa-topola-fk-radnik-surdulica/CxUskrfc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 3
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fk-vojvodina-fk-spartak-subotica/adcsrOo",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fk-crvena-zvezda-ofk-backa/ZccsYLqb",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 3
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/vaxjo-dff-rosengard/LMsPBHb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/fc-stade-lausanne-ouchy-fc-wil-1900/fZsmdo",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-thun-fc-aarau/XYseZ",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/neuchatel-xamax-grasshopper-club-zurich/ZYsbZ",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 4
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 4,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/sc-kriens-winterthur/iZsoZ",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/fc-chiasso-schaffhausen/lZsVZ",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 5,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/mtibwa-sugar-mwadui-fc/cYJbshYJb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-kinostudio-kf-drini-2004/gGbdshGbd",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 5
+                }
+            ]
+        },
+        {
+            "team": "/af-luftetari-kf-spartaku-tirane/hyadsJGbd",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/kf-murlani-kf-osumi/iGbdsIGbd",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/godoy-cruz-reserve-boca-juniors-reserve/iXUbsbpWb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/estudiantes-de-la-plata-reserve-newells-old-boys-reserve/erUbsirUb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/river-plate-reserve-ca-independiente-reserve/XKUbsdLUb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/winner-of-po-indbanmdvnepsribhu-atk-mohun-bagan-fc/JqYcsDBcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/maziya-sports-and-recreation-club-bashundhara-kings/DKfcsExZc",
+            "h2h_score": []
+        },
+        {
+            "team": "/manly-united-fc-mt-druitt-town-rangers-fc/iULskmoc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 4,
+                    "away": 6
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/moreton-bay-united-jets-the-gap-fc/vxccsDGkc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 8,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 3
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/adelaide-university-fulham-united/vtncsnBoc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/adelaide-comets-fc-adelaide-city/utncsqEyc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 8
+                },
+                {
+                    "home": 5,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/salisbury-inter-metro-united/rtncsoBoc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/port-melbourne-sharks-green-gully-cavaliers/AiMsKiM",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/bentleigh-greens-melbourne-knights-fc/KibswiM",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/toowong-brisbane-knights/KlbcsLGbc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 6
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/fv-emerging-calder-united-sc/wddcsHtMc",
+            "h2h_score": []
+        },
+        {
+            "team": "/kingscliff-broadbeach-united/ilbcsONnc",
+            "h2h_score": []
+        },
+        {
+            "team": "/brisbane-athletic-fc-pine-hills/ZxZbsKlmc",
+            "h2h_score": []
+        },
+        {
+            "team": "/toowong-reserves-brisbane-knights-reserve/iWccsAkdc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/western-pride-ipswich-knights/NxLsLNL",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/broadbeach-united-reserve-kingscliff-reserves/CmdcsrVoc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/pascoe-vale-langwarrin-sc/IiMsbjgc",
+            "h2h_score": []
+        },
+        {
+            "team": "/beaumaris-sc-eltham-redbacks-fc/JdecsMRcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/fremantle-city-fc-northern-redbacks/WvucsyeAc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/virginia-united-grange-thistle/FFXbsPZkc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 5
+                }
+            ]
+        },
+        {
+            "team": "/maroochydore-swans-fc-caloundra-fc/PXUcsNpVc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 5,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/melbourne-knights-fc-bentleigh-greens-sc-u21/zgbdsoCbd",
+            "h2h_score": []
+        },
+        {
+            "team": "/preston-lions-fc-western-united-fc/EVbdsRLcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/western-united-fc-reserves-preston-lions-fc/UVecsaCcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/beaumaris-sc-eltham-redbacks-fc/JdecsQYrc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/brandon-park-sc-doncaster-rovers-sc/LCobsgmqc",
+            "h2h_score": []
+        },
+        {
+            "team": "/rapid-wien-ii-bruckleitha/RQsBfrb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 4,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/sv-mattersburg-ii-fc-marchfeld-donauauen/NfdswHqc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 4,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/rukh-brest-fc-reserve-bate-borisov-reserve/qddcsWxMc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 3
+                },
+                {
+                    "home": 1,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/shakhter-soligorsk-reserve-neman-grodno-reserve/pddcsNVec",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 5
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 5,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/energetik-bgu-minsk-reserve-vitebsk-reserve/DndcsmvAc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 5,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/torpedo-belaz-zhodino-reserve-isloch-reserve/xddcsQFec",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 4
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/sporting-charleroi-fc-femina-white-star-woluwe/RaucszOQc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/motithang-hss-womens-fc-sunrise-womens-fc/XRcdsYRcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/buducnost-banovici-rudar-kakanj/LecsbVo",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/real-brasilia-fc-palmeiras/RaAcsnfMc",
+            "h2h_score": []
+        },
+        {
+            "team": "/flamengo-santos/ixObsxzZb",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 6,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/sao-jose-ec-corinthians/HnObsKnOb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 4
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fluminense-pi-flamengo-pi/gOsrgad",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/aquidauanense-fc-uniao-abc/PjBsakyc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/dourados-ac-ms-costa-rica-ec/bkycsRIad",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/operario-ms-comercial-ms/ePsOQYb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/palmeira-abc-fc/NLisuWxc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 8,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/sao-raimundo-nautico/DfLsJUhb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/strumska-slava-pirin-blagoevgrad/VecsKnI",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/changchun-dazhong-zhiye-shanghai-rcb/YbhcseRoc",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 5,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/henan-songshan-longmen-zhejiang-hangzhou/jnRcslnRc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/wuhan-chedu-jhun-beijing-bg-development/DchcsfRoc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 4
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/guangdong-meizhou-wuhua-jiangsu-suning/VbhcsmnRc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 4
+                },
+                {
+                    "home": 0,
+                    "away": 5
+                },
+                {
+                    "home": 6,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/sichuan-wfc-shandong-sports-lottery/inRcsxJcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/nk-slaven-belupo-u19-hnk-rijeka-u19/JCEbsirZb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/nk-rat-kuna-peljeska-nk-na-libertas-dubrovnik/OLXcsPLXc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/as-simba-fc-saint-eloi-lupopo/TBYcsoIYc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/club-atletico-porteno-independiente-juniors/IIwcsnlzc",
+            "h2h_score": []
+        },
+        {
+            "team": "/independiente-del-valle-club-nanas/UKHcsJPcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/bristol-city-u23-birmingham-city-u23/eYFbsGOUb",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/tallinna-jk-legion-u21-jk-tallinna-kalev-u21/njObsRNad",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/fc-jazz-ilves-kissat/ZvjsVho",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/vg-62-aifk-turku/LVsZXi",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/st-josephs-fc-lincoln-red-imps/eBabsmBab",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 4,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/triomphe-ac-juventus-des-cayes/rjccsQRzc",
+            "h2h_score": []
+        },
+        {
+            "team": "/real-hopea-racing-ch/DNUbscRcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/ibv-fram-reykjavik/TMsVM",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 4,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/haukar-grindavik/zkusAku",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/gol-reyhan-alborz-baadraan-tehran/bORbsHzUb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/shahrdari-astara-khosheh-talaei/eUgcsYuYc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fajr-sepasi-fc-qashqai-shiraz/rzwsZDfc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/rayka-babol-fc-esteghlal-khuzestan/yQTsOHFc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/malavan-bandar-anzali-fc-shahin-bushehr-fc/fzwsjzw",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/arman-gohar-sirjan-kheybar-khorramabad-fc/xLjcsOPxc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/havadar-tehran-pars-jonoubi-jam/gGecspYrc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/esteghlal-molasani-navad-urmia-fc/lTtcsKTKc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/hapoel-akko-maccabi-ahi-nazareth/FXcsBPn",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/hapoel-petach-tikva-hapoel-afula/ZdcswPp",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/hapoel-um-el-fahem-ms-kfar-qasem/gBJsVZJb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/beitar-kfar-saba-shlomi-beitar-petah-tikva/tPpsxRhc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/torino-u19-roma-u19/GersXHA",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/crotone-u19-cosenza-u19/yGGsrBkc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/napoli-u19-lecce-u19/pZqsBBoc",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-wihdat-al-salt/anqsJkac",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/al-baqaa-al-aqaba/IQwsAMac",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 3,
+                    "away": 3
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/al-jazeera-jordan-al-faisaly/HZtsMQw",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/kariobangi-sharks-kakamega-homeboyz/exKbsHvYb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/al-sahel-al-arabi-kuwait/Rrosrdx",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/al-kuwait-al-nasr-kuwait/btjsAan",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/kazma-sc-al-qadsia/Fujsenq",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/al-salmiya-khaitan-sc/hdxsldx",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 4
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/al-shabab-kuwait-al-fehaheel/jdxsudx",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/fk-silas-banga-gargzdai/JjEsZTOc",
+            "h2h_score": []
+        },
+        {
+            "team": "/fk-suduva-marijampole-bfa-vilnius/nbAcsgtPc",
+            "h2h_score": []
+        },
+        {
+            "team": "/fk-jonava-atmosfera-mazeikiai/pwosDLbc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 4,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/ajesaia-five-fc/BJZcsNUad",
+            "h2h_score": []
+        },
+        {
+            "team": "/cosfa-as-adema-madagasca/hVZcsqqad",
+            "h2h_score": []
+        },
+        {
+            "team": "/be-forward-wanderers-civil-sporting/cxpcsfIxc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/tn-stars-nyasa-big-bullets/MyBbsrJpc",
+            "h2h_score": []
+        },
+        {
+            "team": "/red-lions-tn-stars/rJpcscAMc",
+            "h2h_score": []
+        },
+        {
+            "team": "/union-arafat-entente-sebkha/fpKcsFMbd",
+            "h2h_score": []
+        },
+        {
+            "team": "/fk-decic-tuzi-fk-podgorica/BzcsAFHb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/fk-buducnost-podgorica-fk-iskra-danilovgrad/Tccsijp",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/ofk-petrovac-fk-jezero/qzcsmLj",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/fk-sutjeska-niksic-fk-rudar-pljevlja/yzcszzc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 4
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fk-zeta-golubovci-ofk-titograd-podgorica/wzcsAzc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fc-twente-vrouwen-ajax/lkxskpwb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 3
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 3,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/ado-den-haag-psv-eindhoven/lIGsmpwb",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/excelsiorbarendrecht-pec-zwolle-vrouwen/gpwbsMKfc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/vv-alkmaar-sc-heerenveen/ipwbsNKfc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 4,
+                    "away": 3
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/manukau-united-fc-western-springs-afc/NvcdsOOcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/real-esteli-managua-fc/dhkswhTb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/hyh-export-sebaco-fc-fc-gutierrez/NZAcsmkZc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/oyah-sports-fc-efcc-fc/ihbdsmGbd",
+            "h2h_score": []
+        },
+        {
+            "team": "/bayelsa-united-fc-joy-cometh/uXqsgebd",
+            "h2h_score": []
+        },
+        {
+            "team": "/pelikan-lowicz-bron-radom/ridsyVpc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/kotwica-kolobrzeg-nielba-wagrowiec/LiksLMo",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 1
+                },
+                {
+                    "home": 4,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/fakel-m-voronezh-khimki-m/rkncsetoc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/wfk-rostov-wfc-zenit-saint-petersburg/bCQcslhbd",
+            "h2h_score": []
+        },
+        {
+            "team": "/wfc-yenisey-krasnoyarsk-wfc-krasnodar/FrNbsfHac",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/wfc-chertanovo-moskva-ryazan-vdv/vxtbsUtNb",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/fc-altai-barnaul-sibir-m-novosibirsk/OhgcsNFCc",
+            "h2h_score": []
+        },
+        {
+            "team": "/af-ponedelnika-vodopadny-fc-novoshakhtinsk/kzhcsetPc",
+            "h2h_score": []
+        },
+        {
+            "team": "/fk-avangard-tsarskoye-selo/EaccsTNMc",
+            "h2h_score": []
+        },
+        {
+            "team": "/gidroer-kronshtadt-pobeda/qABcsCgKc",
+            "h2h_score": []
+        },
+        {
+            "team": "/baltavto-neva-legirus/DlpcsKyBc",
+            "h2h_score": []
+        },
+        {
+            "team": "/fk-orel-dinamo-m-bryansk/DOvseqcd",
+            "h2h_score": []
+        },
+        {
+            "team": "/fc-lokomotiv-st-petersburg-almaz-antey-u21/BiycsBJAc",
+            "h2h_score": []
+        },
+        {
+            "team": "/sh-n2-vo-zvezda-u19-gorod-viborzhanin-u21/UgccslnOc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 2
+                },
+                {
+                    "home": 1,
+                    "away": 6
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/admiralteets-u21-izhorets-inkon/tkOcsVLUc",
+            "h2h_score": []
+        },
+        {
+            "team": "/iskra-kolomyagi-sh-357-u21/XqRcsMocd",
+            "h2h_score": []
+        },
+        {
+            "team": "/tsarskoye-selo-u21-fk-krylia/WLUcsrZbd",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/zvezda-sankt-peterburg-u21-sdyushor-zenit-st-petersburg-u21/zAbcsHaMc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/samson-st-petersburg-vladimirskiy-express-u21/XLUcsPcVc",
+            "h2h_score": [
+                {
+                    "home": 4,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 4
+                }
+            ]
+        },
+        {
+            "team": "/inter-lesgafta-neva/FBOcsrYbd",
+            "h2h_score": []
+        },
+        {
+            "team": "/as-muhanga-apr-fc/OyBbsyPvc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 3
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/gorilla-fc-bugesera-fc/RmhcsbhLc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/kiyovu-sports-rayon-sports-fc/xKdbsPmhc",
+            "h2h_score": [
+                {
+                    "home": 3,
+                    "away": 2
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/rutsiro-fc-gasogi-united/EzCcsDhLc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/ofk-zarkovo-fk-trayal-krusevac/zkQbsqORb",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/fk-tek-sloga-veliki-crljeni-fk-bsk-1925/IgccsWDyc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/utsiktens-bk-lindome-gif/ZtcsLad",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/regar-tadaz-fc-mohir/YBJsXByc",
+            "h2h_score": []
+        },
+        {
+            "team": "/gwambina-fc-jkt-tanzania/fwtcsLpUc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/myda-fc-busoga-united-fc/PfGcsOcIc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/wfc-nika-mykolaiv-wfc-pantery-uman/CebcsgkVc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/wfc-voskhod-stara-maiachka-wfc-zhytlobud-2-kharkiv/tWccscDnc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 5
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 1
+                }
+            ]
+        },
+        {
+            "team": "/fc-agmk-fc-bunyodkor/Gujstfq",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 3
+                },
+                {
+                    "home": 2,
+                    "away": 0
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 4,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/fc-olimpik-orol-nukus/XCocsCubd",
+            "h2h_score": []
+        },
+        {
+            "team": "/pfc-sevinch-qarshi-bunyodkor-tashkent/wxpcsedtc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 4,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/fk-agmk-navbahor/eepcsAbDc",
+            "h2h_score": []
+        },
+        {
+            "team": "/fk-buxoro-metallurg/vYrcsybDc",
+            "h2h_score": [
+                {
+                    "home": 6,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/pakhtakor-tashkent-sogdiana/hepcsKxpc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 2,
+                    "away": 3
+                }
+            ]
+        },
+        {
+            "team": "/qizilqum-zarafshon-lokomotiv/fepcsqPpc",
+            "h2h_score": [
+                {
+                    "home": 0,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                }
+            ]
+        },
+        {
+            "team": "/trujillanos-fc-portuguesa-fc/JzcsKzc",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 0
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 3
+                },
+                {
+                    "home": 1,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/carabobo-yaracuyanos-fc/EzcsKDo",
+            "h2h_score": [
+                {
+                    "home": 1,
+                    "away": 1
+                },
+                {
+                    "home": 0,
+                    "away": 2
+                },
+                {
+                    "home": 3,
+                    "away": 0
+                }
+            ]
+        },
+        {
+            "team": "/long-an-phu-dong-ha-noi/xmnshlbc",
+            "h2h_score": [
+                {
+                    "home": 2,
+                    "away": 1
+                },
+                {
+                    "home": 1,
+                    "away": 1
+                }
+            ]
+        }
+    ]
+}
